@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Benjamin Parry ~ @benjaminparry (config - title)]]></title>
-  <link href="http://benjaminparry.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Octopress | Benjamin Parry ~ @benjaminparry (config - title)]]></title>
+  <link href="http://benjaminparry.github.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://benjaminparry.github.com/"/>
   <updated>2012-07-30T14:27:21+01:00</updated>
   <id>http://benjaminparry.github.com/</id>
@@ -14,20 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Twitter username test ~ @benjaminparry (post - title)]]></title>
-    <link href="http://benjaminparry.github.com/blog/2012/07/30/twitter-username-test/"/>
-    <updated>2012-07-30T18:39:00+01:00</updated>
-    <id>http://benjaminparry.github.com/blog/2012/07/30/twitter-username-test</id>
-    <content type="html"><![CDATA[<p>Testing @ username</p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Hello Octoworld]]></title>
     <link href="http://benjaminparry.github.com/blog/2012/07/26/title/"/>
     <updated>2012-07-26T10:45:00+01:00</updated>
     <id>http://benjaminparry.github.com/blog/2012/07/26/title</id>
-    <content type="html"><![CDATA[<p>I&#8217;ve finally got my act together and setup an Octopress blog.</p>
+    <content type="html"><![CDATA[<p>I've finally got my act together and setup an Octopress blog.</p>
 ]]></content>
   </entry>
   
