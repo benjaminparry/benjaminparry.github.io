@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: blogging | Benjamin Parry ~ @benjaminparry (config - title)]]></title>
+  <title><![CDATA[Category: blogging | Benjamin Parry]]></title>
   <link href="http://benjaminparry.github.com/blog/categories/blogging/atom.xml" rel="self"/>
   <link href="http://benjaminparry.github.com/"/>
-  <updated>2012-07-30T14:27:21+01:00</updated>
+  <updated>2012-07-31T22:35:20+01:00</updated>
   <id>http://benjaminparry.github.com/</id>
   <author>
-    <name><![CDATA[Benjamin Parry ~ @benjaminparry (config - author)]]></name>
+    <name><![CDATA[Benjamin Parry ~ @benjaminparry]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
