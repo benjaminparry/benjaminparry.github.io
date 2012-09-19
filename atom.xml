@@ -4,7 +4,7 @@
   <title><![CDATA[Benjamin Parry]]></title>
   <link href="http://benjaminparry.github.com/atom.xml" rel="self"/>
   <link href="http://benjaminparry.github.com/"/>
-  <updated>2012-08-10T22:08:40+01:00</updated>
+  <updated>2012-09-19T20:16:37+01:00</updated>
   <id>http://benjaminparry.github.com/</id>
   <author>
     <name><![CDATA[Benjamin Parry]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[another instapaper test]]></title>
+    <link href="http://benjaminparry.github.com/blog/2012/09/19/lets-crack-this/"/>
+    <updated>2012-09-19T22:07:00+01:00</updated>
+    <id>http://benjaminparry.github.com/blog/2012/09/19/lets-crack-this</id>
+    <content type="html"><![CDATA[<p>Cracked yet?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[another instapaper test]]></title>
