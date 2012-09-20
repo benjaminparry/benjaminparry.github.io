@@ -4,7 +4,7 @@
   <title><![CDATA[Benjamin Parry]]></title>
   <link href="http://benjaminparry.github.com/atom.xml" rel="self"/>
   <link href="http://benjaminparry.github.com/"/>
-  <updated>2012-09-20T21:45:29+01:00</updated>
+  <updated>2012-09-20T22:13:58+01:00</updated>
   <id>http://benjaminparry.github.com/</id>
   <author>
     <name><![CDATA[Benjamin Parry @benjaminparry]]></name>
@@ -12,17 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[instapaper text parsing reloaded]]></title>
-    <link href="http://benjaminparry.github.com/blog/2012/09/20/did-i-do-it/"/>
-    <updated>2012-09-20T21:16:00+01:00</updated>
-    <id>http://benjaminparry.github.com/blog/2012/09/20/did-i-do-it</id>
-    <content type="html"><![CDATA[<p>Why I think I&#8217;ve done it!!!</p>
-
-<p>Did I?…</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello Octoworld]]></title>
