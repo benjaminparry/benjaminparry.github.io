@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Benjamin Parry]]></title>
-  <link href="http://benjaminparry.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: &#35;instapaper | Benjamin Parry]]></title>
+  <link href="http://benjaminparry.github.com/blog/categories/-35-instapaper/atom.xml" rel="self"/>
   <link href="http://benjaminparry.github.com/"/>
   <updated>2012-09-20T21:45:29+01:00</updated>
   <id>http://benjaminparry.github.com/</id>
@@ -18,18 +18,9 @@
     <link href="http://benjaminparry.github.com/blog/2012/09/20/did-i-do-it/"/>
     <updated>2012-09-20T21:16:00+01:00</updated>
     <id>http://benjaminparry.github.com/blog/2012/09/20/did-i-do-it</id>
-    <content type="html"><![CDATA[<p>Why I think I&#8217;ve done it!!!</p>
+    <content type="html"><![CDATA[<p>Why I think I've done it!!!</p>
 
 <p>Did I?…</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello Octoworld]]></title>
-    <link href="http://benjaminparry.github.com/blog/2012/07/26/title/"/>
-    <updated>2012-07-26T10:45:00+01:00</updated>
-    <id>http://benjaminparry.github.com/blog/2012/07/26/title</id>
-    <content type="html"><![CDATA[<p>I&#8217;ve finally got my act together and setup an Octopress blog.</p>
 ]]></content>
   </entry>
   
