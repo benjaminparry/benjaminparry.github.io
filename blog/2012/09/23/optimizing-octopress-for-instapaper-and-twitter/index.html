@@ -144,17 +144,29 @@
 
 <p>I tried a few different combinations of this before adding a site author in _config.yml</p>
 
-<p>Liquid error: UnicodeDecodeError: &#8216;rawunicodeescape&#8217; codec can&#8217;t decode bytes in position 12-22: \Uxxxxxxxx out of range</p>
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>author: Benjamin Parry @benjaminparry</span></code></pre></td></tr></table></div></figure>
+
 
 <h3>Add content related hashtags per post</h3>
 
 <p>I was already using categories so I now precede each entry with an escaped &#35; - <em>GOTCHA ~ this generates without spaces so looks slightly odd in the published url and title and auto generated Tweeted (although still works as separate hashtags and saves a few precious characters in the latter, so actually a bonus!)</em></p>
 
-<p>Liquid error: ClassNotFound: no lexer for alias &#8216;markdown&#8217; found</p>
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>categories: 
+</span><span class='line'>- &amp;#35;Octopress
+</span><span class='line'>- &amp;#35;Instapaper
+</span><span class='line'>- &amp;#35;Twitter</span></code></pre></td></tr></table></div></figure>
+
 
 <h3>Put it all together in the page title</h3>
 
-<p>Liquid error: UnicodeDecodeError: &#8216;rawunicodeescape&#8217; codec can&#8217;t decode bytes in position 12-22: \Uxxxxxxxx out of range</p>
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>&lt;title&gt;&#123;&#37; if page.title &#37;&#125;&#123;&#123; page.title &#125;&#125; by &#123;&#37; endif &#37;&#125;&#123;&#123; site.author &#125;&#125; &#123;&#123; page.categories &#125;&#125;&lt;/title&gt;</span></code></pre></td></tr></table></div></figure>
+
 
 <h3>What it looks like in a Tweet</h3>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: &#35;Instapaper | Benjamin Parry]]></title>
   <link href="http://benjaminparry.github.com/blog/categories/-35-instapaper/atom.xml" rel="self"/>
   <link href="http://benjaminparry.github.com/"/>
-  <updated>2012-09-23T21:31:06+01:00</updated>
+  <updated>2012-09-23T22:16:08+01:00</updated>
   <id>http://benjaminparry.github.com/</id>
   <author>
     <name><![CDATA[Benjamin Parry @benjaminparry]]></name>
@@ -60,17 +60,26 @@
 
 <p>I tried a few different combinations of this before adding a site author in _config.yml</p>
 
-<p>Liquid error: UnicodeDecodeError: 'rawunicodeescape' codec can't decode bytes in position 12-22: \Uxxxxxxxx out of range</p>
+<p><code>
+author: Benjamin Parry @benjaminparry
+</code></p>
 
 <h3>Add content related hashtags per post</h3>
 
 <p>I was already using categories so I now precede each entry with an escaped &#35; - <em>GOTCHA ~ this generates without spaces so looks slightly odd in the published url and title and auto generated Tweeted (although still works as separate hashtags and saves a few precious characters in the latter, so actually a bonus!)</em></p>
 
-<h2>Liquid error: ClassNotFound: no lexer for alias 'markdown' found</p>
+<p><code>
+categories:
+- &amp;amp;#35;Octopress
+- &amp;amp;#35;Instapaper
+- &amp;amp;#35;Twitter
+</code></p>
 
 <h3>Put it all together in the page title</h3>
 
-<p>Liquid error: UnicodeDecodeError: 'rawunicodeescape' codec can't decode bytes in position 12-22: \Uxxxxxxxx out of range</p>
+<p><code>
+&amp;lt;title&amp;gt;&amp;#123;&amp;#37; if page.title &amp;#37;&amp;#125;&amp;#123;&amp;#123; page.title &amp;#125;&amp;#125; by &amp;#123;&amp;#37; endif &amp;#37;&amp;#125;&amp;#123;&amp;#123; site.author &amp;#125;&amp;#125; &amp;#123;&amp;#123; page.categories &amp;#125;&amp;#125;&amp;lt;/title&amp;gt;
+</code></p>
 
 <h3>What it looks like in a Tweet</h3>
 
