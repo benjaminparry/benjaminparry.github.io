@@ -4,7 +4,7 @@
   <title><![CDATA[Category: &#35;Octopress | Benjamin Parry]]></title>
   <link href="http://benjaminparry.github.com/blog/categories/-35-octopress/atom.xml" rel="self"/>
   <link href="http://benjaminparry.github.com/"/>
-  <updated>2012-09-23T22:16:08+01:00</updated>
+  <updated>2012-09-24T22:11:39+01:00</updated>
   <id>http://benjaminparry.github.com/</id>
   <author>
     <name><![CDATA[Benjamin Parry @benjaminparry]]></name>
@@ -66,7 +66,9 @@ author: Benjamin Parry @benjaminparry
 
 <h3>Add content related hashtags per post</h3>
 
-<p>I was already using categories so I now precede each entry with an escaped &#35; - <em>GOTCHA ~ this generates without spaces so looks slightly odd in the published url and title and auto generated Tweeted (although still works as separate hashtags and saves a few precious characters in the latter, so actually a bonus!)</em></p>
+<p>I was already using categories so I now precede each entry with an escaped &#35;</p>
+
+<p><em>GOTCHA ~ this generates without spaces so looks slightly odd in the published url, title and auto generated Tweet (although still works as separate hashtags and saves a few precious characters in the latter, so actually a bonus!)</em></p>
 
 <p><code>
 categories:

@@ -8,11 +8,17 @@
         <loc>
             http://benjaminparry.github.com/blog/2012/09/23/optimizing-octopress-for-instapaper-and-twitter/
         </loc>
-        <lastmod>2012-09-23T22:15:51+01:00</lastmod>
+        <lastmod>2012-09-23T22:24:57+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://benjaminparry.github.com/blog/2012/09/24/starcatching-supernova-bookmarking/
+        </loc>
+        <lastmod>2012-09-24T22:11:12+01:00</lastmod>
     </url>
     <url>
         <loc>http://benjaminparry.github.com/blog/archives/</loc>
-        <lastmod>2012-09-23T22:15:51+01:00</lastmod>
+        <lastmod>2012-09-24T22:11:12+01:00</lastmod>
     </url>
     <url>
         <loc>http://benjaminparry.github.com/downloads/code/read-later-categories.html</loc>
@@ -20,6 +26,6 @@
     </url>
     <url>
         <loc>http://benjaminparry.github.com/</loc>
-        <lastmod>2012-09-23T22:15:51+01:00</lastmod>
+        <lastmod>2012-09-24T22:11:12+01:00</lastmod>
     </url>
 </urlset>
