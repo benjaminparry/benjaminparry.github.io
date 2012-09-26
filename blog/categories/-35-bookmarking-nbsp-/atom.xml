@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: &#35;bookmarking | Benjamin Parry]]></title>
-  <link href="http://benjaminparry.github.com/blog/categories/-35-bookmarking/atom.xml" rel="self"/>
+  <title><![CDATA[Category: &#35;bookmarking&nbsp; | Benjamin Parry]]></title>
+  <link href="http://benjaminparry.github.com/blog/categories/-35-bookmarking-nbsp-/atom.xml" rel="self"/>
   <link href="http://benjaminparry.github.com/"/>
-  <updated>2012-09-24T22:11:39+01:00</updated>
+  <updated>2012-09-26T22:24:41+01:00</updated>
   <id>http://benjaminparry.github.com/</id>
   <author>
-    <name><![CDATA[Benjamin Parry @benjaminparry]]></name>
+    <name><![CDATA[Benjamin Parry]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[Starcatching: Supernova bookmarking]]></title>
+    <title type="html"><![CDATA[Starcatching Supernova bookmarking]]></title>
     <link href="http://benjaminparry.github.com/blog/2012/09/24/starcatching-supernova-bookmarking/"/>
     <updated>2012-09-24T19:41:00+01:00</updated>
     <id>http://benjaminparry.github.com/blog/2012/09/24/starcatching-supernova-bookmarking</id>
@@ -24,7 +24,7 @@
 
 <p>Frank Chimero’s excellent talk <a href="http://2011.dconstruct.org/conference/frank-chimero" title="Frank Chimero’s Oh God, It’s Full of Stars audio from dConstruct 2011">Oh God, It’s Full of Stars</a> is a fascinating inward look at why we bookmark and what we do that data afterward. Ever since listening to it I've been concerned with mastering an automated workflow that adds as much useful sorting/retrieval data to those bookmarks, and, if possible, does something with it meaningful with it too.</p>
 
-<h2>Case Study: Twitter</h2>
+<h2>Case study: Twitter</h2>
 
 <p>I favorite a hell of a lot of Tweets. Twitter don't provide a decent enough solution to filter them, something only <a href="http://faavorite.com/" title="Twitter favorite managing app">faavorite.com</a> does well. Pinboard has a baked-in Twitter sync that pulls in links from your favorite Tweets. Initially I enabled it but thought there was more data that could be squeezed into the bookmark.</p>
 

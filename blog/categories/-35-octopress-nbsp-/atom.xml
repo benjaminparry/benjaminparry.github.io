@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: &#35;Octopress | Benjamin Parry]]></title>
-  <link href="http://benjaminparry.github.com/blog/categories/-35-octopress/atom.xml" rel="self"/>
+  <title><![CDATA[Category: &#35;Octopress&nbsp; | Benjamin Parry]]></title>
+  <link href="http://benjaminparry.github.com/blog/categories/-35-octopress-nbsp-/atom.xml" rel="self"/>
   <link href="http://benjaminparry.github.com/"/>
-  <updated>2012-09-24T22:11:39+01:00</updated>
+  <updated>2012-09-26T22:24:41+01:00</updated>
   <id>http://benjaminparry.github.com/</id>
   <author>
-    <name><![CDATA[Benjamin Parry @benjaminparry]]></name>
+    <name><![CDATA[Benjamin Parry]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -66,21 +66,21 @@ author: Benjamin Parry @benjaminparry
 
 <h3>Add content related hashtags per post</h3>
 
-<p>I was already using categories so I now precede each entry with an escaped &#35;</p>
+<p>I was already using categories so I now precede each entry with an escaped #</p>
 
-<p><em>GOTCHA ~ this generates without spaces so looks slightly odd in the published url, title and auto generated Tweet (although still works as separate hashtags and saves a few precious characters in the latter, so actually a bonus!)</em></p>
+<p><em>GOTCHA ~ this generates without spaces so looks slightly odd in the published urls</em></p>
 
 <p><code>
 categories:
-- &amp;amp;#35;Octopress
-- &amp;amp;#35;Instapaper
-- &amp;amp;#35;Twitter
+- &amp;#35;Octopress&amp;nbsp;
+- &amp;#35;Instapaper&amp;nbsp;
+- &amp;#35;Twitter&amp;nbsp;
 </code></p>
 
 <h3>Put it all together in the page title</h3>
 
 <p><code>
-&amp;lt;title&amp;gt;&amp;#123;&amp;#37; if page.title &amp;#37;&amp;#125;&amp;#123;&amp;#123; page.title &amp;#125;&amp;#125; by &amp;#123;&amp;#37; endif &amp;#37;&amp;#125;&amp;#123;&amp;#123; site.author &amp;#125;&amp;#125; &amp;#123;&amp;#123; page.categories &amp;#125;&amp;#125;&amp;lt;/title&amp;gt;
+&amp;#123;&amp;#37; if page.title &amp;#37;&amp;#125;&amp;#123;&amp;#123; page.title &amp;#125;&amp;#125; ~ &amp;#123;&amp;#37; endif &amp;#37;&amp;#125;&amp;#123;&amp;#37; if page.author &amp;#37;&amp;#125;&amp;#123;&amp;#123; page.author &amp;#125;&amp;#125;&amp;#123;&amp;#37; endif &amp;#37;&amp;#125; &amp;#123;&amp;#37; if page.categories &amp;#37;&amp;#125;&amp;#123;&amp;#123; page.categories &amp;#125;&amp;#125;&amp;#123;&amp;#37; else &amp;#37;&amp;#125;&amp;#123;&amp;#123; site.description &amp;#125;&amp;#125;&amp;#123;&amp;#37; endif &amp;#37;&amp;#125;
 </code></p>
 
 <h3>What it looks like in a Tweet</h3>
@@ -90,15 +90,6 @@ categories:
 <h2>Happy, Not Happy</h2>
 
 <p>The moment I finally got this together and tested I got the email from IFTTT informing of the closure of some of the Twitter related recipe services. Luckily this recipe is safe as posting content <strong>to</strong> Twitter is allowed but posting <strong>Twitter's</strong> content to another service is not. A lucky escape, for now, although it does break some of my custom workflow that I will need to re-think.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello Octoworld]]></title>
-    <link href="http://benjaminparry.github.com/blog/2012/07/26/title/"/>
-    <updated>2012-07-26T10:45:00+01:00</updated>
-    <id>http://benjaminparry.github.com/blog/2012/07/26/title</id>
-    <content type="html"><![CDATA[<p>I've finally got my act together and setup an Octopress blog.</p>
 ]]></content>
   </entry>
   

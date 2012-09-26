@@ -5,8 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Benjamin Parry @benjaminparry </title>
-  <meta name="author" content="Benjamin Parry @benjaminparry">
+  <!-- <title></title> -->
+  
+  <title> Personal writings of Benjamin Parry @benjaminparry</title>
+  
+  <meta name="author" content="Benjamin Parry">
 
   
   <meta name="description" content="This is part of a talk I will be giving at BarCampBrighton 7 My attempt at the perfect read-later workflow I was one of the Delicious refugees of &hellip;">
@@ -82,7 +85,7 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2012/09/24/starcatching-supernova-bookmarking/">Starcatching: Supernova Bookmarking</a></h1>
+      <h1 class="entry-title"><a href="/blog/2012/09/24/starcatching-supernova-bookmarking/">Starcatching Supernova Bookmarking</a></h1>
     
     
       <p class="meta">
@@ -111,7 +114,7 @@
 
 <p>Frank Chimero’s excellent talk <a href="http://2011.dconstruct.org/conference/frank-chimero" title="Frank Chimero’s Oh God, It’s Full of Stars audio from dConstruct 2011">Oh God, It’s Full of Stars</a> is a fascinating inward look at why we bookmark and what we do that data afterward. Ever since listening to it I&#8217;ve been concerned with mastering an automated workflow that adds as much useful sorting/retrieval data to those bookmarks, and, if possible, does something with it meaningful with it too.</p>
 
-<h2>Case Study: Twitter</h2>
+<h2>Case study: Twitter</h2>
 
 <p>I favorite a hell of a lot of Tweets. Twitter don&#8217;t provide a decent enough solution to filter them, something only <a href="http://faavorite.com/" title="Twitter favorite managing app">faavorite.com</a> does well. Pinboard has a baked-in Twitter sync that pulls in links from your favorite Tweets. Initially I enabled it but thought there was more data that could be squeezed into the bookmark.</p>
 
@@ -247,24 +250,24 @@
 
 <h3>Add content related hashtags per post</h3>
 
-<p>I was already using categories so I now precede each entry with an escaped &#35;</p>
+<p>I was already using categories so I now precede each entry with an escaped #</p>
 
-<p><em>GOTCHA ~ this generates without spaces so looks slightly odd in the published url, title and auto generated Tweet (although still works as separate hashtags and saves a few precious characters in the latter, so actually a bonus!)</em></p>
+<p><em>GOTCHA ~ this generates without spaces so looks slightly odd in the published urls</em></p>
 
 <figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 <span class='line-number'>3</span>
 <span class='line-number'>4</span>
 </pre></td><td class='code'><pre><code class=''><span class='line'>categories: 
-</span><span class='line'>- &amp;#35;Octopress
-</span><span class='line'>- &amp;#35;Instapaper
-</span><span class='line'>- &amp;#35;Twitter</span></code></pre></td></tr></table></div></figure>
+</span><span class='line'>- &#35;Octopress&nbsp;
+</span><span class='line'>- &#35;Instapaper&nbsp;
+</span><span class='line'>- &#35;Twitter&nbsp;</span></code></pre></td></tr></table></div></figure>
 
 
 <h3>Put it all together in the page title</h3>
 
 <figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>&lt;title&gt;&#123;&#37; if page.title &#37;&#125;&#123;&#123; page.title &#125;&#125; by &#123;&#37; endif &#37;&#125;&#123;&#123; site.author &#125;&#125; &#123;&#123; page.categories &#125;&#125;&lt;/title&gt;</span></code></pre></td></tr></table></div></figure>
+</pre></td><td class='code'><pre><code class=''><span class='line'>&#123;&#37; if page.title &#37;&#125;&#123;&#123; page.title &#125;&#125; ~ &#123;&#37; endif &#37;&#125;&#123;&#37; if page.author &#37;&#125;&#123;&#123; page.author &#125;&#125;&#123;&#37; endif &#37;&#125; &#123;&#37; if page.categories &#37;&#125;&#123;&#123; page.categories &#125;&#125;&#123;&#37; else &#37;&#125;&#123;&#123; site.description &#125;&#125;&#123;&#37; endif &#37;&#125;</span></code></pre></td></tr></table></div></figure>
 
 
 <h3>What it looks like in a Tweet</h3>
@@ -330,7 +333,7 @@
   <ul id="recent_posts">
     
       <li class="post">
-        <a href="/blog/2012/09/24/starcatching-supernova-bookmarking/">Starcatching: Supernova bookmarking</a>
+        <a href="/blog/2012/09/24/starcatching-supernova-bookmarking/">Starcatching Supernova bookmarking</a>
       </li>
     
       <li class="post">
@@ -355,7 +358,7 @@
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2012 - Benjamin Parry @benjaminparry -
+  Copyright &copy; 2012 - Benjamin Parry -
   <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
 </p>
 
