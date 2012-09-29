@@ -4,7 +4,7 @@
   <title><![CDATA[Benjamin Parry]]></title>
   <link href="http://benjaminparry.github.com/atom.xml" rel="self"/>
   <link href="http://benjaminparry.github.com/"/>
-  <updated>2012-09-26T22:24:41+01:00</updated>
+  <updated>2012-09-29T10:00:52+01:00</updated>
   <id>http://benjaminparry.github.com/</id>
   <author>
     <name><![CDATA[Benjamin Parry]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Barcamp Brighton 7 Test Post]]></title>
+    <link href="http://benjaminparry.github.com/blog/2012/09/29/barcamp-brighton-7-test-post/"/>
+    <updated>2012-09-29T09:58:00+01:00</updated>
+    <id>http://benjaminparry.github.com/blog/2012/09/29/barcamp-brighton-7-test-post</id>
+    <content type="html"><![CDATA[<p>Ahoy hoy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Starcatching Supernova bookmarking]]></title>
