@@ -1,0 +1,31 @@
+---
+layout: layout
+title: ~ Personal Writings
+---
+<aside role="complementary">
+  <h1>Hi, I’m Benjamin Parry.</h1>
+  <p>I live and work in Brighton UK with my fiancé and son. I’m currently <a href="/working/">working</a> as a UX/UI designer and frontend developer for startup company <a href="https://vidivici.com">Vidivici</a>.</p>
+  <p>I built this website using Jekyll and hosting it and the source code on <a href="https://github.com/">Github</a>.</p>
+  <p>I’m also available at other websites:</p>
+  <ul>
+    <li><a href="https://twitter.com/benjaminparry" rel="me">Twitter</a></li>
+    <li><a href="https://github.com/benjaminparry" rel="me">Github</a></li>
+    <li><a href="http://dribbble.com/benjaminparry" rel="me">Dribbble</a></li>
+    <li><a href="http://www.flickr.com/people/benjaminparry/" rel="me">Flickr</a></li>
+    
+  </ul>
+</aside>
+<main role="main">
+  <div class="content">
+    <div class="related">
+      <h1>Web Log</h1>
+      <ul>
+        {% for post in site.posts %}
+        <li>
+  	<span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</main>
