@@ -1,8 +1,22 @@
----
-layout: layout
-title: ~ Personal Writings
----
-<aside role="complementary">
+<!DOCTYPE HTML>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="author" content="Your Name" />
+    <title>Benjamin Parry ~ Personal Writings</title>
+  </head>
+  <body>
+    <header role="banner">
+  <nav role="navigation">
+    <h1><a href="/">Benjamin Parry</a></h1>
+    <ul>
+      <li><a href="/working/">Working</a></li>
+    </ul>
+  </nav>
+</header>
+    <section>
+      <aside role="complementary">
   <h1>Hi, I’m Benjamin Parry.</h1>
   <p>I live and work in Brighton UK with my fiancé and son. I’m currently <a href="/working/">working</a> as a UX/UI designer and frontend developer for startup company <a href="https://vidivici.com">Vidivici</a>.</p>
   <p>I built this website using Jekyll and hosting it and the source code on <a href="https://github.com/">Github</a>.</p>
@@ -23,12 +37,18 @@ title: ~ Personal Writings
     <div class="related">
       <h1>Web Log</h1>
       <ul>
-        {% for post in site.posts %}
+        
         <li>
-  	<span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+  	<span>February 15, 2013</span> <a href="/2013/02/15/Ground-Zero">Ground Zero</a>
         </li>
-        {% endfor %}
+        
       </ul>
     </div>
   </div>
 </main>
+    </section>
+    <footer role="contentinfo">
+  &copy; 2013 Benjamin Parry
+</footer>
+  </body>
+</html>

@@ -28,3 +28,5 @@ I won’t lie, it’s going to a slow burn on the development of this site. Ther
 So in conclusion here’s a bare bones site for you; no stylesheet, no javascript, no jQuery, no images…
 
 …well at least it’s responsive.
+
+*Disclaimer: This is in no way an Octopress-bashing post. Octopress is a superb resource and got me up and running with a fully responsive and optimised blog in minutes. If that’s your requirements then Octopress is definitely worth checking out.*

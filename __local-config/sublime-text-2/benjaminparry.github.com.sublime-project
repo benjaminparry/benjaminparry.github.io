@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.scssc",
+				"*.pngc"
+			],
+			// Relative paths
+			"path": "../../"
+		}
+	],
+	"settings":
+	{
+		"tab_size": 3
+	}
+}

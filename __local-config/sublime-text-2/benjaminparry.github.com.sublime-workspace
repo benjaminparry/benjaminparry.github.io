@@ -1,0 +1,1653 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lst",
+				"list:d	list-style-type:disc"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"border-st",
+				"border-style"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"fv",
+				"fv:sc	font-variant:small-caps"
+			],
+			[
+				"d",
+				"d:i	display:inline"
+			],
+			[
+				"b",
+				"bg	background"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"ex",
+				"ext	@extend"
+			],
+			[
+				"tex",
+				"texture-editing"
+			],
+			[
+				"hBase",
+				"hBasePall"
+			],
+			[
+				"sT-i",
+				"sT-icon-16-validation-warn"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"hSmall",
+				"hSmallMB"
+			],
+			[
+				"hE",
+				"hExtrMB"
+			],
+			[
+				"pos",
+				"pos:a	position:absolute"
+			],
+			[
+				"edi",
+				"is_editing"
+			],
+			[
+				"rea",
+				"Real"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"cur",
+				"cur:d	cursor:default"
+			],
+			[
+				"Sta",
+				"Start"
+			],
+			[
+				"An",
+				"Analysis"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"butt",
+				"buttonLight"
+			],
+			[
+				"hSma",
+				"hSmallMB"
+			],
+			[
+				"toggle",
+				"toggleClass"
+			],
+			[
+				"on",
+				"onIdeasPage"
+			],
+			[
+				"in",
+				"inEditMode"
+			],
+			[
+				"edit",
+				"inEditMode"
+			],
+			[
+				"ed",
+				"inEditMode"
+			],
+			[
+				"s",
+				"style	@style"
+			],
+			[
+				"id",
+				"onIdeasPage"
+			],
+			[
+				"data",
+				"data-bind"
+			],
+			[
+				"daa",
+				"data-bind"
+			],
+			[
+				"port",
+				"portfolioEditor"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"bderc",
+				"border-color"
+			],
+			[
+				"column-main",
+				"column-main-content"
+			],
+			[
+				"Ann",
+				"Annualised"
+			],
+			[
+				"Sy",
+				"syncronize"
+			],
+			[
+				"hB",
+				"hMicroMB"
+			],
+			[
+				"man",
+				"management"
+			],
+			[
+				"ty",
+				"typeSM"
+			],
+			[
+				"typ",
+				"typePTSerif"
+			],
+			[
+				"Vidivic",
+				"Vidivici"
+			],
+			[
+				"th",
+				"th"
+			],
+			[
+				"we’",
+				"we’d"
+			],
+			[
+				"I",
+				"Investor"
+			],
+			[
+				"In",
+				"Interactive"
+			],
+			[
+				"with",
+				"with"
+			],
+			[
+				"W",
+				"we’d"
+			],
+			[
+				"type",
+				"typeLight"
+			],
+			[
+				"Inveso",
+				"Investors"
+			],
+			[
+				"bo",
+				"boxFill"
+			],
+			[
+				"pad",
+				"pad	padding"
+			],
+			[
+				"your",
+				"you’re"
+			],
+			[
+				"invest",
+				"investments"
+			],
+			[
+				"hSm",
+				"hSmallMB"
+			],
+			[
+				"pu",
+				"pullLeft"
+			],
+			[
+				"sign",
+				"signup"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"Inv",
+				"Interactive"
+			],
+			[
+				"Shapre",
+				"SharePrice"
+			],
+			[
+				"pull",
+				"pullRight"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"fsi",
+				"fs:i	font-style:italic"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"pare",
+				"parentElement"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"Pre",
+				"premium"
+			],
+			[
+				"pre",
+				"premium"
+			],
+			[
+				"db",
+				"d:b	display:block"
+			],
+			[
+				"lea",
+				"leagues"
+			],
+			[
+				"cont",
+				"contTipHelp"
+			],
+			[
+				"view",
+				"viewpoint"
+			],
+			[
+				"is",
+				"isSelected"
+			],
+			[
+				"logged",
+				"loggedOut"
+			],
+			[
+				"menu",
+				"menuAlpha"
+			],
+			[
+				"h",
+				"hBaseML"
+			],
+			[
+				"sT",
+				"sT-IconDecorator"
+			],
+			[
+				"men",
+				"menuDD-subItem"
+			],
+			[
+				"me",
+				"menuDD-subItem"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"no",
+				"no-cssgradients"
+			],
+			[
+				"li",
+				"linear-gradient"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"meu",
+				"menuDD_base"
+			],
+			[
+				"bb",
+				"border-bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"base",
+				"baseGreen"
+			],
+			[
+				"btn",
+				"btnStretch"
+			],
+			[
+				"fn",
+				"font-weight"
+			],
+			[
+				"vd",
+				"vdotWrap"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"dta",
+				"data-bind"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ris",
+				"riskleagues"
+			],
+			[
+				"com",
+				"commentsLoc"
+			],
+			[
+				"he",
+				"helpCoWrapper"
+			],
+			[
+				"Liq",
+				"liquidation"
+			],
+			[
+				"hBas",
+				"hBasePall"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"ready",
+				"ready	document-ready"
+			],
+			[
+				"hBa",
+				"hBasePR"
+			],
+			[
+				"css",
+				".css	css (map)"
+			],
+			[
+				"ou",
+				"outerHeight"
+			],
+			[
+				"animate",
+				".animate	animate"
+			],
+			[
+				"hm",
+				"hSmallMB"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"marg",
+				"margin-right	zen:css_properties"
+			],
+			[
+				"border-col",
+				"border-color	zen:css_properties"
+			],
+			[
+				"closest",
+				".closest	.closest"
+			],
+			[
+				"sT-",
+				"sT-IconUserSml"
+			],
+			[
+				"da",
+				"data-bind"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"hM",
+				"hMicroML"
+			],
+			[
+				"test",
+				"text-align	zen:css_properties"
+			],
+			[
+				"M",
+				"Moderate"
+			],
+			[
+				"leag",
+				"league"
+			],
+			[
+				"border-co",
+				"border-color	zen:css_properties"
+			],
+			[
+				"but",
+				"buttonLight"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"Mod",
+				"rlModerate"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/index.html",
+			"settings":
+			{
+				"buffer_size": 1176,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"dia",
+				"Package Control: Disable Package"
+			],
+			[
+				"diabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"show",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"acti",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"reove",
+				"Package Control: Remove Package"
+			],
+			[
+				"todo",
+				"Show TODOs: Open files only"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/benjaminparry/Development/github/benjaminparry/benjaminparry.github.com/_layouts/layout.html",
+		"/Users/benjaminparry/Development/github/benjaminparry/benjaminparry.github.com/index.html",
+		"/Users/benjaminparry/Development/github/benjaminparry/benjaminparry.github.com/_site/1985/10/26/Test-Post/index.html",
+		"/Users/benjaminparry/Development/github/benjaminparry/benjaminparry.github.com/_site/index.html",
+		"/Users/benjaminparry/Development/github/benjaminparry/benjaminparry.github.com/__local-settings/sublime-text-2-project/benjaminparry.github.com.sublime-project",
+		"/Users/benjaminparry/Development/github/benjaminparry/benjaminparry.github.com/_config.yml",
+		"/Users/benjaminparry/Development/codename-lifeboat/socialcapitalgroup.github.com/public/styles/shadowbox/_shadowbox.scss",
+		"/Users/benjaminparry/Development/codename-lifeboat/socialcapitalgroup.github.com/public/styles/style.scss",
+		"/Users/benjaminparry/Development/codename-lifeboat/socialcapitalgroup.github.com/public/styles/global/_global.scss",
+		"/Users/benjaminparry/Development/codename-lifeboat/socialcapitalgroup.github.com/index.html",
+		"/Users/benjaminparry/Development/codename-lifeboat/socialcapitalgroup.github.com/what-we-offer.html",
+		"/Users/benjaminparry/Development/codename-lifeboat/socialcapitalgroup.github.com/who-we-are.html",
+		"/Users/benjaminparry/Development/codename-lifeboat/socialcapitalgroup.github.com/contact-us.html",
+		"/Users/benjaminparry/Development/codename-lifeboat/socialcapitalgroup.github.com/financial-social-network-vidivici-concept-to-launch-in-12-months.html",
+		"/Users/benjaminparry/Development/codename-lifeboat/socialcapitalgroup.github.com/README.md",
+		"/usr/local/git/etc/gitconfig",
+		"/Users/benjaminparry/Development/codename-lifeboat/codename-lifeboat.sublime-project",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/public/styles/inuit.css/base/_forms.scss",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/public/styles/_vars.scss",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/what-we-offer.html",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/contact-us.html",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/public/styles/global/global.scss",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/who-we-are.html",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/public/styles/style.scss",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/index.html",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/financial-social-network-vidivici-concept-to-launch-in-12-months.html",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/public/scripts/global.js",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/public/styles/inuit.css/generic/_normalize.scss",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/mixture.json",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/public/styles/style.css",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/public/styles/inuit.css/generic/_clearfix.scss",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/public/styles/inuit.css/objects/_block-list.scss",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/public/styles/inuit.css/generic/_mixins.scss",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/public/styles/inuit.css/base/_code.scss",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/compass/config.rb",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/global.scss",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/local-config/config.sublime-project",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/views/includes/navigation.liquid",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/views/index.liquid",
+		"/Users/benjaminparry/Development/codename-lifeboat/lifeboat-local-build/.sass-cache/10ca638f59301f4e73aadce1dc87b3ab0bf87fea/_borders.scssc",
+		"/Users/benjaminparry/Development/codename-lifeboat/socialcapitalgroup/index.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/index.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/dashboard.html",
+		"/Users/benjaminparry/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_type.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/partnersignup.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/signup.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/reserved.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/signin.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/templates-hidden/default.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/views.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/privacy.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/_privacy.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/howitworks.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_links-buttons.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/sprites/animated/_spinners.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_profile.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/modules/structure/_enclosure.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/site/js/vv-36.js",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/buttons-links/_chunky-buttons.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/profile.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/grid/_grid-columns.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_views.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/aboutus.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_tooltips.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/global-35.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/modules/graphs/_bar-charts.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/theme/_textures.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/subject.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/subject.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_risk2.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/site/js/ideas-34.js",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/site/js/vv-34.js",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_charts.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_subject.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/_portfolio.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/modules/navigation/_navigation-site.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_help.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/signedup.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/modules/objects/_holdings.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/help/tour.html",
+		"/Users/benjaminparry/Desktop/TO INSTALL/JSRef.v1.1.MacOSX.Retail-CORE/core.nfo",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/help/portfolio.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/forgotpassword.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_uiTabs.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/help/riskleagues.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/help/portfoliochanges.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/help/expectedreturn.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/global-34.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/_league.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_widgets.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/_viewtemplates.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/site/js/ideas-33.js",
+		"/Users/benjaminparry/Desktop/CompareTools.plist",
+		"/Users/benjaminparry/Desktop/kaleidoscope2.sh",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/site/js/ideas-31.js",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/global-32.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/site/js/dashboard-30.js",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/_game.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_jQueryAutocomplete.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_base.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/site/css/global-32.css",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/modules/navigation/_navigation-portfolio.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/fantasy/ideas.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/real/ideas.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/modules/widgets/_widget-inline-ideas.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/type/_type-headings.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/site/js/vv-32.js",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/real.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/fantasy.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/settings.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_portfolio.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/_topmenu.html",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/buttons-links/_text-link.scss",
+		"/Users/benjaminparry/Desktop/merge.txt",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/site/js/chart-31.js",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/modules/tooltips/_tooltips-info.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_headerNav.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/grid/_grid-base.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/modules/untitled",
+		"/Users/benjaminparry/Desktop/from-benjamin-to-santi.md",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_mixins.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_miniHelpers.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/modules/structure/_structure-base.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/modules/structure/_floated-groups.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/untitled",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/grid/_grid-variables.scss",
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_tradeIdeas.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"body",
+			"main",
+			"strong",
+			"span",
+			"heading",
+			"details",
+			">\n",
+			"footer",
+			"img",
+			"logo",
+			"Social Capital",
+			"Social Capital Group",
+			"socialcapitalgroup",
+			"hello",
+			"single-signin",
+			"facebook-app",
+			"single-signin",
+			"portfolio-editor",
+			"Vacation",
+			"#",
+			"global",
+			" • ",
+			"global",
+			">\n",
+			"footer",
+			"main",
+			"<li>",
+			"check-list",
+			"<ul>",
+			"}",
+			"• ",
+			"<h4>",
+			"span",
+			"h2",
+			"font-size",
+			"font",
+			"<article>",
+			"</ul>",
+			"html5",
+			"h4",
+			"sign in with",
+			"showFullHeader",
+			"showFullFooter",
+			"showheader",
+			"prompt",
+			"button-lozenge-icon",
+			"unselected",
+			"spinner",
+			"enclosure-cell",
+			"padding-right: 20px;",
+			"profilePicInfo",
+			"largePicCssUrl",
+			"td",
+			"viewsFeed",
+			"Update risk",
+			"update",
+			"adjust your risk target",
+			"Exceeds",
+			"excee",
+			"right",
+			"scale-top",
+			"style: ",
+			"brokerId()",
+			"vpNav",
+			"ui-slider-range",
+			"slider-handle",
+			"cash",
+			"unchan",
+			"editing",
+			"view-current",
+			"ui-tabs",
+			"tabsLight",
+			"ui-tabs",
+			"tabsHeader",
+			"buttonsWrap",
+			"userConfidence",
+			"viewsChartControls",
+			"postView",
+			"viewsUser",
+			"vpNav",
+			"viewPool",
+			"tabsLight",
+			"tabsSubject",
+			"chart",
+			"tabsLight",
+			".tabsSubject",
+			"userConfidence",
+			"postView",
+			"userConfidence",
+			"viewsChartControls",
+			".buttonsWrap",
+			"column-main-content",
+			"riskbefore",
+			"marker-risk-current",
+			"before",
+			"value",
+			"helpCoWrapT",
+			"gMain",
+			"h2",
+			"boxFillShadow",
+			"portVD",
+			">\n",
+			"highest return",
+			"status",
+			"919191",
+			"holding-view",
+			"item-cash",
+			"under",
+			"below",
+			".marker-risk-current",
+			"span",
+			"riskbefore",
+			"before",
+			"riskSliderValue",
+			"Projections()",
+			"riskBefore",
+			"root",
+			"riskBefore",
+			"riskSliderValue",
+			"riskBefore",
+			"current",
+			"riskBefore",
+			"markerImageIcon",
+			"risk-current-",
+			"trasition",
+			"marker-risk-current",
+			"data-bind=\"style",
+			"portfolio"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Pier Pressure",
+			"pullRight",
+			"Expect more from your money.",
+			"<a href=\"/\" class=\"\">\n                <i class=\"sT-vvLogoBase \">Vidivici</i><em style=\"background-color:#236407;padding:2px;color:white;vertical-align:top;font-size:9px;margin-left:5px;font-weight:bold;\">beta</em>\n              </a>",
+			"Or <a href=\"/signup\">sign up for a fantasy protfolio account</a>",
+			"Real",
+			"<li><span>",
+			"withChanges",
+			"vvLogoDef",
+			"im/",
+			")); ",
+			"@include background(linear-gradient($tooltipEnd, #e7f4d7));",
+			"@include background(linear-gradient($tooltipTip, $tooltipEnd));",
+			"<h3>",
+			"<td class=\"standard tick\"></td>\n					<td class=\"premium tick\">",
+			"					<td class=\"standard tick\"></td>\n					<td class=\"premium tick\">",
+			"@extend .cfm;",
+			"@extend cfm;",
+			"@mixin cfm;"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/index.html",
+					"settings":
+					{
+						"buffer_size": 1176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"_layouts/layout.html"
+			],
+			[
+				"post",
+				"_site/1985/10/26/Test-Post/index.html"
+			],
+			[
+				"con",
+				"socialcapitalgroup.github.com/contact-us.html"
+			],
+			[
+				"fin",
+				"socialcapitalgroup.github.com/financial-social-network-vidivici-concept-to-launch-in-12-months.html"
+			],
+			[
+				"read",
+				"socialcapitalgroup.github.com/README.md"
+			],
+			[
+				"conta",
+				"socialcapitalgroup.github.com/contact-us.html"
+			],
+			[
+				"who",
+				"socialcapitalgroup.github.com/who-we-are.html"
+			],
+			[
+				"glob",
+				"socialcapitalgroup.github.com/public/styles/global/_global.scss"
+			],
+			[
+				"shad",
+				"socialcapitalgroup.github.com/public/styles/shadowbox/_shadowbox.scss"
+			],
+			[
+				"sty",
+				"socialcapitalgroup.github.com/public/styles/style.scss"
+			],
+			[
+				"glo",
+				"socialcapitalgroup.github.com/public/styles/global/_global.scss"
+			],
+			[
+				"ind",
+				"socialcapitalgroup.github.com/index.html"
+			],
+			[
+				"ide",
+				"socialcapitalgroup.github.com/index.html"
+			],
+			[
+				"inl",
+				"index.html"
+			],
+			[
+				"norm",
+				"public/styles/inuit.css/generic/_normalize.scss"
+			],
+			[
+				"wha",
+				"what-we-offer.html"
+			],
+			[
+				"mix",
+				"public/styles/inuit.css/generic/_mixins.scss"
+			],
+			[
+				"style",
+				"public/styles/style.css"
+			],
+			[
+				"cle",
+				"public/styles/inuit.css/generic/_clearfix.scss"
+			],
+			[
+				"inuit",
+				"public/styles/inuit.css/objects/_block-list.scss"
+			],
+			[
+				"inu",
+				"public/styles/inuit.css/base/_code.scss"
+			],
+			[
+				"styl",
+				"public/styles/style.scss"
+			],
+			[
+				"st",
+				"public/styles/style.css"
+			],
+			[
+				"j",
+				"mixture.json"
+			],
+			[
+				"conf",
+				"compass/config.rb"
+			],
+			[
+				"indx",
+				"index.html"
+			],
+			[
+				"var",
+				"public/styles/_vars.scss"
+			],
+			[
+				"confi",
+				"local-config/config.sublime-project"
+			],
+			[
+				"na",
+				"views/includes/navigation.liquid"
+			],
+			[
+				"index",
+				"views/index.liquid"
+			],
+			[
+				"das",
+				"webapp/f/dashboard.html"
+			],
+			[
+				"dash",
+				"webapp/f/dashboard.html"
+			],
+			[
+				"type",
+				"sass/scss/_type.scss"
+			],
+			[
+				"part",
+				"webapp/partnersignup.html"
+			],
+			[
+				"si",
+				"webapp/signup.html"
+			],
+			[
+				"in",
+				"webapp/f/index.html"
+			],
+			[
+				"de",
+				"webapp/templates-hidden/default.html"
+			],
+			[
+				"how",
+				"webapp/howitworks.html"
+			],
+			[
+				"views",
+				"webapp/f/views.html"
+			],
+			[
+				"priva",
+				"webapp/privacy.html"
+			],
+			[
+				"pr",
+				"webapp/_privacy.html"
+			],
+			[
+				"hom",
+				"webapp/howitworks.html"
+			],
+			[
+				"butt",
+				"sass/scss/_links-buttons.scss"
+			],
+			[
+				"sp",
+				"sass/scss/sprites/animated/_spinners.scss"
+			],
+			[
+				"pro",
+				"sass/scss/_profile.scss"
+			],
+			[
+				"enc",
+				"sass/scss/modules/structure/_enclosure.scss"
+			],
+			[
+				"encl",
+				"sass/scss/modules/structure/_enclosure.scss"
+			],
+			[
+				"grid",
+				"sass/scss/grid/_grid-columns.scss"
+			],
+			[
+				"signed",
+				"webapp/signedup.html"
+			],
+			[
+				"sign",
+				"webapp/signup.html"
+			],
+			[
+				"reser",
+				"webapp/reserved.html"
+			],
+			[
+				"holding",
+				"sass/scss/modules/objects/_holdings.scss"
+			],
+			[
+				"port",
+				"webapp/_portfolio.html"
+			],
+			[
+				"tex",
+				"sass/scss/theme/_textures.scss"
+			],
+			[
+				"about",
+				"webapp/aboutus.html"
+			],
+			[
+				"typ",
+				"sass/scss/_type.scss"
+			],
+			[
+				"tool",
+				"sass/scss/_tooltips.scss"
+			],
+			[
+				"helppor",
+				"webapp/f/help/portfolio.html"
+			],
+			[
+				"bar",
+				"sass/scss/modules/graphs/_bar-charts.scss"
+			],
+			[
+				"hold",
+				"sass/scss/modules/objects/_holdings.scss"
+			],
+			[
+				"text",
+				"sass/scss/theme/_textures.scss"
+			],
+			[
+				"forg",
+				"webapp/forgotpassword.html"
+			],
+			[
+				"sub",
+				"webapp/f/subject.html"
+			],
+			[
+				"navi",
+				"sass/scss/modules/navigation/_navigation-site.scss"
+			],
+			[
+				"he",
+				"sass/scss/_help.scss"
+			],
+			[
+				"helpport",
+				"webapp/f/help/portfolio.html"
+			],
+			[
+				"tour",
+				"webapp/f/help/tour.html"
+			],
+			[
+				"exp",
+				"webapp/f/help/expectedreturn.html"
+			],
+			[
+				"helprisk",
+				"webapp/f/help/riskleagues.html"
+			],
+			[
+				"help",
+				"webapp/f/help/portfoliochanges.html"
+			],
+			[
+				"avi",
+				"sass/scss/modules/navigation/_navigation-site.scss"
+			],
+			[
+				"tooltips",
+				"sass/scss/_tooltips.scss"
+			],
+			[
+				"risk",
+				"sass/scss/_risk2.scss"
+			],
+			[
+				"p",
+				"webapp/_portfolio.html"
+			],
+			[
+				"for",
+				"webapp/forgotpassword.html"
+			],
+			[
+				"po",
+				"webapp/_portfolio.html"
+			],
+			[
+				"settin",
+				"webapp/f/settings.html"
+			],
+			[
+				"en",
+				"sass/scss/modules/structure/_enclosure.scss"
+			],
+			[
+				"temp",
+				"webapp/_viewtemplates.html"
+			],
+			[
+				"por",
+				"webapp/_portfolio.html"
+			],
+			[
+				"real",
+				"webapp/f/real.html"
+			],
+			[
+				"head",
+				"sass/scss/type/_type-headings.scss"
+			],
+			[
+				"ideas",
+				"webapp/f/real/ideas.html"
+			],
+			[
+				"rea",
+				"webapp/f/real.html"
+			],
+			[
+				"links",
+				"sass/scss/buttons-links/_text-link.scss"
+			],
+			[
+				"fan",
+				"webapp/f/fantasy.html"
+			],
+			[
+				"base",
+				"sass/scss/_base.scss"
+			],
+			[
+				"gra",
+				"sass/scss/modules/graphs/_bar-charts.scss"
+			],
+			[
+				"charts",
+				"sass/scss/_charts.scss"
+			],
+			[
+				"enclo",
+				"sass/scss/modules/structure/_enclosure.scss"
+			],
+			[
+				"top",
+				"webapp/_topmenu.html"
+			],
+			[
+				"pot",
+				"webapp/f/help/portfolio.html"
+			],
+			[
+				"chart",
+				"webapp/site/js/chart-31.js"
+			],
+			[
+				"link",
+				"sass/scss/buttons-links/_text-link.scss"
+			],
+			[
+				"wid",
+				"sass/scss/_widgets.scss"
+			],
+			[
+				"spinne",
+				"sass/scss/sprites/animated/_spinners.scss"
+			],
+			[
+				"fant",
+				"webapp/f/fantasy.html"
+			],
+			[
+				"gri",
+				"sass/scss/grid/_grid-base.scss"
+			],
+			[
+				"str",
+				"sass/scss/modules/structure/_enclosure.scss"
+			],
+			[
+				"abou",
+				"webapp/aboutus.html"
+			],
+			[
+				"widget",
+				"sass/scss/modules/widgets/_widget-inline-ideas.scss"
+			],
+			[
+				"gl",
+				"sass/scss/global-32.scss"
+			],
+			[
+				"idea",
+				"webapp/f/real/ideas.html"
+			],
+			[
+				"vidivi",
+				"sass/scss/_vidiviciColourPalatte.scss"
+			],
+			[
+				"gid",
+				"sass/scss/grid/_grid-base.scss"
+			],
+			[
+				"a",
+				"webapp/aboutus.html"
+			],
+			[
+				"dea",
+				"webapp/templates-hidden/default.html"
+			],
+			[
+				"nor",
+				"sass/scss/_normalizeCustomBenjaminParry.scss"
+			],
+			[
+				"cont",
+				"webapp/contact.html"
+			],
+			[
+				"team",
+				"webapp/team.html"
+			],
+			[
+				"game",
+				"webapp/_game.html"
+			],
+			[
+				"icindex",
+				"webapp/ic/index.html"
+			],
+			[
+				"icgame",
+				"webapp/ic/game.html"
+			],
+			[
+				"ic",
+				"webapp/ic/index.html"
+			],
+			[
+				"vv",
+				"webapp/site/js/vv-31.js"
+			],
+			[
+				"global",
+				"sass/scss/global-31.scss"
+			],
+			[
+				"globa",
+				"webapp/site/css/global-31.css"
+			],
+			[
+				"mark",
+				"webapp/f/marketmap.html"
+			],
+			[
+				"ter",
+				"webapp/_terms.html"
+			],
+			[
+				"market",
+				"webapp/f/marketmap.html"
+			],
+			[
+				"foo",
+				"sass/scss/_footer.scss"
+			],
+			[
+				"ty",
+				"sass/scss/_type.scss"
+			],
+			[
+				"deaf",
+				"sass/scss/sprites/help/_understanding-portfolio.scss"
+			],
+			[
+				"h",
+				"sass/scss/_headerNav.scss"
+			],
+			[
+				"mode",
+				"sass/scss/_modules.scss"
+			],
+			[
+				"ii",
+				"webapp/_iiconnect.html"
+			],
+			[
+				"inde",
+				"webapp/f/help/index.html"
+			],
+			[
+				"sigh",
+				"webapp/signup.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/benjaminparry/Development/codename-lifeboat/codename-lifeboat.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
