@@ -8,7 +8,8 @@
 				"*.pngc"
 			],
 			// Relative paths
-			"path": "../../"
+			"path": "../../",
+			"folder_exclude_patterns": ["_site"]
 		}
 	],
 	"settings":
