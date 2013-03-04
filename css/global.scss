@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+.cf{
+	&:after{
+		content:"";
+		display:table;
+		clear:both;
+	}
+}
+section {
+	@extend .cf;
+}
+
+body {
+	padding: 1em 10%;
+	background-color: #F0EEF0;
+	color: #1E1D1F;
+}
+[role="main"] {
+	float: left;
+	width: 60%;
+}
+[role="complementary"] {
+	float: right;
+	width: 35%;
+}
