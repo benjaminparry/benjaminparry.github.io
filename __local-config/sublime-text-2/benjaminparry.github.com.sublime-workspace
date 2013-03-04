@@ -637,7 +637,14 @@
 	"file_history":
 	[
 		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/__local-config/sublime-text-2/benjaminparry.github.com.sublime-project",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_layouts/layout.html",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_site/index.html",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/working.md",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_includes/header.html",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_layouts/post.html",
 		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/index.html",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/writings.md",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_includes/footer.html",
 		"/Users/benjaminparry/Development/github/benjaminparry/benjaminparry.github.com/_layouts/layout.html",
 		"/Users/benjaminparry/Development/github/benjaminparry/benjaminparry.github.com/index.html",
 		"/Users/benjaminparry/Development/github/benjaminparry/benjaminparry.github.com/_site/1985/10/26/Test-Post/index.html",
@@ -756,14 +763,7 @@
 		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/site/js/chart-31.js",
 		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/modules/tooltips/_tooltips-info.scss",
 		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_headerNav.scss",
-		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/grid/_grid-base.scss",
-		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/modules/untitled",
-		"/Users/benjaminparry/Desktop/from-benjamin-to-santi.md",
-		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_mixins.scss",
-		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_miniHelpers.scss",
-		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/modules/structure/_structure-base.scss",
-		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/modules/structure/_floated-groups.scss",
-		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/untitled"
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/grid/_grid-base.scss"
 	],
 	"find":
 	{
@@ -997,8 +997,28 @@
 				"_layouts/layout.html"
 			],
 			[
+				"work",
+				"working.md"
+			],
+			[
+				"hear",
+				"_includes/header.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"footer",
+				"_includes/footer.html"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
 				"post",
-				"_site/1985/10/26/Test-Post/index.html"
+				"_layouts/post.html"
 			],
 			[
 				"con",
@@ -1035,10 +1055,6 @@
 			[
 				"glo",
 				"socialcapitalgroup.github.com/public/styles/global/_global.scss"
-			],
-			[
-				"ind",
-				"socialcapitalgroup.github.com/index.html"
 			],
 			[
 				"ide",
@@ -1107,10 +1123,6 @@
 			[
 				"na",
 				"views/includes/navigation.liquid"
-			],
-			[
-				"index",
-				"views/index.liquid"
 			],
 			[
 				"das",
@@ -1491,18 +1503,6 @@
 			[
 				"mode",
 				"sass/scss/_modules.scss"
-			],
-			[
-				"ii",
-				"webapp/_iiconnect.html"
-			],
-			[
-				"inde",
-				"webapp/f/help/index.html"
-			],
-			[
-				"sigh",
-				"webapp/signup.html"
 			]
 		],
 		"width": 0.0

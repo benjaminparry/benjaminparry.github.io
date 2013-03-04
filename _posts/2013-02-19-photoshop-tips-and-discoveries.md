@@ -2,6 +2,8 @@
 type: post
 layout: post
 title: Photoshop Tips & Discoveries
+categories : [writing]
+published: false
 ---
 
 I haven’t yet made the switch to Sketch.app just yet so my UI design tool is the old favourite, Photoshop. I’m no master and have plenty still to learn. Here’s a rolling document of things i’ve stumbled upon and thought worthy of sharing.

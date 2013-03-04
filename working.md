@@ -6,11 +6,11 @@ permalink: /working/
 
 # What I'm working on
 
-I’ve been working for the financial webapp startup company Vidivici since January 2011.
+I’ve been working for financial webapp startup company Vidivici since January 2011.
 
-In that time we’ve built embeddable components for 2 large online brokerage websites and also our own fully-fledged web service capable of full portfolio synchronization at vidivici.com.
+In that time we’ve built embeddable components for 2 large online brokerage websites and developed our own fully-fledged web service capable of full portfolio synchronization at [vidivici.com](http://vidivici.com).
 
-Current technologies used:
+Technologies we’ve embraced:
 
 * HTML5
 * CSS3
