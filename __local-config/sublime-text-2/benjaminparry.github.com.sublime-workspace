@@ -636,14 +636,21 @@
 	},
 	"file_history":
 	[
-		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/__local-config/sublime-text-2/benjaminparry.github.com.sublime-project",
-		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_layouts/layout.html",
-		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_site/index.html",
-		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/working.md",
 		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_includes/header.html",
-		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_layouts/post.html",
 		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/index.html",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_layouts/layout.html",
+		"/Users/benjaminparry/Desktop/Things_2.1/CORE.NFO",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/working.md",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_posts/2013-02-19-photoshop-tips-and-discoveries.md",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_config.yml",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/writing.md",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/css/global.scss",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/css/watch.sh",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_posts/2013-02-15-Ground-Zero.md",
 		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/writings.md",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/__local-config/sublime-text-2/benjaminparry.github.com.sublime-project",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_site/index.html",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_layouts/post.html",
 		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_includes/footer.html",
 		"/Users/benjaminparry/Development/github/benjaminparry/benjaminparry.github.com/_layouts/layout.html",
 		"/Users/benjaminparry/Development/github/benjaminparry/benjaminparry.github.com/index.html",
@@ -756,14 +763,7 @@
 		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/real.html",
 		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/fantasy.html",
 		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/settings.html",
-		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_portfolio.scss",
-		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/_topmenu.html",
-		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/buttons-links/_text-link.scss",
-		"/Users/benjaminparry/Desktop/merge.txt",
-		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/site/js/chart-31.js",
-		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/modules/tooltips/_tooltips-info.scss",
-		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_headerNav.scss",
-		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/grid/_grid-base.scss"
+		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_portfolio.scss"
 	],
 	"find":
 	{
@@ -782,6 +782,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"csswizardry",
 			"body",
 			"main",
 			"strong",
@@ -908,8 +909,7 @@
 			"risk-current-",
 			"trasition",
 			"marker-risk-current",
-			"data-bind=\"style",
-			"portfolio"
+			"data-bind=\"style"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -993,8 +993,52 @@
 		"selected_items":
 		[
 			[
+				"hea",
+				"_includes/header.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"lay",
+				"_layouts/layout.html"
+			],
+			[
+				"glo",
+				"css/global.scss"
+			],
+			[
 				"",
 				"_layouts/layout.html"
+			],
+			[
+				"pho",
+				"_posts/2013-02-19-photoshop-tips-and-discoveries.md"
+			],
+			[
+				"y",
+				"_config.yml"
+			],
+			[
+				"grou",
+				"_posts/2013-02-15-Ground-Zero.md"
+			],
+			[
+				"photo",
+				"_posts/2013-02-19-photoshop-tips-and-discoveries.md"
+			],
+			[
+				"worki",
+				"working.md"
+			],
+			[
+				"wri",
+				"writing.md"
+			],
+			[
+				"inde",
+				"index.html"
 			],
 			[
 				"work",
@@ -1003,10 +1047,6 @@
 			[
 				"hear",
 				"_includes/header.html"
-			],
-			[
-				"index",
-				"index.html"
 			],
 			[
 				"footer",
@@ -1051,10 +1091,6 @@
 			[
 				"sty",
 				"socialcapitalgroup.github.com/public/styles/style.scss"
-			],
-			[
-				"glo",
-				"socialcapitalgroup.github.com/public/styles/global/_global.scss"
 			],
 			[
 				"ide",
@@ -1467,42 +1503,6 @@
 			[
 				"global",
 				"sass/scss/global-31.scss"
-			],
-			[
-				"globa",
-				"webapp/site/css/global-31.css"
-			],
-			[
-				"mark",
-				"webapp/f/marketmap.html"
-			],
-			[
-				"ter",
-				"webapp/_terms.html"
-			],
-			[
-				"market",
-				"webapp/f/marketmap.html"
-			],
-			[
-				"foo",
-				"sass/scss/_footer.scss"
-			],
-			[
-				"ty",
-				"sass/scss/_type.scss"
-			],
-			[
-				"deaf",
-				"sass/scss/sprites/help/_understanding-portfolio.scss"
-			],
-			[
-				"h",
-				"sass/scss/_headerNav.scss"
-			],
-			[
-				"mode",
-				"sass/scss/_modules.scss"
 			]
 		],
 		"width": 0.0
