@@ -2,7 +2,6 @@
 
 layout: cv
 title: Curriculum Vitae
-type: cv
 published: true
 permalink: /cv/
 
