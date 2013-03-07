@@ -2,13 +2,13 @@
 
 layout: cv
 title: Curriculum Vitae
+type: cv
+published: true
 permalink: /cv/
 
 ---
 
-test
-
-<!-- *[« back to home](/)*
+*[« back to home](/)*
 
 ***
 
@@ -97,4 +97,9 @@ Loc: [Brighton & Hove, UK](https://maps.google.co.uk/maps?hl=en&q=livingstone+ro
 1998\-1999 | National Diploma in Foundation Studies \- (Art and Design), Winchester School of Art | Merit
 
 ***
- -->
+
+<!-- ### \# Statement
+
+> 
+
+*** -->
