@@ -1,85 +1,23 @@
 @charset "UTF-8";
 
-.cf{
-	&:after{
-		content:"";
-		display:table;
-		clear:both;
-	}
-}
-section {
-	@extend .cf;
-}
 
-body {
-	padding: 1em 10%;
-	background-color: #F0EEF0;
-	color: #1E1D1F;
-}
-[role="main"] {
-	float: left;
-	width: 60%;
-}
-[role="complementary"] {
-	float: right;
-	width: 35%;
-}
+// « Base
+// ======
 
-// CV Page
-.cv body {
-	$colour-terminal-text: #13E227;
-	$colour-terminal-background: #050505;
-	font-family: monospace;
-	// font-family: Courier New, Courier, monospace;
-	 
-	-webkit-font-smoothing: antialiased;
-	color: $colour-terminal-text;
-	background-color: $colour-terminal-background;
-	font-size: 1em;
-	
-	// todo: make this into a mixin
-	::-moz-selection { background: #13641B; color: $colour-terminal-text; text-shadow: none; }
-	::selection { background: #13641B; color: $colour-terminal-text; text-shadow: none; }
+@import "base/all";
 
-	a {
-		color: $colour-terminal-text;
-		text-decoration: none;
-		&:hover {
-			background-color: $colour-terminal-text;
-			color: $colour-terminal-background;
-		}
-	}
-	h1,
-	h2,
-	h3 {
-		font-size: 1em;
-	}
-	h3 {
-		margin-bottom: 1.5em;
-	}
-	hr {
-		margin-bottom: 2em;
-		margin-top: 2em;
-		border-color: #141414;
-	}
-	blockquote {
-		max-width: 69.231em;
-		line-height: 1.3em;
-	}
-	blockquote,
-	ul {
-		margin-top: 1.5em;
-		margin-bottom: 2em;
-	}
-	li {
-		margin-bottom: 0.5em;
-	}
-	.cursor {
-	  display: inline-block;
-	  background-color: $colour-terminal-text;
-	  margin-left: 1px;
-	}
+
+// « Themes
+// ========
+
+@import "themes/all";
 
 
 
-}
+
+
+
+
+
+
+

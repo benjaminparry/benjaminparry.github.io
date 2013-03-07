@@ -2,6 +2,7 @@
 
 layout: cv
 title: Curriculum Vitae
+type: cv
 published: true
 permalink: /cv/
 
@@ -36,6 +37,7 @@ Loc: [Brighton & Hove, UK](https://maps.google.co.uk/maps?hl=en&q=livingstone+ro
 + CSS, HTML, Javascript (knockout.js, jQuery)
 + Sass and Compass pre-processing
 + Git version control
++ Prototyping and wireframing
 + Photoshop and Illustrator mock-ups
 + Agile development experience
 + Bug and sprint tracking software (Jira)
@@ -48,9 +50,11 @@ Loc: [Brighton & Hove, UK](https://maps.google.co.uk/maps?hl=en&q=livingstone+ro
 01/11\-03/13 | UI/UX Designer & Front End Developer | <https://vidivici.com>
 
 + Agile UX/UI design for embedded components (first-stage) and dedicated website (second-stage)
++ Rapid prototyping and wireframing
++ User testing and feedback
 + UI build in HTML5, CSS3 and Javascript (knockout.js, jQuery)
 + Responsible for design, build and running of email marking campaigns
-+ Other responsibilities: shaping the latter stages of product direction, social media integration, customer interaction, user testing and feedback, bug fixing
++ Other responsibilities: shaping the latter stages of product direction, social media integration, regular customer interaction, bug fixing
 
 05/10\-01/11 | Digital Designer & Front End Developer | <https://thecroc.com>
 
