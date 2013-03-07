@@ -11,6 +11,7 @@ $colour-terminal-background: #050505;
 
 .cv body {
 	padding: 2em;
+	max-width: none;
 	font-family: monospace;
 	-webkit-font-smoothing: antialiased;
 	color: $colour-terminal-text;

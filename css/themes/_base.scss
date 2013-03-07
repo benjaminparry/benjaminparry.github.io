@@ -2,8 +2,17 @@
 // § General site styles
 // =====================
 
+/* apply a natural box layout model to all elements */
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
 body {
-	padding: 1em;
+	padding: 1em 10%;
+	margin: 0 auto;
 	background: $site-colour-background;
 	color: $site-colour-type;
+	max-width: 71.875em;
 }

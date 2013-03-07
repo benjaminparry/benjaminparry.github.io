@@ -19,7 +19,7 @@ It was always my intention to customize the stylesheet at some point but when i 
 
 It’s important to me that I understand what the technology I use actually does, and that I’m capable of controlling it the way I want to.
 
-When I first started using Sass I indenting as much as I saw fit unknowingly bloating the code way out of proportion. By the time I’d realized what I’d done it was too late and it took me a god while to unpick my mistake. *Lesson learned?* **Read The Manual Stupid!**
+Back when I first started using Sass I indented as much as I saw fit unknowingly bloating the code way out of proportion. By the time I’d realized what I’d done it was too late and it took me a god while to unpick my mistake. *Lesson learned?* **Read The Manual Stupid!**
 
 I won’t lie, it’s going to a slow burn on the development of this site. There’s a few things I want to pick up on along the way:
 
