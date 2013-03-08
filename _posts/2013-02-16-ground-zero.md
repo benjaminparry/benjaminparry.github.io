@@ -1,9 +1,11 @@
 ---
+
 type: post
 layout: post
 title: Ground Zero
 categories : [writing]
 published: true
+
 ---
 
 When I first came across Octopress I was completely sold. The “blogging for hackers” ethic seemed right up my street and came with all the existing features my Tumblr blog had but with the advantage of owning my own data. It also gave me an opportunity to learn the Markdown syntax and learn the ropes with Git and get social with Github.

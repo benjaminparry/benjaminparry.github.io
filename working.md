@@ -3,25 +3,47 @@
 layout: layout
 title: is working
 permalink: /working/
+published: true
 
 ---
 
-# What I'm working on
+# What I've been working on
 
-I’ve been working for financial webapp startup company Vidivici since January 2011.
+## UX/UI designer at Vidivici
 
-In that time we’ve built embeddable components for 2 large online brokerage websites and developed our own fully-fledged web service capable of full portfolio synchronization at [vidivici.com](http://vidivici.com).
+**<a href="/working/case-study-vidivici/">Read the full case study »</a>**
 
-Technologies we’ve embraced:
+***
+
+> [Vidivici](http://vidivici.com) is like TripAdvisor for investment. It’s a views sharing platform that can help you manage your money.
+
+***
+
+
+### Goals
+
+1. Design an embeddable component that captures user’s forward looking views on the market and deliver tailored portfolio improvements to the user with a means to accept or ignoring improvements.
+
+2. Design the full standalone dedicated service expanding on the requirements of Goal 1.
+
+
+### Process
+
+1. Establishing product goals and dependencies
+2. User research
+3. User flows
+4. Wireframing
+5. Rapid prototyping
+6. Agile development and re-design iteration
+7. User testing
+
+
+### Technologies
 
 * HTML5
 * CSS3
 * SVG and Canvas
-* Knockout.js
-* Sass and Compass
+* JavaScript, jQuery, Knockout.js
+* Sass and Compass re-processing
 
-I’m currently responsible for UX/UI design and frontend build of the webapp. We work in an Agile development environment, something that I was unaware of at first but have learned to embrace the frantic pace of change and find a design system that fits to the workflow.
-
-To put this in context, before this I was working at a slow digital agency in London where I had little to nothing to do and “try to look busy” was often instruction given by my project manager, so things couldn’t be more different.
-
-<footer>[Find out more about my working history](/cv/)<footer>
+**<a href="/working/case-study-vidivici/">Read the full case study »</a>**

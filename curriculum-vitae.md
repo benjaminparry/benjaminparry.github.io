@@ -34,14 +34,15 @@ Loc: [Brighton & Hove, UK](https://maps.google.co.uk/maps?hl=en&q=livingstone+ro
 
 ### \# Skills
 
-+ CSS, HTML, Javascript (knockout.js, jQuery)
-+ Sass and Compass pre-processing
-+ Git version control
++ User Experience design
 + Prototyping and wireframing
-+ Photoshop and Illustrator mock-ups
++ User testing and feedback evaluation
 + Agile development experience
-+ Bug and sprint tracking software (Jira)
++ Photoshop and Illustrator mock-ups
++ CSS, HTML, Javascript
++ Git version control
 + Great communication skills and sense of humour
+
 
 ***
 
@@ -98,8 +99,4 @@ Loc: [Brighton & Hove, UK](https://maps.google.co.uk/maps?hl=en&q=livingstone+ro
 
 ***
 
-<!-- ### \# Statement
-
-> 
-
-*** -->
+*[« back to home](/)*
