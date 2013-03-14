@@ -3,6 +3,7 @@
 type: post
 layout: post
 title: Responsive Day Out 2013
+categories : [writing]
 published: true
 
 ---
