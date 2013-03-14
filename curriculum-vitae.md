@@ -22,13 +22,13 @@ permalink: /cv/
 
 ### \# Contact
 
-Tel: <a href="tel:+078770241510">078770 24 15 10</a>
+Tel: <a href="tel:+447877241510">07877 24 15 10</a>
 
 Email: <benjamin.r.parry@gmail.com>
 
 Web: <http://benjamin.parry.is>
 
-Loc: [Brighton & Hove, UK](https://maps.google.co.uk/maps?hl=en&q=livingstone+road+hove&ie=UTF-8&hq=&hnear=0x4875854e361ac4e5:0xcaeb56d3ebd120fc,Livingstone+Rd,+Hove&gl=uk&ei=YWw3UY38O4bAPJT_gPgH&ved=0CC8Q8gEwAA)
+Address: 78 Livingstone Road, Hove, BN3 3WL
 
 ***
 
@@ -38,8 +38,10 @@ Loc: [Brighton & Hove, UK](https://maps.google.co.uk/maps?hl=en&q=livingstone+ro
 + Prototyping and wireframing
 + User testing and feedback evaluation
 + Agile development experience
-+ Photoshop and Illustrator mock-ups
-+ CSS, HTML, Javascript
++ Photoshop and Illustrator HiFi mockups
++ CSS3, OOCSS/SMACSS
++ Semantic HTML5
++ Javascript, jQuery, knockout.js
 + Git version control
 + Great communication skills and sense of humour
 
@@ -48,7 +50,7 @@ Loc: [Brighton & Hove, UK](https://maps.google.co.uk/maps?hl=en&q=livingstone+ro
 
 ### \# Employment
 
-01/11\-03/13 | UI/UX Designer & Front End Developer | <https://vidivici.com>
+01/11\-03/13 | UI/UX Designer & Front End Developer | <https://vidivici.com> | **[Read the case study »](/working/case-study-vidivici/)**
 
 + Agile UX/UI design for embedded components (first-stage) and dedicated website (second-stage)
 + Rapid prototyping and wireframing
@@ -56,6 +58,8 @@ Loc: [Brighton & Hove, UK](https://maps.google.co.uk/maps?hl=en&q=livingstone+ro
 + UI build in HTML5, CSS3 and Javascript (knockout.js, jQuery)
 + Responsible for design, build and running of email marking campaigns
 + Other responsibilities: shaping the latter stages of product direction, social media integration, regular customer interaction, bug fixing
+
+
 
 05/10\-01/11 | Digital Designer & Front End Developer | <https://thecroc.com>
 
@@ -66,25 +70,14 @@ Loc: [Brighton & Hove, UK](https://maps.google.co.uk/maps?hl=en&q=livingstone+ro
 
 ***
 
-### \# Freelance Work
+### \# Previous Freelance Work
 
-05/10 | <http://www.katiehyams.com>
-> Personal online portfolio for portrait & reportage photographer Katie Hyams. Redesign and development of an existing static website, working directly with a graphic designer. HTML, CSS, Javascript (jQuery libraries), CMS, MySQL setup, PHP.
 
-04/10 | <http://www.wewasteproject.com>
-> Web presence for touring performance/installation project We Waste Project. Highly graphical website using HTML/PHP, CSS, jQuery, png transparencies.
-
-01/10 | <http://www.andrewhaythornthwaite.com> & <http://www.shaiakramshai.co.uk>
-> Collaborative online portfolio for product/furniture designers Andrew Haythornthwaite & Shai Akramshai. Animated website containing 40+ projects using HTML/PHP, CSS, jQuery.
-
-11/09 | <http://www.stellaatkinson.co.uk>
+01/10 | <http://www.stellaatkinson.co.uk>
 > Personal portfolio for London based costume/dressmaker Stella Atkinson. CMS driven website using HTML/PHP, CSS, jQuery, MySQL.
 
-09/09 | <http://www.tinahillier.com>
-> Personal online portfolio for international travel and documentary photographer Tina Hillier. CMS driven website using HTML/PHP, CSS, jQuery, MySQL.
-
-08/09 | <http://www.jh-architecture.com>
-> Web presence for international architect Julia Haensel and her company JH Architecture. Continuously expanding website using HTML/PHP, CSS, jQuery.
+09/09 | <http://www.andrewhaythornthwaite.com> & <http://www.shaiakramshai.co.uk>
+> Collaborative online portfolio for product/furniture designers Andrew Haythornthwaite & Shai Akramshai. Animated website containing 40+ projects using HTML/PHP, CSS, jQuery.
 
 06/09 | <http://www.mauriciocarneiro.com>
 > Personal portfolio for London based costume designer and illus- trator Mauricio Carneiro. Flash based website with externally loaded content.
