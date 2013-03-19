@@ -11,7 +11,7 @@ published: true
 
 ## UX/UI designer at Vidivici
 
-**<a href="/working/case-study-vidivici/">Read the full case study »</a>**
+**<a href="/working/case-study-vidivici/">Read the full case study &raquo;</a>**
 
 ***
 
@@ -46,4 +46,4 @@ published: true
 * JavaScript, jQuery, Knockout.js
 * Sass and Compass re-processing
 
-**<a href="/working/case-study-vidivici/">Read the full case study »</a>**
+**<a href="/working/case-study-vidivici/">Read the full case study &raquo;</a>**

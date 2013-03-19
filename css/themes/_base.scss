@@ -9,10 +9,27 @@
 	box-sizing: border-box;
 }
 
+html {
+	height: 100%;
+}
+
 body {
-	padding: 1em 10%;
-	margin: 0 auto;
 	background: $site-colour-background;
 	color: $site-colour-type;
-	max-width: 71.875em;
+	/* TODO: Add site frame border colour as a variable */
+	/* TODO: Work out a relative border width site frame border */
+	border: 6px solid #0F448B;
+	padding: 1em 10%;
+	min-height: 100%;
+}
+
+.wrap {
+	margin: 0 auto;
+	/* TODO: Create a RWD solution to this */
+	// max-width: 71.875em;
+}
+
+a {
+	/* TODO: Add site link colours as a variable */
+	color: lighten(#0F448B, 5%);
 }

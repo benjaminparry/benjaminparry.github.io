@@ -16,7 +16,7 @@ Other than regularly attending meetups and the occasional BarCamp, this was my f
 
 ***
 
-## <a href="#sarah-parmenter" id="sarah-parmenter">§</a> Sarah Parmenter: The Responsive Workflow
+## <a href="#sarah-parmenter" id="sarah-parmenter">&sect;</a> Sarah Parmenter: The Responsive Workflow
 
 I heard Sarah speak two days earlier at Altitude, the overall format there was informal banter so this was a great opportunity to hear her give a more structured presentation.
 
@@ -69,7 +69,7 @@ I heard Sarah speak two days earlier at Altitude, the overall format there was i
 
 ***
 
-## <a href="#david-bushell" id="david-bushell">§</a> David Bushell: Responsive Navigation
+## <a href="#david-bushell" id="david-bushell">&sect;</a> David Bushell: Responsive Navigation
 
 I must admit I’d never heard of David before the conference but really enjoyed his his talk and he raised some really interesting questions on current design patterns for navigation.
 
@@ -114,7 +114,7 @@ I must admit I’d never heard of David before the conference but really enjoyed
 
 ***
 
-## <a href="#tom-maslen" id="tom-maslen">§</a> Tom Maslen: Cutting the Mustard
+## <a href="#tom-maslen" id="tom-maslen">&sect;</a> Tom Maslen: Cutting the Mustard
 
 I’d heard the expression *cutting the mustard* a few times at Brighton’s Async.js meetup, I think Andy Hume, Josh Emerson and Mark Perkins have all referred to the process in one way or another. Tom’s work at the BBC and general approach to progressive enhancement is truly inspiring.
 
@@ -172,7 +172,7 @@ Jeremy Keith, Sarah Parmenter, David Bushell and Tom Maslen
 
 ***
 
-## <a href="#richard-rutter" id="richard-rutter">§</a> Richard Rutter: Responsive Web Fonts
+## <a href="#richard-rutter" id="richard-rutter">&sect;</a> Richard Rutter: Responsive Web Fonts
 
 I was aware of a few of the techniques Richard had to share about responsive typography from Josh Emerson’s talk [Beyond Arial](http://lanyrd.com/2011/asyncjs-webfonts/). It was a great refresher and Richard is a great speaker.
 
@@ -211,7 +211,7 @@ I was aware of a few of the techniques Richard had to share about responsive typ
 
 ***
 
-## <a href="#josh-emerson" id="josh-emerson">§</a> Josh Emerson: Asset Fonts
+## <a href="#josh-emerson" id="josh-emerson">&sect;</a> Josh Emerson: Asset Fonts
 
 It was great to see some HD web getting some coverage. The rise of icon fonts and SVG and compatible hardware makes this a real issue. Josh’s session was clearly focused on performance and creating a completely custom set of assets.
 
@@ -250,7 +250,7 @@ It was great to see some HD web getting some coverage. The rise of icon fonts an
 
 ***
 
-## <a href="#laura-kalbag" id="laura-kalbag">§</a> Laura Kalbag: Design Systems
+## <a href="#laura-kalbag" id="laura-kalbag">&sect;</a> Laura Kalbag: Design Systems
 
 Laura was another speaker that I’d known little about. Her talk on RWD processes and deliverables was really enlightening.
 
@@ -309,7 +309,7 @@ Design from the bottom up
 
 ***
 
-## <a href="#elliot-jay-stocks" id="elliot-jay-stocks">§</a> Elliot Jay Stocks: RWD — The War Has Not Yet Been Won
+## <a href="#elliot-jay-stocks" id="elliot-jay-stocks">&sect;</a> Elliot Jay Stocks: RWD — The War Has Not Yet Been Won
 
 Like Laura, Elliot touched on some really interesting RWD processes and attitudes to design.
 
@@ -372,7 +372,7 @@ Jeremy Keith, Richard Rutter, Josh Emerson, Laura Kalbag and Elliot Jay Stocks
 
 ***
 
-## <a href="#anna-debenham" id="anna-debenham">§</a> Anna Debenham: Playing with Game Console Browsers
+## <a href="#anna-debenham" id="anna-debenham">&sect;</a> Anna Debenham: Playing with Game Console Browsers
 
 During the lunch break I read this tweet by Johan Ronsse:
 
@@ -437,7 +437,7 @@ I’d already seen some of Anna’s research on gaming devices but never heard h
 
 ***
 
-## <a href="#andy-hume" id="andy-hume">§</a> Andy Hume: The Anatomy of a Responsive Page Load
+## <a href="#andy-hume" id="andy-hume">&sect;</a> Andy Hume: The Anatomy of a Responsive Page Load
 
 I’m a big fan of Andy’s talks. CSS For Grown Ups was a stonker and I had high hopes for this one.
 
@@ -492,7 +492,7 @@ I’m a big fan of Andy’s talks. CSS For Grown Ups was a stonker and I had hig
 
 ***
 
-## <a href="#bruce-lawson" id="bruce-lawson">§</a> Bruce Lawson: What’s Next in StandardsLand
+## <a href="#bruce-lawson" id="bruce-lawson">&sect;</a> Bruce Lawson: What’s Next in StandardsLand
 
 I was dead excited to see Bruce present on stage. He delivered a fantastic and humorous talk on what the W3C are working on that got me really excited about things to come.
 
@@ -558,7 +558,7 @@ Jeremy Keith, Anna Debenham, Andy Hume and Bruce Lawson
 
 ***
 
-## <a href="#owen-gregory" id="owen-gregory">§</a> Owen Gregory: Antiphonal Geometry
+## <a href="#owen-gregory" id="owen-gregory">&sect;</a> Owen Gregory: Antiphonal Geometry
 
 Again, another presenter I had a lot to learn from.
 
@@ -572,7 +572,7 @@ I started making one or two notes but realised it would be better to just sit an
 
 ***
 
-## <a href="#paul-lloyd" id="paul-lloyd">§</a> Paul Lloyd: The Edge of the Web
+## <a href="#paul-lloyd" id="paul-lloyd">&sect;</a> Paul Lloyd: The Edge of the Web
 
 Paul’s presentation made some really interesting observations of TV’s technological transitions, from the 60s to now, and what we can take from them to help us with the challenges we face in RWD.
 
@@ -618,7 +618,7 @@ Paul’s presentation made some really interesting observations of TV’s techno
 
 ***
 
-## <a href="#mark-boulton" id="mark-boulton">§</a> Mark Boulton: In Between
+## <a href="#mark-boulton" id="mark-boulton">&sect;</a> Mark Boulton: In Between
 
 Mark delivered a really engaging talk on RWD and challenged some of our processes head-on.
 
