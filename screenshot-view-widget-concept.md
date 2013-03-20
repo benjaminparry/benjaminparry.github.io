@@ -10,7 +10,7 @@ published: true
 
 <img src="/im/case-study/vidivici/full/vidivici-view-widget-concept.png">
 
-> Portfolio view widget concept
+> View widget concept
 
 [&laquo; previous](/working/case-study-vidivici/screenshot-portfolio-holdings) | [Back to case study](/working/case-study-vidivici/) | [next &raquo;](/working/case-study-vidivici/screenshot-views-chart)
 

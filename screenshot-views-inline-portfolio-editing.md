@@ -10,7 +10,7 @@ published: true
 
 <img src="/im/case-study/vidivici/full/vidivici-inline-portfolio-editing.png">
 
-> Portfolio inline portfolio editing
+> Inline portfolio editing
 
 [&laquo; previous](/working/case-study-vidivici/screenshot-views-chart) | [Back to case study](/working/case-study-vidivici/) | [next &raquo;](/working/case-study-vidivici/screenshot-portfolio-analysis)
 
