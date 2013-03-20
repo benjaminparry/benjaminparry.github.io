@@ -2,6 +2,7 @@
 
 layout: layout
 title: is working
+type: case-study
 permalink: /working/case-study-vidivici/
 published: true
 
@@ -80,21 +81,20 @@ User testing indicated that these concept motivated the user to play and experim
 
 ### Screenshots
 
- * <a href="/im/case-study/vidivici-inline-porfolio-editing.png"><img src="/im/case-study/vidivici-inline-porfolio-editing-detail.png" alt="Image of inline porfolio editing."></a>
 
- * <a href="/im/case-study/vidivici-portfolio-analysis.png"><img src="/im/case-study/vidivici-portfolio-analysis-detail.png" alt="Image of portfolio analysis."></a>
+<div class="external-images">
+	<a href="/working/case-study-vidivici/screenshot-portfolio-analysis/"><img src="/im/case-study/vidivici/crop/vidivici-portfolio-analysis.png" alt="Image of portfolio analysis."></a>
+	<a href="/working/case-study-vidivici/screenshot-portfolio-holdings/"><img src="/im/case-study/vidivici/crop/vidivici-portfolio-holdings.png" alt="Image of portfolio-holdings."></a>
+	<a href="/working/case-study-vidivici/screenshot-view-widget-concept/"><img src="/im/case-study/vidivici/crop/vidivici-view-widget-concept.png" alt="Image of view widget concept."></a>
+	<a href="/working/case-study-vidivici/screenshot-views-chart/"><img src="/im/case-study/vidivici/crop/vidivici-views-chart.png" alt="Image of views chart."></a>
+	<a href="/working/case-study-vidivici/screenshot-inline-portfolio-editing/"><img src="/im/case-study/vidivici/crop/vidivici-inline-portfolio-editing.png" alt="Image of inline porfolio editing."></a>
+</div>
 
- * <a href="/im/case-study/vidivici-portfolio-holdings.png"><img src="/im/case-study/vidivici-portfolio-holdings-detail.png" alt="Image of portfolio-holdings."></a>
-
- * <a href="/im/case-study/vidivici-view-widget-concept.png"><img src="/im/case-study/vidivici-view-widget-concept-detail.png" alt="Image of view widget concept."></a>
-
- * <a href="/im/case-study/vidivici-views-chart.png"><img src="/im/case-study/vidivici-views-chart-detail.png" alt="Image of views chart."></a>
 
 ***
 
-If you have any further questions about my role at Vidivici or my process please feel free to contact me.
+**If you have any further questions about my role at Vidivici or my process please feel free to contact me.**
 
 {% include contact-blob.md %}
 
 ***
-

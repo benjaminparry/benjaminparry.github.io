@@ -1,16 +1,16 @@
 <!DOCTYPE HTML>
 
-<html>
+<html class="{{ page.type }}">
   <head>
     {% include head.html %}
   </head>
   <body>
     <div class="wrap">
-      {% include header.html %}
+      {% unless page.type == "full-image" %}{% include header.html %}{% endunless %}
       <section>
         {{ content }}
       </section>
-      {% include footer.html %}
+      {% unless page.type == "full-image" %}{% include footer.html %}{% endunless %}
     </div>
     {% include google-analytics.html %}
   </body>

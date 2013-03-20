@@ -604,7 +604,6 @@ Paul’s presentation made some really interesting observations of TV’s techno
 	* SVG
 	* CSS
 2. Content
-	* <img>
 	* 80% quality
 3. Decorative
 	* 60% quality

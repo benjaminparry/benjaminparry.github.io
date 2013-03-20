@@ -9,6 +9,10 @@
 	box-sizing: border-box;
 }
 
+img, embed, object, video {
+max-width:100%;
+}
+
 html {
 	height: 100%;
 }
@@ -32,4 +36,22 @@ body {
 a {
 	/* TODO: Add site link colours as a variable */
 	color: lighten(#0F448B, 5%);
+}
+
+img {
+	border: 1px solid lighten(#0F448B, 5%);
+}
+
+.external-images {
+	a {
+		margin-right: 1em;
+	}
+}
+
+.full-image {
+
+	text-align: center;
+	img {
+
+	}
 }

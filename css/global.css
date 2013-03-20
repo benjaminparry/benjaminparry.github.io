@@ -479,6 +479,9 @@ table {
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
 
+img, embed, object, video {
+  max-width: 100%; }
+
 html {
   height: 100%; }
 
@@ -498,6 +501,15 @@ body {
 a {
   
   color: #114fa2; }
+
+img {
+  border: 1px solid #114fa2; }
+
+.external-images a {
+  margin-right: 1em; }
+
+.full-image {
+  text-align: center; }
 
 .cv body {
   padding: 2em;
