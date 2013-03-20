@@ -506,7 +506,9 @@ img {
   border: 1px solid #114fa2; }
 
 .external-images a {
-  margin-right: 1em; }
+  display: inline-block;
+  margin-right: 1em;
+  margin-bottom: 1em; }
 
 .full-image {
   text-align: center; }
