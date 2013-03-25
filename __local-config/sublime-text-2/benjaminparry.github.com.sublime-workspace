@@ -4,16 +4,120 @@
 		"selected_items":
 		[
 			[
+				"d",
+				"d:ib	display:inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ex",
+				"experience"
+			],
+			[
+				"enha",
+				"enhancement"
+			],
+			[
+				"Ma",
+				"Mark"
+			],
+			[
+				"enh",
+				"enhancement"
+			],
+			[
+				"qu",
+				"Queries"
+			],
+			[
+				"en",
+				"enhancement"
+			],
+			[
+				"un",
+				"Universalit"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"base",
+				"Base64"
+			],
+			[
+				"Asset",
+				"assets"
+			],
+			[
+				"prac",
+				"practice"
+			],
+			[
+				"Acs",
+				"accessibility"
+			],
+			[
+				"Emer",
+				"Emerson"
+			],
+			[
+				"progre",
+				"Progressively"
+			],
+			[
+				"Progress",
+				"progressive"
+			],
+			[
+				"featu",
+				"Feature"
+			],
+			[
+				"Es",
+				"Establishing"
+			],
+			[
+				"user",
+				"user’s"
+			],
+			[
+				"case",
+				"case-study-vidivici"
+			],
+			[
+				"Wr",
+				"writing"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bcol",
+				"border-color"
+			],
+			[
+				"td",
+				"td	text-decoration: ${1:none};"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"Va",
+				"Vitae"
+			],
+			[
 				"lst",
 				"list:d	list-style-type:disc"
 			],
 			[
 				"back",
 				"background"
-			],
-			[
-				"pa",
-				"padding-left"
 			],
 			[
 				"border-st",
@@ -28,20 +132,8 @@
 				"fv:sc	font-variant:small-caps"
 			],
 			[
-				"d",
-				"d:i	display:inline"
-			],
-			[
 				"b",
 				"bg	background"
-			],
-			[
-				"user",
-				"users"
-			],
-			[
-				"ex",
-				"ext	@extend"
 			],
 			[
 				"tex",
@@ -94,10 +186,6 @@
 			[
 				"An",
 				"Analysis"
-			],
-			[
-				"font",
-				"font-size"
 			],
 			[
 				"butt",
@@ -186,10 +274,6 @@
 			[
 				"Vidivic",
 				"Vidivici"
-			],
-			[
-				"th",
-				"th"
 			],
 			[
 				"we’",
@@ -376,10 +460,6 @@
 				"font-size"
 			],
 			[
-				"base",
-				"baseGreen"
-			],
-			[
 				"btn",
 				"btnStretch"
 			],
@@ -434,86 +514,6 @@
 			[
 				"ready",
 				"ready	document-ready"
-			],
-			[
-				"hBa",
-				"hBasePR"
-			],
-			[
-				"css",
-				".css	css (map)"
-			],
-			[
-				"ou",
-				"outerHeight"
-			],
-			[
-				"animate",
-				".animate	animate"
-			],
-			[
-				"hm",
-				"hSmallMB"
-			],
-			[
-				"di",
-				"div"
-			],
-			[
-				"marg",
-				"margin-right	zen:css_properties"
-			],
-			[
-				"border-col",
-				"border-color	zen:css_properties"
-			],
-			[
-				"closest",
-				".closest	.closest"
-			],
-			[
-				"sT-",
-				"sT-IconUserSml"
-			],
-			[
-				"da",
-				"data-bind"
-			],
-			[
-				"dis",
-				"display"
-			],
-			[
-				"hM",
-				"hMicroML"
-			],
-			[
-				"test",
-				"text-align	zen:css_properties"
-			],
-			[
-				"M",
-				"Moderate"
-			],
-			[
-				"leag",
-				"league"
-			],
-			[
-				"border-co",
-				"border-color	zen:css_properties"
-			],
-			[
-				"but",
-				"buttonLight"
-			],
-			[
-				"trans",
-				"transparent"
-			],
-			[
-				"Mod",
-				"rlModerate"
 			]
 		]
 	},
@@ -526,6 +526,42 @@
 		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"has",
+				"Hasher: Entity Encode"
+			],
+			[
+				"hash",
+				"Hasher: Entity Encode"
+			],
+			[
+				"has en",
+				"Hasher: Entity Encode"
+			],
+			[
+				"hash ",
+				"Hasher: Entity Encode"
+			],
+			[
+				"hash en",
+				"Hasher: Entity Encode"
+			],
+			[
+				"ha en",
+				"Hasher: Entity Encode"
+			],
+			[
+				"hasher",
+				"Hasher: Entity Encode"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
 			[
 				"key",
 				"Preferences: Key Bindings - User"
@@ -545,10 +581,6 @@
 			[
 				"diabl",
 				"Package Control: Disable Package"
-			],
-			[
-				"inst",
-				"Package Control: Install Package"
 			],
 			[
 				"show",
@@ -572,10 +604,6 @@
 			],
 			[
 				"ins",
-				"Package Control: Install Package"
-			],
-			[
-				"pa",
 				"Package Control: Install Package"
 			],
 			[
@@ -636,22 +664,54 @@
 	},
 	"file_history":
 	[
-		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_includes/header.html",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/case-study-vidivici.md",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_posts/2013-03-07-responsive-day-out-2013.md",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/screenshot-portfolio-analysis.md",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/screenshot-portfolio-holdings.md",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/screenshot-view-widget-concept.md",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/screenshot-views-chart.md",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/screenshot-views-inline-portfolio-editing.md",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/css/themes/_base.scss",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/__local-config/sublime-text-2/benjaminparry.github.com.sublime-project",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_layouts/cv.html",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/curriculum-vitae.md",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/css/themes/_all.scss",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/css/base/_variables.scss",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_includes/contact-blob.md",
 		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/index.html",
 		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_layouts/layout.html",
-		"/Users/benjaminparry/Desktop/Things_2.1/CORE.NFO",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_posts/2013-02-16-ground-zero.md",
 		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/working.md",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/css/base/_normalize–v1.1.0.css.scss",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_includes/header.html",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_includes/head.html",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/css/themes/_screenshots.scss",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_layouts/full-image.html",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/vidivici-portfolio-analysis.md",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/full-image-test.md",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_posts/attached-image-test.md",
+		"/Users/benjaminparry/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_includes/contact-blob.html",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_includes/contact-details.html",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/css/base/_typography.scss",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/css/base/_helpers.scss",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/css/global.scss",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_includes/footer.html",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/css/base/_all.scss",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/css/themes/_cv.scss",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/css/base/_base.scss",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/css/global.min.css",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/.gitignore",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/css/watch.sh",
+		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_includes/google-analyitics.html",
+		"/Users/benjaminparry/Desktop/Things_2.1/CORE.NFO",
 		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_posts/2013-02-19-photoshop-tips-and-discoveries.md",
 		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_config.yml",
 		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/writing.md",
-		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/css/global.scss",
-		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/css/watch.sh",
 		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_posts/2013-02-15-Ground-Zero.md",
 		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/writings.md",
-		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/__local-config/sublime-text-2/benjaminparry.github.com.sublime-project",
 		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_site/index.html",
 		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_layouts/post.html",
-		"/Users/benjaminparry/Dropbox/Development/github/benjaminparry/benjaminparry.github.com/_includes/footer.html",
 		"/Users/benjaminparry/Development/github/benjaminparry/benjaminparry.github.com/_layouts/layout.html",
 		"/Users/benjaminparry/Development/github/benjaminparry/benjaminparry.github.com/index.html",
 		"/Users/benjaminparry/Development/github/benjaminparry/benjaminparry.github.com/_site/1985/10/26/Test-Post/index.html",
@@ -695,7 +755,6 @@
 		"/Users/benjaminparry/Development/codename-lifeboat/socialcapitalgroup/index.html",
 		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/index.html",
 		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/dashboard.html",
-		"/Users/benjaminparry/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_type.scss",
 		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/partnersignup.html",
 		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/signup.html",
@@ -732,42 +791,11 @@
 		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_help.scss",
 		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/signedup.html",
 		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/modules/objects/_holdings.scss",
-		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/help/tour.html",
-		"/Users/benjaminparry/Desktop/TO INSTALL/JSRef.v1.1.MacOSX.Retail-CORE/core.nfo",
-		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/help/portfolio.html",
-		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/forgotpassword.html",
-		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_uiTabs.scss",
-		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/help/riskleagues.html",
-		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/help/portfoliochanges.html",
-		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/help/expectedreturn.html",
-		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/global-34.scss",
-		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/_league.html",
-		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_widgets.scss",
-		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/_viewtemplates.html",
-		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/site/js/ideas-33.js",
-		"/Users/benjaminparry/Desktop/CompareTools.plist",
-		"/Users/benjaminparry/Desktop/kaleidoscope2.sh",
-		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/site/js/ideas-31.js",
-		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/global-32.scss",
-		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/site/js/dashboard-30.js",
-		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/_game.html",
-		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_jQueryAutocomplete.scss",
-		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_base.scss",
-		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/site/css/global-32.css",
-		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/modules/navigation/_navigation-portfolio.scss",
-		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/fantasy/ideas.html",
-		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/real/ideas.html",
-		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/modules/widgets/_widget-inline-ideas.scss",
-		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/type/_type-headings.scss",
-		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/site/js/vv-32.js",
-		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/real.html",
-		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/fantasy.html",
-		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/settings.html",
-		"/Users/benjaminparry/vidivici/development/server/src/main/resources/sass/scss/_portfolio.scss"
+		"/Users/benjaminparry/vidivici/development/server/src/main/webapp/f/help/tour.html"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 36.0
 	},
 	"find_in_files":
 	{
@@ -782,6 +810,39 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"* ",
+			"inline-portfolio-editing",
+			"inline portfolio editing",
+			"views-chart",
+			"views chart",
+			"view-widget-concept",
+			"/im/case-study/vidivici/full/",
+			"img",
+			"detail",
+			"/im/case-study/",
+			"attached",
+			"#000000",
+			"#0F448B",
+			"Add",
+			"§",
+			"id=",
+			"university",
+			"Universality",
+			"Universalit",
+			"Elliot Jay Stocks",
+			"\n**[",
+			"vidivici-inline-porfolio-editing",
+			"032D07",
+			"000700",
+			"083905",
+			"#fe57a1",
+			"030303",
+			"\\#",
+			"\\-\\-\\-",
+			"\\#",
+			"~",
+			"class",
+			"page class",
 			"csswizardry",
 			"body",
 			"main",
@@ -876,40 +937,7 @@
 			".buttonsWrap",
 			"column-main-content",
 			"riskbefore",
-			"marker-risk-current",
-			"before",
-			"value",
-			"helpCoWrapT",
-			"gMain",
-			"h2",
-			"boxFillShadow",
-			"portVD",
-			">\n",
-			"highest return",
-			"status",
-			"919191",
-			"holding-view",
-			"item-cash",
-			"under",
-			"below",
-			".marker-risk-current",
-			"span",
-			"riskbefore",
-			"before",
-			"riskSliderValue",
-			"Projections()",
-			"riskBefore",
-			"root",
-			"riskBefore",
-			"riskSliderValue",
-			"riskBefore",
-			"current",
-			"riskBefore",
-			"markerImageIcon",
-			"risk-current-",
-			"trasition",
-			"marker-risk-current",
-			"data-bind=\"style"
+			"marker-risk-current"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -993,24 +1021,160 @@
 		"selected_items":
 		[
 			[
-				"hea",
+				"res",
+				"_posts/2013-03-07-responsive-day-out-2013.md"
+			],
+			[
+				"case",
+				"case-study-vidivici.md"
+			],
+			[
+				"base",
+				"css/themes/_base.scss"
+			],
+			[
+				"view",
+				"screenshot-view-widget-concept.md"
+			],
+			[
+				"hold",
+				"screenshot-portfolio-holdings.md"
+			],
+			[
+				"scree",
+				"screenshot-views-chart.md"
+			],
+			[
+				"inli",
+				"__local-config/sublime-text-2/benjaminparry.github.com.sublime-project"
+			],
+			[
+				"screen",
+				"screenshot-portfolio-analysis.md"
+			],
+			[
+				"nor",
+				"css/base/_normalize–v1.1.0.css.scss"
+			],
+			[
+				"full",
+				"_layouts/full-image.html"
+			],
+			[
+				"vidivici-portfolio-analysis",
+				"vidivici-portfolio-analysis.md"
+			],
+			[
+				"var",
+				"css/base/_variables.scss"
+			],
+			[
+				"post",
+				"_layouts/post.html"
+			],
+			[
+				"hear",
 				"_includes/header.html"
+			],
+			[
+				"head",
+				"_includes/head.html"
+			],
+			[
+				"test",
+				"full-image-test.md"
 			],
 			[
 				"index",
 				"index.html"
 			],
 			[
+				"header",
+				"_includes/header.html"
+			],
+			[
+				"the",
+				"css/themes/_all.scss"
+			],
+			[
 				"lay",
 				"_layouts/layout.html"
+			],
+			[
+				"groun",
+				"_posts/2013-02-16-ground-zero.md"
+			],
+			[
+				"cv",
+				"curriculum-vitae.md"
+			],
+			[
+				"",
+				"_posts/2013-03-07-responsive-day-out-2013.md"
+			],
+			[
+				"con",
+				"_includes/contact-blob.md"
+			],
+			[
+				"la",
+				"_layouts/cv.html"
+			],
+			[
+				"conta",
+				"_includes/contact-blob.html"
+			],
+			[
+				"workin",
+				"working.md"
+			],
+			[
+				"worki",
+				"working.md"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"ground",
+				"_posts/2013-02-16-ground-zero.md"
+			],
+			[
+				"foo",
+				"_includes/footer.html"
+			],
+			[
+				"css",
+				"css/global.min.css"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"wat",
+				"css/watch.sh"
+			],
+			[
+				"gl",
+				"css/global.scss"
 			],
 			[
 				"glo",
 				"css/global.scss"
 			],
 			[
-				"",
-				"_layouts/layout.html"
+				"ind",
+				"working.md"
+			],
+			[
+				"posts",
+				"_posts/2013-02-16-ground-zero.md"
+			],
+			[
+				"hea",
+				"_includes/header.html"
 			],
 			[
 				"pho",
@@ -1029,40 +1193,16 @@
 				"_posts/2013-02-19-photoshop-tips-and-discoveries.md"
 			],
 			[
-				"worki",
-				"working.md"
-			],
-			[
 				"wri",
 				"writing.md"
-			],
-			[
-				"inde",
-				"index.html"
 			],
 			[
 				"work",
 				"working.md"
 			],
 			[
-				"hear",
-				"_includes/header.html"
-			],
-			[
 				"footer",
 				"_includes/footer.html"
-			],
-			[
-				"ind",
-				"index.html"
-			],
-			[
-				"post",
-				"_layouts/post.html"
-			],
-			[
-				"con",
-				"socialcapitalgroup.github.com/contact-us.html"
 			],
 			[
 				"fin",
@@ -1071,10 +1211,6 @@
 			[
 				"read",
 				"socialcapitalgroup.github.com/README.md"
-			],
-			[
-				"conta",
-				"socialcapitalgroup.github.com/contact-us.html"
 			],
 			[
 				"who",
@@ -1147,10 +1283,6 @@
 			[
 				"indx",
 				"index.html"
-			],
-			[
-				"var",
-				"public/styles/_vars.scss"
 			],
 			[
 				"confi",
@@ -1277,10 +1409,6 @@
 				"sass/scss/modules/graphs/_bar-charts.scss"
 			],
 			[
-				"hold",
-				"sass/scss/modules/objects/_holdings.scss"
-			],
-			[
 				"text",
 				"sass/scss/theme/_textures.scss"
 			],
@@ -1365,10 +1493,6 @@
 				"webapp/f/real.html"
 			],
 			[
-				"head",
-				"sass/scss/type/_type-headings.scss"
-			],
-			[
 				"ideas",
 				"webapp/f/real/ideas.html"
 			],
@@ -1383,10 +1507,6 @@
 			[
 				"fan",
 				"webapp/f/fantasy.html"
-			],
-			[
-				"base",
-				"sass/scss/_base.scss"
 			],
 			[
 				"gra",
@@ -1411,98 +1531,6 @@
 			[
 				"chart",
 				"webapp/site/js/chart-31.js"
-			],
-			[
-				"link",
-				"sass/scss/buttons-links/_text-link.scss"
-			],
-			[
-				"wid",
-				"sass/scss/_widgets.scss"
-			],
-			[
-				"spinne",
-				"sass/scss/sprites/animated/_spinners.scss"
-			],
-			[
-				"fant",
-				"webapp/f/fantasy.html"
-			],
-			[
-				"gri",
-				"sass/scss/grid/_grid-base.scss"
-			],
-			[
-				"str",
-				"sass/scss/modules/structure/_enclosure.scss"
-			],
-			[
-				"abou",
-				"webapp/aboutus.html"
-			],
-			[
-				"widget",
-				"sass/scss/modules/widgets/_widget-inline-ideas.scss"
-			],
-			[
-				"gl",
-				"sass/scss/global-32.scss"
-			],
-			[
-				"idea",
-				"webapp/f/real/ideas.html"
-			],
-			[
-				"vidivi",
-				"sass/scss/_vidiviciColourPalatte.scss"
-			],
-			[
-				"gid",
-				"sass/scss/grid/_grid-base.scss"
-			],
-			[
-				"a",
-				"webapp/aboutus.html"
-			],
-			[
-				"dea",
-				"webapp/templates-hidden/default.html"
-			],
-			[
-				"nor",
-				"sass/scss/_normalizeCustomBenjaminParry.scss"
-			],
-			[
-				"cont",
-				"webapp/contact.html"
-			],
-			[
-				"team",
-				"webapp/team.html"
-			],
-			[
-				"game",
-				"webapp/_game.html"
-			],
-			[
-				"icindex",
-				"webapp/ic/index.html"
-			],
-			[
-				"icgame",
-				"webapp/ic/game.html"
-			],
-			[
-				"ic",
-				"webapp/ic/index.html"
-			],
-			[
-				"vv",
-				"webapp/site/js/vv-31.js"
-			],
-			[
-				"global",
-				"sass/scss/global-31.scss"
 			]
 		],
 		"width": 0.0
