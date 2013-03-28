@@ -8,9 +8,9 @@ published: true
 
 ---
 
-<img src="/im/case-study/vidivici/full/vidivici-inline-portfolio-editing.png">
+<div class="full-image-item"><img src="/im/case-study/vidivici/full/vidivici-inline-portfolio-editing.png"></div>
 
-> Inline portfolio editing
+> # Inline portfolio editing
 
-[&laquo; previous](/working/case-study-vidivici/screenshot-views-chart) | [Back to case study](/working/case-study-vidivici/) | [next &raquo;](/working/case-study-vidivici/screenshot-portfolio-analysis)
+> [&laquo; previous](/working/case-study-vidivici/screenshot-views-chart) | [Back to case study](/working/case-study-vidivici/) | [next &raquo;](/working/case-study-vidivici/screenshot-portfolio-analysis)
 

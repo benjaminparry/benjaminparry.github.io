@@ -8,9 +8,8 @@ published: true
 
 ---
 
-<img src="/im/case-study/vidivici/full/vidivici-portfolio-holdings.png">
+<div class="full-image-item"><img src="/im/case-study/vidivici/full/vidivici-portfolio-holdings.png"></div>
 
-> Portfolio holdings view
-
-[&laquo; previous](/working/case-study-vidivici/screenshot-portfolio-analysis) | [Back to case study](/working/case-study-vidivici/) | [next &raquo;](/working/case-study-vidivici/screenshot-view-widget-concept)
+> # Portfolio holdings view
+> [&laquo; previous](/working/case-study-vidivici/screenshot-portfolio-analysis) | [Back to case study](/working/case-study-vidivici/) | [next &raquo;](/working/case-study-vidivici/screenshot-view-widget-concept)
 

@@ -506,13 +506,44 @@ a {
 img {
   border: 1px solid #114fa2; }
 
+li {
+  margin-bottom: 0.5em; }
+
 .external-images a {
   display: inline-block;
   margin-right: 1em;
   margin-bottom: 1em; }
 
+
 .full-image {
-  text-align: center; }
+   }
+  .full-image body {
+    padding: 1em; }
+  .full-image .wrap {
+    position: relative; }
+  .full-image h1 {
+    font-size: 1.5em;
+    margin-top: 0; }
+  .full-image h2 {
+    font-size: 1.25em;
+    margin-top: 0; }
+  .full-image blockquote {
+    width: 18em;
+    float: left;
+    margin: 0;
+    position: absolute;
+    top: 0; }
+  .full-image .full-image-item {
+    padding-left: 22em; }
+  @media all and (max-width: 60em) {
+    .full-image blockquote {
+      width: 100%;
+      float: none;
+      margin: 0;
+      position: relative; }
+    .full-image .full-image-item {
+      padding-left: 0;
+      margin-top: 4em; } }
 
 .cv body {
   padding: 2em;

@@ -79,15 +79,18 @@ User testing indicated that these concept motivated the user to play and experim
 	* Sass and Compass re-processing
 
 
-### Screenshots
-
+### Images:
 
 <div class="external-images">
-	<a href="/working/case-study-vidivici/screenshot-portfolio-analysis/"><img src="/im/case-study/vidivici/crop/vidivici-portfolio-analysis.png" alt="Image of portfolio analysis."></a>
+	<a href="/working/case-study-vidivici/screenshot-view-widget-concept/">
+		<img src="/im/case-study/vidivici/crop/vidivici-view-widget-concept.png" alt="Image of view widget concept.">
+		<p>View widget concept</p>
+	</a>
+<!-- 	<a href="/working/case-study-vidivici/screenshot-portfolio-analysis/"><img src="/im/case-study/vidivici/crop/vidivici-portfolio-analysis.png" alt="Image of portfolio analysis."></a>
 	<a href="/working/case-study-vidivici/screenshot-portfolio-holdings/"><img src="/im/case-study/vidivici/crop/vidivici-portfolio-holdings.png" alt="Image of portfolio-holdings."></a>
-	<a href="/working/case-study-vidivici/screenshot-view-widget-concept/"><img src="/im/case-study/vidivici/crop/vidivici-view-widget-concept.png" alt="Image of view widget concept."></a>
+	
 	<a href="/working/case-study-vidivici/screenshot-views-chart/"><img src="/im/case-study/vidivici/crop/vidivici-views-chart.png" alt="Image of views chart."></a>
-	<a href="/working/case-study-vidivici/screenshot-inline-portfolio-editing/"><img src="/im/case-study/vidivici/crop/vidivici-inline-portfolio-editing.png" alt="Image of inline porfolio editing."></a>
+	<a href="/working/case-study-vidivici/screenshot-inline-portfolio-editing/"><img src="/im/case-study/vidivici/crop/vidivici-inline-portfolio-editing.png" alt="Image of inline porfolio editing."></a> -->
 </div>
 
 

@@ -36,19 +36,15 @@ Getting Jekyll to work with Mixture was incredibly quick and easy.
 4. Click **View Locally** in the Mixture.app sidebar
 	* This will open a new browser window/tab with your Jekyll site at the mercy of Mixture
 
-### Conflicts
+### Mr Hyde
 
-I got a tweet yesterday asking about conflicts with Mixture while running the Jekyll server with the watch/auto flags
+I&rsquo;m not currently using Compass in my workflow but [Jupiter St. John](http://webcatseo.com/) has pointed out a live-refresh lag when running Jekyll Mixture and Compass together. Jupiter has done some digging around on the subject:
 
-<pre>jekyll --server --watch</pre>
+> When Jekyll generates files, it deletes all files and folders from the output directory <code>_site</code>. Furthermore, naturally, the generated files are written to disk serially and during a long period (~3s for a small site).
 
-or
+> *Taken from [Jekyll and Livereload Flow](http://thanpol.as/jekyll/jekyll-and-livereload-flow/)*
 
-<pre>jekyll --server --auto</pre>
-
-I&rsquo;ve never actually run the Jekyll server with watch/auto flags and it&rsquo;s always worked fine for me.
-
-So my advice if you are having problems with conflicts, try omitting the watch/auto flags.
+The article goes on to offer a remedy that uses [Grunt](http://gruntjs.com/).
 
 ### What&rsquo;s Next?
 
@@ -59,5 +55,9 @@ I&rsquo;m holding out for some Github support in the future and really excited a
 #### Links
 
 * [Get Mixture.app here](http://mixture.io)
+* [Setting up Mixture&rsquo;s simple mode (YouTube)](http://www.youtube.com/watch?feature=player_embedded&v=UxUBvDU0qn4) (video)
 * [Mixture Docs](http://docs.mixture.io)
 * [Jekyll @ Github](https://github.com/mojombo/jekyll)
+* [Jupiter St. John&rsquo;s site](http://webcatseo.com/)
+* [Thanasis Polychronakis&rsquo;s article ~ Jekyll and Livereload Flow](http://thanpol.as/jekyll/jekyll-and-livereload-flow/)
+* [Grunt.js](http://gruntjs.com/)
