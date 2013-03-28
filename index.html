@@ -4,37 +4,39 @@ type: landing
 title: UX/UI Designer ~ Personal writings and website
 ---
 
+<aside role="complementary">
+  <img src="/im/benjamin-parry.jpg" alt=" ">
+  <h2>Benjamin Parry: UX/UI Designer</h2>
+  <p>This is my personal site where <a href="/writing/">I write</a> about my experience working in UX/UI design and share notes on my working processes.</p>
+  <h3>About me</h3>
+  <p>I live and work in Brighton UK with my fianc&eacute; and son. I&rsquo;ve been <a href="/working/">working</a> as a <strong>UX/UI designer</strong> for startup company Vidivici &ndash; <a href="/working/case-study-vidivici/">read the case study &raquo;</a>.</p>
+  <h4>Elsewhere</h4>
+  <p>I&rsquo;m also available at these other websites:</p>
+  <!-- Indie Webcamp
+  How To Set Up Web Sign-In On Your Own Domain
+  http://indiewebcamp.com/How_to_set_up_web_sign-in_on_your_own_domain?redirected=How%20to%20set%20up%20web%20sign-in%20on%20your%20own%20domain -->
+  <ul>
+    <li><a href="https://twitter.com/benjaminparry" rel="me" target="_blank">Twitter</a></li>
+    <li><a href="https://github.com/benjaminparry" rel="me" target="_blank">Github</a></li>
+    <li><a href="http://dribbble.com/benjaminparry" rel="me" target="_blank">Dribbble</a></li>
+    <li><a href="http://pinboard.in/u:benjaminparry" rel="me" target="_blank">Pinboard</a></li><li><a href="http://huffduffer.com/BenjaminParry" rel="me" target="_blank">Huffduffer</a></li>
+    <li><a href="http://lanyrd.com/profile/benjaminparry/" rel="me" target="_blank">Lanyrd</a></li>
+    <li><a href="http://www.flickr.com/people/benjaminparry/" rel="me" target="_blank">Flickr</a></li>
+  </ul>
+</aside>
+
 <main role="main">
   <div class="content">
     <div class="related">
-      <img src="/im/benjamin-parry.jpg" alt=" ">
-      <h2>Benjamin Parry: UX/UI Designer</h2>
-      <p>This is my personal site where <a href="/writing/">I write</a> about my experience working in UX/UI design and share notes on my working processes.</p>
-      <h3>About me</h3>
-      <p>I live and work in Brighton UK with my fianc&eacute; and son. I&rsquo;ve been <a href="/working/">working</a> as a <strong>UX/UI designer</strong> for startup company Vidivici &ndash; <a href="/working/case-study-vidivici/">read the case study &raquo;</a>.</p>
-      <h4>Elsewhere</h4>
-      <p>I&rsquo;m also available at these other websites:</p>
-      <!-- Indie Webcamp
-      How To Set Up Web Sign-In On Your Own Domain
-      http://indiewebcamp.com/How_to_set_up_web_sign-in_on_your_own_domain?redirected=How%20to%20set%20up%20web%20sign-in%20on%20your%20own%20domain -->
+      <h1>Writings</h1>
       <ul>
-        <li><a href="https://twitter.com/benjaminparry" rel="me" target="_blank">Twitter</a></li>
-        <li><a href="https://github.com/benjaminparry" rel="me" target="_blank">Github</a></li>
-        <li><a href="http://dribbble.com/benjaminparry" rel="me" target="_blank">Dribbble</a></li>
-        <li><a href="http://pinboard.in/u:benjaminparry" rel="me" target="_blank">Pinboard</a></li><li><a href="http://huffduffer.com/BenjaminParry" rel="me" target="_blank">Huffduffer</a></li>
-        <li><a href="http://lanyrd.com/profile/benjaminparry/" rel="me" target="_blank">Lanyrd</a></li>
-        <li><a href="http://www.flickr.com/people/benjaminparry/" rel="me" target="_blank">Flickr</a></li>
+        {% for post in site.posts %}
+        <li>
+    <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
       </ul>
     </div>
   </div>
 </main>
-<aside role="complementary">
-    <h1>Writings</h1>
-    <ul>
-      {% for post in site.posts %}
-      <li>
-  <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-      {% endfor %}
-    </ul>
-</aside>
+

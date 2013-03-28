@@ -2,6 +2,8 @@
 // § General site styles
 // =====================
 
+
+
 /* apply a natural box layout model to all elements */
 * {
 	-moz-box-sizing: border-box;
@@ -16,6 +18,10 @@ img, embed, object, video {
 
 html {
 	height: 100%;
+}
+
+section {
+	@extend .cf;
 }
 
 body {
@@ -47,6 +53,7 @@ li {
 	margin-bottom: 0.5em;
 }
 
+/* TODO: Give this it’s own fragment */
 .external-images {
 	a {
 		display: inline-block;
@@ -54,6 +61,24 @@ li {
 		margin-bottom: 1em;
 	}
 }
+
+
+/* TODO: Give this it’s own fragment */
+.landing {
+	/* TODO: Mobile First!!! */
+	@media all and (min-width: 37.500em) {
+		[role="complementary"] {
+			float: right;
+			width: 40%;
+		}
+		[role="main"] {
+			float: left;
+			width: 60%;
+			padding-right: 2em;
+		}
+	}
+}
+
 /* TODO: Give this it’s own fragment */
 .full-image {
 	body {

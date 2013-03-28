@@ -456,21 +456,22 @@ table {
  * 2. The use of `table` rather than `block` is only necessary if using
  *    `:before` to contain the top-margins of child elements.
  */
-.cf:before,
-.cf:after {
+.cf:before, section:before,
+.cf:after,
+section:after {
   content: " ";
   /* 1 */
   display: table;
   /* 2 */ }
 
-.cf:after {
+.cf:after, section:after {
   clear: both; }
 
 /**
  * For IE 6/7 only
  * Include this rule to trigger hasLayout and contain floats.
  */
-.cf {
+.cf, section {
   *zoom: 1; }
 
 /* apply a natural box layout model to all elements */
@@ -509,10 +510,23 @@ img {
 li {
   margin-bottom: 0.5em; }
 
+
 .external-images a {
   display: inline-block;
   margin-right: 1em;
   margin-bottom: 1em; }
+
+
+.landing {
+   }
+  @media all and (min-width: 37.5em) {
+    .landing [role="complementary"] {
+      float: right;
+      width: 40%; }
+    .landing [role="main"] {
+      float: left;
+      width: 60%;
+      padding-right: 2em; } }
 
 
 .full-image {
