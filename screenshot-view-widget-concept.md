@@ -2,23 +2,21 @@
 
 type: full-image
 layout: full-image
-title: Vidivici view widget concept
-permalink: /working/case-study-vidivici/screenshot-view-widget-concept/
+title: Vidivici navigation refresh
+permalink: /working/case-study-vidivici/screenshot-navigation-refresh/
 published: true
 
 ---
 
 <!-- > [&laquo; previous](/working/case-study-vidivici/screenshot-portfolio-holdings) | [Back to case study](/working/case-study-vidivici/) | [next &raquo;](/working/case-study-vidivici/screenshot-views-chart) -->
 
-> # View widget concept
+> # Navigation refresh
 
 > **Task:**
 
-> * Refine the visual concept of a user&rsquo;s view within the site feed
-> * Develop an icon set to communicate current view and changes since last time expressed (to be used in other components)
-> * Improve interaction to promote more frequent view entry
-
-> *Design mock-ups, scheduled for development mid 2013*
+> * Redesign main navigation targeting concerns raised from user feedback
+> * Make top-level navigation more accessible and task based
+> * Highlight portfolio improvement notifications
 
 > [&laquo; Back to case study](/working/case-study-vidivici/#images)
 
@@ -27,26 +25,30 @@ published: true
 	<h2>Process</h2>
 	<p><strong>Problems:</strong></p>
 
-	<img src="/im/case-study/vidivici/full/vidivici-view-widget-concept--previous.png">
+	<img src="/im/case-study/vidivici/full/vidivici-navigation-old--main.png">
 	<ul>
-		<li>Repetitive information</li>
-		<li>Impersonal and lack of user individuality</li>
-		<li>Verbose/confusing language</li>
-		<li>Disjointed placement of current icon set</li>
+		<li>User feedback and research highlighted problems with the main navigation. By default it wad hidden and shown on logo hover. The majority of users found it unintuitive.</li>
+	</ul>
+	<img src="/im/case-study/vidivici/full/vidivici-navigation-old--improvements.png">
+	<ul>
+		<li>Portfolio improvement notifications sere separated from the main navigation and also displayed on hover. This again caused confusion for the user.</li>
+	</ul>
+	<img src="/im/case-study/vidivici/full/vidivici-navigation-old--search.png">
+	<ul>
+		<li>Research showed some users weren&rsquo;t familiar with auto-complete searches and were looking for an indication of searching and either a button to click or pressing enter to confirm, neither of which were present.</li>
 	</ul>
 	<p><strong>Solutions:</strong></p>
-	<img src="/im/case-study/vidivici/full/vidivici-view-widget-concept--without-price-target.png">
+	
+	<img src="/im/case-study/vidivici/full/vidivici-navigation-new--main.png">
 	<ul>
-		<li>Setting new views and updating existing ones had to include a price target whereas comments were optional. To stimulate more conversation in the site, one direction was to reverse the current model so that comments are compulsory.</li>
-		<li>Additional conversational support for user mentions and replies was also designed.</li>
-		<li>Similar to user mentions, company mentions e.g. LSE:VOD for Vodafone, were also designed to hook into various feeds across the site. Both user and company mentions linked to the relevant pages on the site and are added via the comment input field.</li>
-		<li>View owner and timestamp are clearly separated and linked accordingly.</li>
+		<li>After reviewing the categorization analysis it was much clearer how the top-level task based navigation should be constructed: home, research, portfolios, user profile, settings, help.</li>
+		<li>Secondary task based navigation was applied based on card sorting activities.</li>
 	</ul>
-	<img src="/im/case-study/vidivici/full/vidivici-view-widget-concept--with-price-target.png">
+
+	<img src="/im/case-study/vidivici/full/vidivici-navigation-new--search.png">
 	<ul>
-		<li>Adding the optional price target is a simple extension of the base view model: an short-form price target and a set of three icons, both linked accordingly.</li>
-		<li>The short-form price target was designed to be used both as a readable non-graphical summary and a short-cut entry method that bypasses the views chart, and a way to add price targets via third party connected services like Twitter.</li>
-		<li>An example: <strong>LSE:LLOY +24% ~66.18p 2/4mths</strong> translates to <em>&ldquo;I think that Lloyds Banking Group PLC’s stock price will increase by 24% to roughly 66.18p per share in the next 2-4 months&rdquo;</em></li>
-		<li>As a starting point, the view dot icon was designed to match the scale of the dots on the views chart, from that scale the other icons were designed to communicate the sentiment of the view, either positive (up) negative (down) or no-change(equals), and the credibility star rating of the view. This icon set was also used elsewhere in other modules.</li>
+		<li>The research section was designed to show search results with optional related searches, progress indication was also added.</li>
+		<li>Classic inbox-style notifications were added to the relevant portfolio, these were also included in the portfolio page search widget.</li>
+		<li>User avatar&rsquo;s were also designed into the navigation</li>
 	</ul>
 </div>

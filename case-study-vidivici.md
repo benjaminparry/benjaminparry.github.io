@@ -79,7 +79,7 @@ User testing indicated that these concept motivated the user to play and experim
 	* Sass and Compass re-processing
 
 
-### Images:
+### Visual designs:
 
 <div class="external-images" id="images">
 	<a href="/working/case-study-vidivici/screenshot-view-widget-concept/">
@@ -89,6 +89,10 @@ User testing indicated that these concept motivated the user to play and experim
 	<a href="/working/case-study-vidivici/screenshot-asset-allocation-concept/">
 		<img src="/im/case-study/vidivici/crop/vidivici-asset-allocation.png" alt="Image of asset allocation.">
 		<div>Asset allocation concept</div>
+	</a>
+	<a href="/working/case-study-vidivici/screenshot-navigation-refresh/">
+		<img src="/im/case-study/vidivici/crop/vidivici-navigation-refresh.png" alt="Image of navigation.">
+		<div>Navigation refresh</div>
 	</a>
 <!-- 	<a href="/working/case-study-vidivici/screenshot-portfolio-analysis/"><img src="/im/case-study/vidivici/crop/vidivici-portfolio-analysis.png" alt="Image of portfolio analysis."></a>
 	<a href="/working/case-study-vidivici/screenshot-portfolio-holdings/"><img src="/im/case-study/vidivici/crop/vidivici-portfolio-holdings.png" alt="Image of portfolio-holdings."></a>
