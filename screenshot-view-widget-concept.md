@@ -10,8 +10,6 @@ published: true
 
 <!-- > [&laquo; previous](/working/case-study-vidivici/screenshot-portfolio-holdings) | [Back to case study](/working/case-study-vidivici/) | [next &raquo;](/working/case-study-vidivici/screenshot-views-chart) -->
 
-> [&laquo; Back to case study](/working/case-study-vidivici/)
-
 > # View widget concept
 
 > **Task:**
@@ -21,6 +19,8 @@ published: true
 > * Improve interaction to promote more frequent view entry
 
 > *Design mock-ups, scheduled for development mid 2013*
+
+> [&laquo; Back to case study](/working/case-study-vidivici/#images)
 
 
 <div class="full-image-item">
