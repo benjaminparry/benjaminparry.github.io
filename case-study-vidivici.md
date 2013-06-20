@@ -82,10 +82,10 @@ User testing indicated that these concept motivated the user to play and experim
 ### Visual designs:
 
 <div class="external-images" id="images">
-	<a href="/working/case-study-vidivici/screenshot-view-widget-concept/">
-		<img src="/im/case-study/vidivici/crop/vidivici-view-widget-concept.png" alt="Image of view widget concept.">
-		<div>View widget concept</div>
-	</a>
+  <!-- <a href="/working/case-study-vidivici/screenshot-view-widget-concept/">
+    <img src="/im/case-study/vidivici/crop/vidivici-view-widget-concept.png" alt="Image of view widget concept.">
+    <div>View widget concept</div>
+  </a> -->
 	<a href="/working/case-study-vidivici/screenshot-asset-allocation-concept/">
 		<img src="/im/case-study/vidivici/crop/vidivici-asset-allocation.png" alt="Image of asset allocation.">
 		<div>Asset allocation concept</div>
