@@ -2,7 +2,7 @@
 type: post
 layout: post
 title: Testing WebMentions
-categories : [webmentions]
+categories : [writing]
 published: true
 ---
 
