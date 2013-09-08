@@ -2,7 +2,7 @@
 layout: layout
 title: is writing
 permalink: /writing/
-published: false
+published: true
 ---
 
 # Writing
