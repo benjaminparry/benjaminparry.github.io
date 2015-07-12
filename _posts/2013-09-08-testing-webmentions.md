@@ -2,6 +2,7 @@
 type: post
 layout: post
 title: Testing WebMentions
+description: Testing webmentions for Jeremy.
 categories : [writing]
 published: true
 ---

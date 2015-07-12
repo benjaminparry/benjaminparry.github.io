@@ -3,6 +3,7 @@
 type: post
 layout: post
 title: Ground Zero
+description: Rebuilding my writing platform from the the ground up.
 categories : [writing]
 published: true
 
