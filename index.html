@@ -28,17 +28,8 @@ title: UX/UI Designer ~ Personal writings and website
 </aside>
 
 <main role="main">
-  <div class="content">
-    <div class="related">
-      <h1>Writings</h1>
-      <ul>
-        {% for post in site.posts %}
-        <li>
-    <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
+	<div class="content">
+		{% include writing.html %}
+	</div>
 </main>
 

@@ -100,12 +100,3 @@ User testing indicated that these concept motivated the user to play and experim
 	<a href="/working/case-study-vidivici/screenshot-views-chart/"><img src="/im/case-study/vidivici/crop/vidivici-views-chart.png" alt="Image of views chart."></a>
 	<a href="/working/case-study-vidivici/screenshot-inline-portfolio-editing/"><img src="/im/case-study/vidivici/crop/vidivici-inline-portfolio-editing.png" alt="Image of inline porfolio editing."></a> -->
 </div>
-
-
-***
-
-**If you have any further questions about my role at Vidivici or my process please feel free to contact me.**
-
-{% include contact-blob.md %}
-
-***
