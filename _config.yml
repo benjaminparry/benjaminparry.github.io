@@ -1,3 +1,4 @@
 auto: true
 markdown: kramdown
 permalink: /:categories/:title
+url: 'http://benjamin.parry.is'
