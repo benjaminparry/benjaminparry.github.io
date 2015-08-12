@@ -44,9 +44,9 @@ If the club remains an hour, I approach the night a little differently:
 
 * Use the two weeks between to actively work on the goals I want to achieve to a point where I need some help
 * Publish a post pre-HWB with:
-	0. What I’ll be working on
-	0. What I need help with
-	0. What I can help others with
+	* What I’ll be working on
+	* What I need help with
+	* What I can help others with
 * Getting involved with the [Homebrew Website Club Meetup](https://indiewebcamp.com/next-hwc) site
 
 ## Kicking out
