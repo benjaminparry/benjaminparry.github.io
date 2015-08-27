@@ -1,0 +1,16 @@
+.reset-list {
+
+	
+}
+
+
+.list--inline > li {
+
+	display: inline;
+}
+
+
+.list--csv > li:after {
+
+	content: ",";
+}

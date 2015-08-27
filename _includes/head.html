@@ -1,12 +1,50 @@
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+	<!-- New -->
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+	<!-- What is? -->
+	<!-- <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"> -->
+	<!-- <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" /> -->
+
+	<meta name="google-site-verification" content="OtxzR5KGYsoSTV8BxUNnTTe2zo5cyjGnBHmoQ0uN8dI">
+
+	<!-- RWD 101 -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Authorship -->
+	<meta name="author" content="Benjamin Parry" />
+	<link rel="author" href="{{ site.url }}" />
+
+	<!-- <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}"> -->
+	<meta name="description" content="Benjamin Parry UX/UI Designer ~ personal writings and website.">
+	<meta name="keywords" content="benjamin, parry, benjamin, parry, ui, ux, design, writings, process, user experience">
+
+	<!-- <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title> -->
+	<title class="p-name">Benjamin Parry {% if page.type == "post" %}@benjaminparry ~ {% endif %}{{ page.title }}</title>
+
+	<!-- Icons -->
+	<link rel="shortcut icon" type="image/ico" src="/favicon.ico">
+	<link rel="shortcut icon apple-touch-icon" type="image/png" href="/icon.png" />
+
+	<!-- Styling -->
+	<link rel="stylesheet" href="{{ "/assets/css/main.min.css" | prepend: site.baseurl }}">
+
+	<!-- IndieAuth -->
+	<link rel="me" href="mailto:benjamin@parry.is" />
+	<link rel="me" href="sms:+447877241510" />
+	<link rel="openid.delegate" href="http://benjamin.parry.is/" />
+	<link rel="openid.server" href="https://indieauth.com/openid" />
+	<link rel="authorization_endpoint" href="https://indieauth.com/auth">
+	<link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+
+	<!-- Micropub -->
+	<!-- TODO https://quill.p3k.io/creating-a-micropub-endpoint -->
+	<!-- <link rel="micropub" href="https://benjamin.parry.is/micropub"> -->
+
+	<!-- Webmentions -->
+	<link rel="pingback" href="https://webmention.io/benjamin.parry.is/xmlrpc" />
+	<link rel="webmention" href="https://webmention.io/benjamin.parry.is/webmention" />
 </head>
+

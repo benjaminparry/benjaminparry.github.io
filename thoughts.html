@@ -1,0 +1,24 @@
+---
+permalink: /collecting/thoughts/
+layout: default
+---
+
+<h1>All thoughts</h1>
+
+<ul>
+	{% for item in site.thoughts limit:6 | sort: 'name' %}
+	<li>
+		<article class="h-entry">
+			<h1 class="p-description">{{ item.title }}</h1>
+			<div class="p-name e-content">
+				{{ item.content }}
+			</div>
+			<footer>
+				<p class="meta">
+					Posted: <a class="u-url u-syndication" href="{{ item.url }}" rel="syndication"><time class="dt-published" datetime="{{ item.date }}">{{ item.date }}</time></a>
+				</p>
+			</footer>
+		</article>
+	</li>
+	{% endfor %}
+</ul>

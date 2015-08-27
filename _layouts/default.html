@@ -1,20 +1,25 @@
 <!DOCTYPE html>
-<html>
 
-  {% include head.html %}
+<html class="h-feed {{ page.type }}">
 
-  <body>
+	{% include head.html %}
 
-    {% include header.html %}
+	<body>
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+		<div class="wrap">
 
-    {% include footer.html %}
+			{% include header.html %}
 
-  </body>
+			<section>
+				{{ content }}
+			</section>
+
+			{% include footer.html %}
+
+		</div>
+
+		{% include google-analytics.html %}
+
+	</body>
 
 </html>

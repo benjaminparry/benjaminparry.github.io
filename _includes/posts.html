@@ -1,0 +1,10 @@
+<ul>
+	{% for post in site.posts %}
+	<li class="e-content">
+		<article class="h-entry">
+			Posted: <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %e, %Y" }}</time> <a rel="syndication" href="{{ post.url }}" class="p-name u-url u-syndication">{{ post.title }}</a>
+			<p class="p-description">{{ post.description }}</p>
+		</article>
+	</li>
+	{% endfor %}
+</ul>
