@@ -4,6 +4,7 @@ html {
 *,
 *:before,
 *:after {
+
 	box-sizing: inherit;
 }
 
@@ -30,6 +31,58 @@ a {
 }
 
 
+
+/**
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    contenteditable attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that are clearfixed.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+.clearfix:before,
+.clearfix:after {
+	content: " "; /* 1 */
+	display: table; /* 2 */
+}
+
+.clearfix:after {
+	clear: both;
+}
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.clearfix {
+	*zoom: 1;
+}
+
+img {
+
+	max-width: 100%;
+	height: auto;
+
+	border: 1px solid hsl(214, 81%, 35%);
+}
+
+.reset-heading {
+
+	font-size: 1rem;
+	font-weight: normal;
+	margin-top: 0;
+}
+
+.heading {
+
+	font-weight: bold;
+}
+
+.heading--alpha {
+
+	font-size: 2rem;
+}
 
 .reset-list {
 
@@ -69,3 +122,12 @@ a {
 }
 
 
+@media (min-width: 37.5em) {
+
+	.landing [role="complementary"] {
+
+		float: right;
+		width: 40%;
+		padding-left: 3rem;
+	}
+}

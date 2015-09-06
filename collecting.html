@@ -3,19 +3,21 @@ permalink: /collecting/
 layout: default
 ---
 
-<h1>Everything</h1>
+<h1>Collecting:</h1>
 
 <ul>
 	{% for item in site.documents limit:6 | sort: 'name' %}
 	<li>
 		<article class="h-entry">
-			<h1 class="p-description">{{ item.title }}</h1>
+			<h1 class="p-description">
+				<a class="u-url" href="{{ item.url }}" rel="syndication">{{ item.title }}</a>
+			</h1>
 			<div class="p-name e-content">
 				{{ item.content }}
 			</div>
 			<footer>
 				<p class="meta">
-					Posted: <a class="u-url" href="{{ item.url }}" rel="syndication"><time class="dt-published" datetime="{{ item.date }}">{{ item.date }}</time></a> | Filed under: <a href="/collecting/{{ item.collection_type }}/">{{ item.collection_type }}</a>
+					Posted: <time class="dt-published" datetime="{{ item.date }}">{{ item.date }}</time> | Filed under: <a href="/collecting/{{ item.collection_type }}/">{{ item.collection_type }}</a>
 				</p>
 			</footer>
 		</article>
