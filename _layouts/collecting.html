@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+
+<article class="h-entry">
+	<h1 class="p-name">{{ page.title }}</h1>
+	<div class="e-content">
+		{{ content }}
+		{% if page.collection_type == "links" %}
+		&raquo; <a class="u-url" href="{{ page.link }}" larget="_blank">{{ page.link }}</a>
+		{% endif %}
+	</div>
+	<footer>
+		<p>Published: <time class="dt-published" datetime="{{ page.date | date: "%d %B %Y" }}">{{ page.date | date: "%d %B %Y" }}</time></p>
+		<a rel="syndication" href="{{ page.url }}" class="u-url u-syndication">permalink</a>
+	</footer>
+</article>

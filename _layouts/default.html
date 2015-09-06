@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html class="h-feed {{ page.type }}">
+
+	{% include head.html %}
+
+	<body>
+
+		<div class="wrap">
+
+			{% include header.html %}
+
+			<section class="clearfix">
+				{{ content }}
+			</section>
+
+			{% include footer.html %}
+
+		</div>
+
+		{% include google-analytics.html %}
+
+	</body>
+
+</html>
