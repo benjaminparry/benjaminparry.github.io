@@ -25,3 +25,6 @@ collections:
   links:
     output: true
     permalink: /collecting/:collection/:name-:title/
+  prototyping:
+    output: true
+    permalink: /:collection/:title/

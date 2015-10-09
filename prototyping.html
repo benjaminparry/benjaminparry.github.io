@@ -1,0 +1,14 @@
+---
+permalink: /prototyping/
+layout: default
+---
+
+<h1>Prototyping:</h1>
+
+<ul>
+	{% for item in site.prototyping reversed limit:6 | sort: 'name' %}
+	<li>
+		<a class="u-url" href="{{ item.url }}" rel="syndication">{{ item.title }}</a>
+	</li>
+	{% endfor %}
+</ul>
