@@ -6,7 +6,7 @@ layout: default
 <h1>Collecting: links</h1>
 
 <ul>
-	{% for item in site.links reversed limit:6 | sort: 'name' %}
+	{% for item in site.links reversed | sort: 'date' %}
 	<li>
 		<article class="h-entry">
 			<h1 class="p-description">
