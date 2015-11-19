@@ -19,12 +19,6 @@ markdown: kramdown
 
 # Collections
 collections:
-  thoughts:
+  collecting:
     output: true
-    permalink: /collecting/:collection/:name-:title/
-  links:
-    output: true
-    permalink: /collecting/:collection/:name-:title/
-  prototyping:
-    output: true
-    permalink: /:collection/:title/
+    permalink: /:collection/:name-:title/

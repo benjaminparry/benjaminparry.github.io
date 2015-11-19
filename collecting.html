@@ -6,11 +6,11 @@ layout: default
 <h1>Collecting:</h1>
 
 <ul>
-	{% for item in site.documents reversed limit:9 | sort: 'date' %}
+	{% for item in site.collecting reversed | sort: 'date' %}
 	<li>
 		<article class="h-entry">
 			<h1 class="p-description">
-				<a class="u-url" href="{{ item.url }}" rel="syndication">{{ item.title }}</a>
+				<a class="u-url u-syndication" href="{{ item.url }}" rel="syndication">{{ item.title }}</a>
 			</h1>
 			<div class="p-name e-content">
 				{{ item.content }}

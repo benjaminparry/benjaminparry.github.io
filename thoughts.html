@@ -6,7 +6,7 @@ layout: default
 <h1>Collecting: thoughts</h1>
 
 <ul>
-	{% for item in site.thoughts reversed limit:6 | sort: 'name' %}
+	{% for item in site.collecting reversed | sort: 'date' %}
 	<li>
 		<article class="h-entry">
 			<h1 class="p-description">

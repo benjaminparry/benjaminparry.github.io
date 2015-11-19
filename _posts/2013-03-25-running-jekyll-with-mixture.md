@@ -1,6 +1,6 @@
 ---
 type: post
-layout: post
+layout: collecting
 title: Running Jekyll with Mixture
 description: Some tips on running Jekyll with Mixture.io.
 categories : [writing]

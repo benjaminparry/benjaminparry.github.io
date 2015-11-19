@@ -1,6 +1,6 @@
 ---
 type: post
-layout: post
+layout: collecting
 title: Inspiring, Inspired.
 description: Some thoughts on giving back to the community.
 categories : [writing]
