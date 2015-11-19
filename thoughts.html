@@ -7,13 +7,14 @@ layout: default
 
 <ul>
 	{% for item in site.collecting reversed | sort: 'date' %}
+	{% if item.category contains 'thoughts' %}
 	<li>
 		<article class="h-entry">
 			<h1 class="p-description">
 				<a class="u-url u-syndication" href="{{ item.url }}" rel="syndication">{{ item.title }}</a>
 			</h1>
 			<div class="p-name e-content">
-				{{ item.content }}
+				<p>{{ item.posse }}</p>
 			</div>
 			<footer>
 				<p class="meta">
@@ -22,5 +23,6 @@ layout: default
 			</footer>
 		</article>
 	</li>
+	{% endif %}
 	{% endfor %}
 </ul>

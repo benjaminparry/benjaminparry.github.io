@@ -7,6 +7,7 @@ layout: default
 
 <ul>
 	{% for item in site.collecting reversed | sort: 'date' %}
+	{% if item.category contains 'links' %}
 	<li>
 		<article class="h-entry">
 			<h1 class="p-description">
@@ -22,5 +23,6 @@ layout: default
 			</footer>
 		</article>
 	</li>
+	{% endif %}
 	{% endfor %}
 </ul>
