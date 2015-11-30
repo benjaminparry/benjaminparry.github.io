@@ -22,7 +22,7 @@ layout: default
 			</div>
 			<footer>
 				<p class="meta">
-					Posted: <time class="dt-published" datetime="{{ item.date }}">{{ item.date }}</time> | Filed under: <a href="/collecting/{{ item.category }}/">{{ item.category }}</a>
+					Posted: <time class="dt-published" datetime="{{ item.date | date: "%d %B %Y" }}">{{ item.date | date: "%d %B %Y" }}</time> | Filed under: <a href="/collecting/{{ item.category }}/">{{ item.category }}</a>
 				</p>
 			</footer>
 		</article>
