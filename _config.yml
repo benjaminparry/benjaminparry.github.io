@@ -18,7 +18,7 @@ markdown: kramdown
 collections:
   collecting:
     output: true
-    permalink: /:collection/:categories/:path/
+    permalink: /:collection/:path/
     
 defaults:
   - scope:
