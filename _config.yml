@@ -12,7 +12,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 
-permalink: /:categories/:title
+# permalink: /:categories/:title
 
 # Build settings
 markdown: kramdown
