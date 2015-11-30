@@ -1,7 +1,7 @@
 ---
 
 type: post
-layout: post
+layout: collecting
 title: Ground Zero
 description: Rebuilding my writing platform from the the ground up.
 categories : [writing]

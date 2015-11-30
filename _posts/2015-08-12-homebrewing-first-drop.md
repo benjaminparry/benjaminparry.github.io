@@ -1,6 +1,6 @@
 ---
 type: post
-layout: post
+layout: collecting
 title: Homebrewing - First Drop
 description: Attending the inaugural Homebrew Website Club at 68 Middle Street Brighton 
 categories : [writing]

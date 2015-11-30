@@ -6,21 +6,24 @@ layout: default
 <h1>Collecting: thoughts</h1>
 
 <ul>
-	{% for item in site.thoughts reversed limit:6 | sort: 'name' %}
+	{% for item in site.collecting reversed | sort: 'date' %}
+	{% if item.category contains 'thoughts' %}
 	<li>
 		<article class="h-entry">
 			<h1 class="p-description">
 				<a class="u-url u-syndication" href="{{ item.url }}" rel="syndication">{{ item.title }}</a>
 			</h1>
 			<div class="p-name e-content">
-				{{ item.content }}
+				<!-- Wrapped in a <p> bacause the posse content is in the headstuff -->
+				<p>{{ item.posse }}</p>
 			</div>
 			<footer>
 				<p class="meta">
-					Posted: <time class="dt-published" datetime="{{ item.date }}">{{ item.date }}</time>
+					Posted: <time class="dt-published" datetime="{{ item.date | date: "%d %B %Y" }}">{{ item.date | date: "%d %B %Y" }}</time>
 				</p>
 			</footer>
 		</article>
 	</li>
+	{% endif %}
 	{% endfor %}
 </ul>

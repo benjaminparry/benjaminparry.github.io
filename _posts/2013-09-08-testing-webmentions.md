@@ -1,6 +1,6 @@
 ---
 type: post
-layout: post
+layout: collecting
 title: Testing WebMentions
 description: Testing webmentions for Jeremy.
 categories : [writing]

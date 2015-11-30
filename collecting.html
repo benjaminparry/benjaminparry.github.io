@@ -6,18 +6,23 @@ layout: default
 <h1>Collecting:</h1>
 
 <ul>
-	{% for item in site.documents reversed limit:9 | sort: 'date' %}
+	{% for item in site.collecting reversed | sort: 'date' %}
 	<li>
 		<article class="h-entry">
 			<h1 class="p-description">
-				<a class="u-url" href="{{ item.url }}" rel="syndication">{{ item.title }}</a>
+				<a class="u-url u-syndication" href="{{ item.url }}" rel="syndication">{{ item.title }}</a>
 			</h1>
 			<div class="p-name e-content">
+				{% if item.category == "links" %}
 				{{ item.content }}
+				{% endif %}
+				{% if item.category == "thoughts" %}
+				{{ item.posse }}
+				{% endif %}
 			</div>
 			<footer>
 				<p class="meta">
-					Posted: <time class="dt-published" datetime="{{ item.date }}">{{ item.date }}</time> | Filed under: <a href="/collecting/{{ item.collection_type }}/">{{ item.collection_type }}</a>
+					Posted: <time class="dt-published" datetime="{{ item.date | date: "%d %B %Y" }}">{{ item.date | date: "%d %B %Y" }}</time> | Filed under: <a href="/collecting/{{ item.category }}/">{{ item.category }}</a>
 				</p>
 			</footer>
 		</article>

@@ -6,7 +6,8 @@ layout: default
 <h1>Collecting: links</h1>
 
 <ul>
-	{% for item in site.links reversed | sort: 'date' %}
+	{% for item in site.collecting reversed | sort: 'date' %}
+	{% if item.category contains 'links' %}
 	<li>
 		<article class="h-entry">
 			<h1 class="p-description">
@@ -17,10 +18,11 @@ layout: default
 			</div>
 			<footer>
 				<p class="meta">
-					Posted: <time class="dt-published" datetime="{{ item.date }}">{{ item.date }}</time></a>
+					Posted: <time class="dt-published" datetime="{{ item.date | date: "%d %B %Y" }}">{{ item.date | date: "%d %B %Y" }}</time>
 				</p>
 			</footer>
 		</article>
 	</li>
+	{% endif %}
 	{% endfor %}
 </ul>
