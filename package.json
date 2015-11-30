@@ -1,0 +1,32 @@
+{
+  "name": "benjaminparry.github.io",
+  "version": "1.0.0",
+  "description": "Gulp build of personal site",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benjaminparry/benjaminparry.github.io.git"
+  },
+  "author": "Benjamin Parry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminparry/benjaminparry.github.io/issues"
+  },
+  "homepage": "https://github.com/benjaminparry/benjaminparry.github.io",
+  "devDependencies": {
+    "autoprefixer": "^6.1.2",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-imageoptim": "^0.3.3",
+    "gulp-minify-css": "^1.2.2",
+    "gulp-postcss": "^6.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-stylestats": "^1.0.1"
+  },
+  "dependencies": {
+    "immutable-css": "^1.0.1"
+  }
+}
