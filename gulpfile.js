@@ -30,9 +30,9 @@ gulp.task('css', function () {
 
 // Performance
 gulp.task('images', function() {
-    return gulp.src('./assets/im/**/*')
+    return gulp.src('./source/assets/img/**/*')
         .pipe(imageOptim.optimize())
-        .pipe(gulp.dest('./assets/images'));
+        .pipe(gulp.dest('./assets/img/'));
 });
 
 // CSS Stats
