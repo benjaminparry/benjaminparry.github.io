@@ -1,7 +1,7 @@
 // Require
 var gulp = require('gulp');
 var shell = require('gulp-shell');
-var csso = require('gulp-csso');
+var minifyCSS = require('gulp-minify-css');
 var rename = require('gulp-rename');
 var postcss = require('gulp-postcss');
 var autoprefixer = require('autoprefixer');
@@ -30,8 +30,8 @@ gulp.task('css', function () {
   return gulp.src('./source/assets/css/*.css')
     // PostCSS
     .pipe(postcss(processors))
-    // Minify/Optimise
-    .pipe(csso())
+    // Minify
+    .pipe(minifyCSS())
     // Rename the minified file
     .pipe(rename('main.min.css'))
     // Task destination
