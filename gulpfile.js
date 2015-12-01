@@ -5,6 +5,7 @@ var rename = require('gulp-rename');
 var postcss = require('gulp-postcss');
 var autoprefixer = require('autoprefixer');
 var imageOptim = require('gulp-imageoptim');
+
 // TODO
 // https://github.com/johnotander/immutable-css
 // var immutableCss = require('immutable-css');
@@ -20,23 +21,23 @@ gulp.task('css', function () {
   var processors = [
     autoprefixer
   ];
-  return gulp.src('./assets/css/*.css')
+  return gulp.src('./source/assets/css/*.css')
     .pipe(postcss(processors))
     .pipe(minifyCSS())
     .pipe(rename('main.min.css'))
-    .pipe(gulp.dest('./post/css/'));
+    .pipe(gulp.dest('./assets/css/'));
 });
 
 // Performance
 gulp.task('images', function() {
-    return gulp.src('assets/im/**/*')
+    return gulp.src('./assets/im/**/*')
         .pipe(imageOptim.optimize())
-        .pipe(gulp.dest('post/images'));
+        .pipe(gulp.dest('./assets/images'));
 });
 
 // CSS Stats
 // gulp.task('stylestats', function () {
-//   gulp.src('./post/css/*.css')
+//   gulp.src('./assets/css/*.css')
 //     .pipe(stylestats());
 // });
 
@@ -44,8 +45,8 @@ gulp.task('images', function() {
 
 // Watch
 gulp.task('watch', function () {
-   gulp.watch('assets/css/*.css', ['css']);
+   gulp.watch('./source/assets/css/*.css', ['css']);
 });
 
 // Commands
-gulp.task('default', ['css']);
+gulp.task('default', ['css', 'images']);
