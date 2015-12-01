@@ -18,21 +18,30 @@ var imageOptim = require('gulp-imageoptim');
 
 // CSS
 gulp.task('css', function () {
+  // PostCSS processors
   var processors = [
     autoprefixer
   ];
+  // Task source
   return gulp.src('./source/assets/css/*.css')
+    // PostCSS
     .pipe(postcss(processors))
+    // Minify
     .pipe(minifyCSS())
+    // Rename the minified file
     .pipe(rename('main.min.css'))
+    // Task destination
     .pipe(gulp.dest('./assets/css/'));
 });
 
 // Performance
 gulp.task('images', function() {
+    // Task source
     return gulp.src('./source/assets/img/**/*')
-        .pipe(imageOptim.optimize())
-        .pipe(gulp.dest('./assets/img/'));
+      // Optomise images
+      .pipe(imageOptim.optimize())
+      // Task destination
+      .pipe(gulp.dest('./assets/img/'));
 });
 
 // CSS Stats
