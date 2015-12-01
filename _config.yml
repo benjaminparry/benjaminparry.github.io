@@ -15,6 +15,8 @@ url: "http://benjamin.parry.is" # the base hostname & protocol for your site
 # source:      _source
 # destination: _deploy
 
+exclude: [node_modules, gulpfile.js]
+
 # Build settings
 markdown: kramdown
 

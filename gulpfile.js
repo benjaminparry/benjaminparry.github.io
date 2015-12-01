@@ -1,10 +1,14 @@
 // Require
 var gulp = require('gulp');
+var shell = require('gulp-shell');
 var minifyCSS = require('gulp-minify-css');
 var rename = require('gulp-rename');
 var postcss = require('gulp-postcss');
 var autoprefixer = require('autoprefixer');
 var imageOptim = require('gulp-imageoptim');
+var cp = require('child_process');
+var browserSync = require('browser-sync').create();
+var cssstats = require('gulp-cssstats');
 
 // TODO
 // https://github.com/johnotander/immutable-css
@@ -44,6 +48,21 @@ gulp.task('images', function() {
       .pipe(gulp.dest('./assets/img/'));
 });
 
+gulp.task('cssstats', function() {
+  gulp.src('./assets/css/main.min.css')
+    .pipe(cssstats())
+    .pipe(gulp.dest('./performance/'));
+});
+
+// Jekyll
+gulp.task('jekyll', shell.task(['jekyll serve --watch']));
+
+gulp.task('serve', function () {
+    browserSync.init({server: {baseDir: '_site/'}});
+    // Reloads page when some of the already built files changed:
+    gulp.watch('_site/**/*.*').on('change', browserSync.reload);
+});
+
 // CSS Stats
 // gulp.task('stylestats', function () {
 //   gulp.src('./assets/css/*.css')
@@ -58,4 +77,6 @@ gulp.task('watch', function () {
 });
 
 // Commands
-gulp.task('default', ['css', 'images']);
+gulp.task('dev', ['css', 'jekyll', 'serve']);
+
+gulp.task('deploy', ['css', 'images']);
