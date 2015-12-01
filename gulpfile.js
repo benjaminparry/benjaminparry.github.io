@@ -48,10 +48,11 @@ gulp.task('images', function() {
       .pipe(gulp.dest('./assets/img/'));
 });
 
+// Stats: CSS
 gulp.task('cssstats', function() {
   gulp.src('./assets/css/main.min.css')
     .pipe(cssstats())
-    .pipe(gulp.dest('./performance/'));
+    .pipe(gulp.dest('./performance/css/'));
 });
 
 // Jekyll
@@ -79,4 +80,4 @@ gulp.task('watch', function () {
 // Commands
 gulp.task('dev', ['css', 'jekyll', 'serve']);
 
-gulp.task('deploy', ['css', 'images']);
+gulp.task('deploy', ['css', 'images', 'cssstats']);
