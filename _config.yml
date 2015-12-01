@@ -15,16 +15,22 @@ url: "http://benjamin.parry.is" # the base hostname & protocol for your site
 # source:      _source
 # destination: _deploy
 
-exclude: [node_modules, gulpfile.js]
+exclude: [node_modules, gulpfile.js, source]
 
 # Build settings
 markdown: kramdown
+
+permalink: /:categories/:title/
 
 # Collections
 collections:
   collecting:
     output: true
     permalink: /:collection/:path/
+  working:
+    output: true
+    permalink: /:collection/:path/
+    
     
 defaults:
   - scope:
