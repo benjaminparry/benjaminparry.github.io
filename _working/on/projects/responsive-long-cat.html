@@ -1,0 +1,97 @@
+---
+title: Responsive Long Cat
+working: project
+github-repository: responsive-long-cat
+project-status: complete
+project-description: Responsive Long Cat is a playful desmonstration of vertical media queries
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Responsive Long Cat</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<style>
+html {
+  height: 100%;
+}
+body {
+  margin: 0;
+  min-height: 100%;
+  display: block;
+  position: relative;
+}
+.lc-wrap {
+  position: absolute;
+  top: 0px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 300px;
+  margin: 0 auto ;
+}
+.lc {
+  width: 100%;
+  width: 300px;
+}
+.lc-01 {
+  min-height: 207px;
+  height: 207px;
+}
+.lc-02 {
+  min-height: 140px;
+  height: 140px;
+}
+.lc-02 img {
+  width: 300px;
+}
+.lc-03 {
+  min-height: 195px;
+  height: 195px;
+}
+@media all and (min-height:542px) {
+  .lc-wrap {
+    padding-top: 207px;
+    padding-bottom: 196px;
+  }
+  .lc-01 {
+    margin-top: -206px;
+  }
+  .lc-02 {
+    height: 100%;
+  }
+  .lc-02 img {
+    height: 100%;
+  }
+  .lc-03 {
+    position: absolute;
+    bottom: 0;
+  }
+}
+</style>
+</head>
+<body>
+  <div class="lc-wrap">
+    <div class="lc lc-01">
+        <img src="/assets/img/prototyping/responsive-long-cat/lc-01.jpg" alt="">
+    </div>
+    <div class="lc lc-02">
+      <img src="/assets/img/prototyping/responsive-long-cat/lc-02.jpg" alt="">
+    </div>
+    <div class="lc lc-03">
+      <img src="/assets/img/prototyping/responsive-long-cat/lc-03.jpg" alt="">
+    </div>
+  </div>
+  <script type="text/javascript">
+     var _gaq = _gaq || [];
+     _gaq.push(['_setAccount', 'UA-31194618-1']);
+     _gaq.push(['_trackPageview']);
+     (function() {
+       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+     })();
+   </script>
+</body>
+</html>
