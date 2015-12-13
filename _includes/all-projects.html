@@ -1,0 +1,9 @@
+<ul>
+	{% for item in site.making reversed | sort: 'title' %}
+	{% if item.making contains 'project' %}
+	<li>
+		<a class="u-url u-syndication" href="{{ item.url }}" rel="syndication">{{ item.title }}</a>
+	</li>
+	{% endif %}
+	{% endfor %}
+</ul>
