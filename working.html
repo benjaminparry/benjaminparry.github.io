@@ -9,12 +9,4 @@ layout: default
 
 <p>I also find time to work on a few <a href="/working/on/projects">projects</a>:</p>
 
-<ul>
-	{% for item in site.working reversed | sort: 'title' %}
-	{% if item.working contains 'project' %}
-	<li>
-		<a class="u-url u-syndication" href="{{ item.url }}" rel="syndication">{{ item.title }}</a>
-	</li>
-	{% endif %}
-	{% endfor %}
-</ul>
+{% include all-projects.html %}

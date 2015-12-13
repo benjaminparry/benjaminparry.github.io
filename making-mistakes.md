@@ -5,7 +5,7 @@ layout: default
 
 # Making Mistakes
 
-A list of mistakes I’ve made maintaining this site and the reasoning behind making the changes.
+A list of mistakes I’ve made maintaining this site and the reasoning behind making the changes to rectify them.
 
 ## Moving Pages
 
