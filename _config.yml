@@ -29,7 +29,7 @@ collections:
   collecting:
     output: true
     permalink: /:collection/:path/
-  working:
+  making:
     output: true
     permalink: /:collection/:path/
     
