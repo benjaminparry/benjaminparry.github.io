@@ -1,6 +1,5 @@
 ---
 permalink: /working/
-date: 2015-08-26
 layout: default
 ---
 
