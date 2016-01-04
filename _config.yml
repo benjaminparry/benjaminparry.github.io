@@ -22,7 +22,7 @@ exclude: [node_modules, gulpfile.js, source]
 # Build settings
 markdown: kramdown
 
-permalink: /:categories/:year/:month/:day/:title/
+permalink: /:categories/:year/:month/:title/
 
 # Collections
 collections:
