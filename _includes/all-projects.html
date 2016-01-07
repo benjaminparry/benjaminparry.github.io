@@ -1,0 +1,7 @@
+<ul>
+	{% for item in site.making | sort: 'updated' %}
+	<li>
+		<a class="u-url u-syndication" href="{{ item.url }}" rel="syndication">{{ item.title }}</a>
+	</li>
+	{% endfor %}
+</ul>

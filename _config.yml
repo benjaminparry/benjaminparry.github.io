@@ -1,6 +1,6 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Benjamin Parry
+email: benjamin@parry.is
 
 github-project-url: https://github.com/benjaminparry/
 
@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-  
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 
 url: "http://benjamin.parry.is" # the base hostname & protocol for your site
@@ -22,14 +22,14 @@ exclude: [node_modules, gulpfile.js, source]
 # Build settings
 markdown: kramdown
 
-permalink: /:categories/:title/
+permalink: /:categories/:year/:month/:title/
 
 # Collections
 collections:
   collecting:
     output: true
     permalink: /:collection/:path/
-  working:
+  making:
     output: true
     permalink: /:collection/:path/
     
