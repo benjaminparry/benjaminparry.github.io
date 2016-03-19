@@ -241,14 +241,49 @@ Heatmapping - user behaviour and intent e.g. unclickable links = more infomation
 Scrollmapping - where the focus is on the page
 Compare the competition - benchmarking against other sites
 How users arrive - e.g. social, email, direct etc
-Prove your Hypothisis
-
-
-
-
-
+Prove your hypothesis - back up the ideas … or not.
+A/B testing -
+Identify user groups - e.g. segment age groups
+Automate some of your reports - automated email
+Customise your reports - easy access
+Use it often - better insight
 
 ---
+
+# Questions
+
+---
+
+</div>
+
+
+<div id="">
+
+# Organisational Culture and UX Design - Name
+
+@user
+
+---
+
+Each culture is different
+Communication map
+
+Workshop objectives
+
+* 4 company culture types based on **Competing Values Framework** by Cameron & Quinn
+* (see slide diagram)
+* xy axis =
+  * Adhocracy - values are to create something new - shy away from processes
+  * Clan - create a good community - all-in meeting - avoid conflict - very slow
+  * Hierarchy - focused on processes - top down
+  * Market - externally focused - stable - e.g. Google, need to be iterative want to be first and best - need proof to validate this
+
+---
+
+# Questions and discussion
+
+We change our behavior when dealing with one of the above
+Further Reading: Kim Goodwin’s presentation - competing values framework - communication techniques
 
 ---
 
