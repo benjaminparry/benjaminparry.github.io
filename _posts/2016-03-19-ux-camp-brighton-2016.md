@@ -13,7 +13,8 @@ published: true
 Todo
 
 [ ] Add table of sessions during lunch
-[ ]
+[ ] Create a template for next year
+[ ] ID links for talks
 
 I’ll be live blogging session notes from this year’s UX Camp Brighton. Stay tuned!
 
@@ -163,6 +164,92 @@ Case study - persona
 
 # Iterative Personas -
 
-@user
+@adrianh
+
+---
+
+## How do we understand out customers?
+
+Twitter for cats - teams buidlding different things - no shared understanding = bas customer experience
+UX solution is the persona - deliverable - helps with empathy - good for generating ideas - shared understanding + happy customer
+
+## Persona Problems
+
+Presented as truth - customer’s needs change over time
+Large investiment of time and money and people
+Good understanding of customer base
+Out of date persona deliverable
+Products change over time
+
+Personas are to Persona Descriptions as Vacations are to Souvenir Picture Albums - Jared Spool » The photo album is not the same as the experience.
+
+## ~~Lean~~ Iterative Persona
+
+0. Define - initial alignemt - who are we building it for - customer touch - empathy maps Dave Gray - shared understanding
+  * Apply a `made shit up «--------------» true` - conversations - surface the details - get stability - move true point of reference
+  * Add structure - sift throught the details - used with empathy maps
+  * Visualising the customer - supporting details to further the character and motives of the customer - e.g. gender - more research
+0. Define rules - visualising ongoing research - leads to product decisions and prototypes - propmts further questions
+0. Realign - split and merge personas
+  * Comunicates risk and confidence, **not truth** - start with the simpler routes and decisions
+  * Whole team commits
+  * Buy-in
+
+## Summing Up
+
+* Early alsignent
+* Scale up with truth
+* Add rules
+* Step back
+
+---
+
+# Questions
+
+* Hypothisis about users, customere and product features
+* Go for the truth straight away
+
+---
+
+</div>
+
+<div id="">
+
+# Analytics
+
+@lukehay
+
+---
+
+0. Use google Analytics - easy to setup - documented - free
+gachecker.com - checks whole website for tracking -
+Filter out spam/bots traffic - google doing well to filter this out - filter out unwanted spam - link to follow
+Find out about your users - international visits - demographics (newish) - from adwork data - interesting when combined with other data e.g. gender split of visitors - analyze cahnges
+Most visited pages - quality vs quantity
+Bounce vs Exits - see diagram - don]t confuse the touchpoint
+Analyze the user/behaviour flow - better ways to view bigger sites
+Tracking in-page elements - what visitors do on the page - carrousels
+Goals -
+* What is a goal - e.g. signing up for a newsletter
+* Goal reports - device analysis
+* Goal values -
+Page value - (see slide) calcualte the value of each page
+Page value formular
+Calcualte leakage - (sum - see slide) - prompt changes to user journey
+Device specific issues - page performance - testing page
+Heatmapping - user behaviour and intent e.g. unclickable links = more infomation needed
+Scrollmapping - where the focus is on the page
+Compare the competition - benchmarking against other sites
+How users arrive - e.g. social, email, direct etc
+Prove your Hypothisis
+
+
+
+
+
+
+---
+
+---
 
 </div>
