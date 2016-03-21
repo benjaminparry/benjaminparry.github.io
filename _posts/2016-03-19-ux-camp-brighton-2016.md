@@ -4,7 +4,7 @@ layout: collecting
 title: UX Camp Brighton
 description: Live blog of UX Camp Brighton 2016 sessions
 categories : [writing]
-published: true
+published: false
 ---
 
 * [Follow the hashtag #uxcb16 on Twitter](https://twitter.com/hashtag/uxcb16?f=tweets&vertical=default)
@@ -15,6 +15,7 @@ Todo
 [ ] Add table of sessions during lunch
 [ ] Create a template for next year
 [ ] ID links for talks
+[ ] Make sense of what I’ve written
 
 I’ll be live blogging session notes from this year’s UX Camp Brighton. Stay tuned!
 
@@ -45,24 +46,79 @@ Breakfast is served, coffee is brewing. Familiar faces and new. Cards being
 
 </div>
 
+<table>
+  <thead>
+    <tr>
+      <td>
+      Fresh Egg
+      </td>
+      <td>
+      Electric Putty
+      </td>
+      <td>
+      University Of Brighton
+      </td>
+      <td>
+      Make Media
+      </td>
+      <td>
+      OzKan
+      </td>
+      <td>
+      Spring Forward
+      </td>
+    </tr>
+  </thead>
+<tbody>
+  <tr>
+    <td>
+    <p>A Tale Of User Testing Themes</p>
+    </td>
+    <td>
+    <p>Onboarding! the First 30 Seconds</p>
+    </td>
+    <td>
+    <p>UX of Presenting: an ideas generator featuring The Persona Game</p>
+    <p>@juicho02</p>
+    </td>
+    <td>
+    <p>Effective Wireframes: tips for success, avoid the pitfalls</p>
+    <p>@alpower</p>
+    </td>
+    <td>
+    <p>Shift Communication With Liberating Structures</p>
+    <p>Andrew Haynes</p>
+    </td>
+    <td>
+    <p>Collaborative Design: framework and purpose</p>
+    <p>Ngan-Thi Dang</p>
+    </td>
+    <td>
+    <p>Why Powerpoint Could Help Google Creating Better Products</p>
+    <p>@uxblogat</p>
+    </td>
+  </tr>
+</tbody>
+</table>
+
 <div id="the-first-30-seconds-user-onboarding">
 
 # The First 30 Seconds: Let’s talk User Onboarding
 
 Andrea @dreasaez
 
-Not perfect artform
-Successfull product + user
-Didn’t understand the value of the product
-Design the behaviour
+Not a perfect artform
+Successful product + user
+Fails when the user didn’t understand the value of the product
+Design the behavior
 Commit early
 Figure out the blockers
 Examine the outcomes
-Slack as an example as success … but you’re not Slack and your app does more
+Slack as an example as success … but you’re not Slack and your app does more than that
 
 Give them something to focus on
 Shopitfy c.s. - steps
-Prodpad c.s. - cohort analysis - time form trial to conversion - 6-10 weeks » 4-6 weeks with onboarding changes - drip flow emails to prod engagement - start with the first 30 seconds - understanding the why of the tasks
+Prodpad c.s. - cohort analysis - time form trial to conversion - 6-10 weeks » 4-6 weeks with onboarding changes - drip flow emails to prod engagement - start with the first 30 seconds - understanding the why of the tasks (user)
 3 click rule - no more than that - more difficult to learn the IA
 
 ---
@@ -111,7 +167,7 @@ Goal design - feature requests
 
 ## Legacy code
 
-> Marcus @ airline booking + legacy code - marcus@mdibb.com
+ <!-- Marcus @ airline booking + legacy code - marcus@mdibb.com -->
 
 Roadblocks to improvements
 Get a product owner
@@ -222,31 +278,31 @@ Personas are to Persona Descriptions as Vacations are to Souvenir Picture Albums
 ---
 
 0. Use google Analytics - easy to setup - documented - free
-gachecker.com - checks whole website for tracking -
-Filter out spam/bots traffic - google doing well to filter this out - filter out unwanted spam - link to follow
-Find out about your users - international visits - demographics (newish) - from adwork data - interesting when combined with other data e.g. gender split of visitors - analyze cahnges
-Most visited pages - quality vs quantity
-Bounce vs Exits - see diagram - don]t confuse the touchpoint
-Analyze the user/behaviour flow - better ways to view bigger sites
-Tracking in-page elements - what visitors do on the page - carrousels
-Goals -
+0. gachecker.com - checks whole website for tracking -
+0. Filter out spam/bots traffic - google doing well to filter this out - filter out unwanted spam - link to follow
+0. Find out about your users - international visits - demographics (newish) - from adwork data - interesting when combined with other data e.g. gender split of visitors - analyze cahnges
+0. Most visited pages - quality vs quantity
+0. Bounce vs Exits - see diagram - don]t confuse the touchpoint
+0. Analyze the user/behaviour flow - better ways to view bigger sites
+0. Tracking in-page elements - what visitors do on the page - carrousels
+0. Goals -
 * What is a goal - e.g. signing up for a newsletter
 * Goal reports - device analysis
 * Goal values -
-Page value - (see slide) calcualte the value of each page
-Page value formular
-Calcualte leakage - (sum - see slide) - prompt changes to user journey
-Device specific issues - page performance - testing page
-Heatmapping - user behaviour and intent e.g. unclickable links = more infomation needed
-Scrollmapping - where the focus is on the page
-Compare the competition - benchmarking against other sites
-How users arrive - e.g. social, email, direct etc
-Prove your hypothesis - back up the ideas … or not.
-A/B testing -
-Identify user groups - e.g. segment age groups
-Automate some of your reports - automated email
-Customise your reports - easy access
-Use it often - better insight
+0. Page value - (see slide) calcualte the value of each page
+0. Page value formular
+0. Calcualte leakage - (sum - see slide) - prompt changes to user journey
+0. Device specific issues - page performance - testing page
+0. Heatmapping - user behaviour and intent e.g. unclickable links = more infomation needed
+0. Scrollmapping - where the focus is on the page
+0. Compare the competition - benchmarking against other sites
+0. How users arrive - e.g. social, email, direct etc
+0. Prove your hypothesis - back up the ideas … or not.
+0. A/B testing -
+0. Identify user groups - e.g. segment age groups
+0. Automate some of your reports - automated email
+0. Customise your reports - easy access
+0. Use it often - better insight
 
 ---
 
@@ -284,6 +340,91 @@ Workshop objectives
 
 We change our behavior when dealing with one of the above
 Further Reading: Kim Goodwin’s presentation - competing values framework - communication techniques
+
+---
+
+</div>
+
+<div id="">
+
+# The Project pre-mortem -Tom Prior
+
+@tomprior
+
+---
+
+Hindsight is a great things
+How to avoid making the same mistakes?
+Post-mortom - mitigate pitfalls
+  * everyone benefits apart from the patient (project)
+  * Inner-team conflict - uncomfotable -
+  * Flushes out potential other problems (company culture)
+
+Pre-mortem - from Gamestorming book - Gary Klein
+  * Harnesses predicted faluire - improves 30%
+  * Project is already a disaster
+
+## How it runs
+
+All present involved in the Project
+Include the client
+
+0. Frame the project
+0. Image complete disaster
+0. Generate reasons for failure - competition to find unfound ways of failure
+0. Theme and prioritise - focus on showstoppers or frequent problems - vote on themes (priority dot voting)
+0. Brainstorm solutions
+0. Agree actions - owner scrum master
+
+## Recap
+
+0. Image compelte failure
+0. Generate reasons for failure
+0. Themes and prioritise
+0. BrainstormAgree actions
+
+Making course corrections - use retrospectives to route check and change tack
+
+## Benefits
+
+* Improves the odds of success
+* Encourages team work
+* Starts the project with a win
+
+---
+
+# Questions & discussion
+
+* *Client billing?* Yes. More to maintain afterward.
+
+---
+
+</div>
+
+<div id="">
+
+# How to ask better questions from asking better questions - Chris How
+
+@chrishow
+
+---
+
+## What makes a good question?
+
+Better questions move things forward - Einstein quote
+Questions are scary - senior
+
+0. Ends in a question mark - who, why, what, when, how
+0. Has a purpose - what do they want to get out of the session, what’s the hypothesis
+0. Gives insight that is actionable - cash for answers
+0. xxx
+0. xxx
+0. xxx
+0. xxx
+
+---
+
+## Questions and discussion
 
 ---
 
