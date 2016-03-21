@@ -46,7 +46,7 @@ Breakfast is served, coffee is brewing. Familiar faces and new. Cards being
 
 </div>
 
-<table>
+<!-- <table>
   <thead>
     <tr>
       <td>
@@ -99,7 +99,7 @@ Breakfast is served, coffee is brewing. Familiar faces and new. Cards being
     </td>
   </tr>
 </tbody>
-</table>
+</table> -->
 
 <div id="the-first-30-seconds-user-onboarding">
 
@@ -107,48 +107,54 @@ Breakfast is served, coffee is brewing. Familiar faces and new. Cards being
 
 Andrea @dreasaez
 
-Not a perfect artform
-Successful product + user
-Fails when the user didn’t understand the value of the product
-Design the behavior
-Commit early
-Figure out the blockers
-Examine the outcomes
-Slack as an example as success … but you’re not Slack and your app does more than that
+## Onboarding
 
-Give them something to focus on
-Shopitfy c.s. - steps
-Prodpad c.s. - cohort analysis - time form trial to conversion - 6-10 weeks » 4-6 weeks with onboarding changes - drip flow emails to prod engagement - start with the first 30 seconds - understanding the why of the tasks (user)
-3 click rule - no more than that - more difficult to learn the IA
+* Not a perfect artform
+* Successful product + user
+* Fails when the user didn’t understand the value of the product
+* Design the behavior
+* Commit early
+* Figure out the blockers
+* Examine the outcomes
+* Slack as an example as success … but you’re not Slack and your app does more than that
+
+## Give them something to focus on
+
+* [Shopify](https://www.shopify.co.uk/) e.g. - numbered steps to engage the user
+* [Prodpad](https://www.prodpad.com/) c.s. - cohort analysis (time form trial to conversion) - conversion times 6-10 weeks » 4-6 weeks with onboarding changes - drip flow emails to increase product engagement - start with the first 30 seconds - understanding the why of the tasks (user)
+* 3 click rule: no more than that - more difficult to learn the IA
 
 ---
 
 ## Open discussion
 
-Anchor.fm - short audio messaging
-Impatient users
-Tictail onboarding - tasks - suggested test + t+c -
-Adding friction - increase commitment and value by adding friction
-Feature bloat - appques c.s. - aggressive onboarding - understanding tasks - through this you gain a better understanding what features ur users actually need - what problem are you trying solve
-Help - videos - demos - text - lots of different - you are not your market - assume the user is always stupid - users don’t read
-Pace of onboarding - it depends on the user e.g. service provider/consumer
+* Anchor.fm - short audio messaging
+* Users are impatient
+* [Tictail](https://tictail.com/) onboarding: tasks - suggested text + t+c to move the user through the onboarding process quicker
+* Adding friction: increase commitment and value by adding friction where it makes sense
+* Feature bloat: [Appcues](http://www.appcues.com/) c.s. - aggressive onboarding - understanding tasks - through this you gain a better understanding what features your users actually need - what problem are you trying solve?
+* Help: videos - demos - text - lots of different solutions - you are not your market! - assume the user always knows less - users don’t read
+* Pace of onboarding: it depends on the user e.g. service provider/consumer contexts might require slower/quicker more/less speed or friction
 
 </div>
 
-<div id="">
+<div id="initiating-ux-through-resistance">
 
-# Initiating through resistance
+# Initiating UX Through Resistance
 
-How to integrate UX into an established product?
-Legacy code
-CEO doesn’t know/understand UX
-Budget
-Delays
-Methods for CEO buy-in
-UX != visual design
-Testing iterations = time
-Business time and customer barriers
-You can be the only UX team member - cross over skills
+## How to integrate UX into an established product?
+
+### Friction and blockers
+
+* Legacy code
+* CEO doesn’t know/understand UX
+* Budgets
+* Delays
+* Methods for CEO buy-in
+* UX != visual design
+* Testing iterations = time
+* Business time and customer barriers
+* You can be the only UX team member - cross over skills
 
 ## Three opportunities and resources
 
@@ -156,32 +162,26 @@ You can be the only UX team member - cross over skills
 * Product research
 * Business priorities
 
-0. Customer snapshot - survey - Google docs - customer service touchpoint -
-0. Company meetings - presenting UX standpoint - shared understanding
-0. Customer service - collaborative design - different customer touchpoint - *what about conflict with marketing?* less so with software design but might occur with the marketing site
+0. Customer snapshot: survey with Google Docs - leveraging customer service knowledge
+0. Company meetings: presenting UX standpoint - achieve shared understanding across the team and company
+0. Customer service: collaborative design - different customer touchpoint - *what about conflict with marketing?* less so with software design but might occur with the marketing site
 
-1st person to understand the customers goals are
-Different objectives
-Feed into the business
-Goal design - feature requests
+* UX team is the 1st to understand the customers goals are
+* Different objectives
+* Feed back into the business
+* Goal design - feature requests
 
 ## Legacy code
 
  <!-- Marcus @ airline booking + legacy code - marcus@mdibb.com -->
 
-Roadblocks to improvements
-Get a product owner
-Scrum master and project master
-Start a conversation with the the project owner - get them to engage with UX
-UX into scrum - UX sprint 2 weeks prior
-Mock ups and low-fidelity (axure etc) prototypes to help understand
-Angular templating framework to inject new code and UX into
-
----
-
-# Questions
-
-Axure is mid-fidelity quality, are there expectations that less will change
+* Roadblocks to improvements
+* Need of a product owner
+* Utilize the scrum master and project manager
+* Start a conversation with the the project owner - get them to engage with UX
+* UX into scrum - UX sprint 2 weeks prior to any development
+* Mock ups and mid-fidelity (axure etc) prototypes to help understand the workings
+* Angular templating framework to inject new code and UX into a legacy UI
 
 </div>
 
@@ -191,15 +191,11 @@ Axure is mid-fidelity quality, are there expectations that less will change
 
 @user
 
+* Use consistent patterns
+* Reviewing the overall interaction design: highlights user goals - justify the changes
+* Problem based on customer complaints: direct
 
-* [missing]
-* Consistent Pattens
-* Reviewing the overall interaction design - highlights user goals - justify the changes
-* Problem based on customer complaints - direct
-
-Case study - persona
-
-* Users have different motives
+**Users have different motives**
 
 * Motivation - Feelings
 * Framing - Thinking
@@ -211,12 +207,12 @@ Case study - persona
 
 * Development engagement and buy-in
 * Think into the situations
-* *Appropriate user persona - motivations etc?*  Aligned with the business and collaborative process
-* *Testing the motivation?* - User research stage
+* *Appropriate user persona e.g. motivations etc?*  Aligned with the business and collaborative process
+* *Testing the motivation?* Done during the user research stage
 
 </div>
 
-<div id="">
+<div id="iterative-personas">
 
 # Iterative Personas -
 
@@ -226,26 +222,28 @@ Case study - persona
 
 ## How do we understand out customers?
 
-Twitter for cats - teams buidlding different things - no shared understanding = bas customer experience
-UX solution is the persona - deliverable - helps with empathy - good for generating ideas - shared understanding + happy customer
+* Twitter for cats: point of reference different for all teams - no shared understanding = a bad customer experience
+* UX solution is the persona: deliverable - helps with empathy - good for generating ideas - shared understanding + happy customer
 
 ## Persona Problems
 
-Presented as truth - customer’s needs change over time
-Large investiment of time and money and people
-Good understanding of customer base
-Out of date persona deliverable
-Products change over time
+* Presented as truth: customer’s needs change over time
+* Large investment of time and money and people
+* Good understanding of customer base
+* Out of date persona deliverable
+* Products change over time and outgrow the personas
 
-Personas are to Persona Descriptions as Vacations are to Souvenir Picture Albums - Jared Spool » The photo album is not the same as the experience.
+> “Personas are to Persona Descriptions as Vacations are to Souvenir Picture Albums” - Jared Spool
+
+**The photo album is not the same as the holiday experience.**
 
 ## ~~Lean~~ Iterative Persona
 
-0. Define - initial alignemt - who are we building it for - customer touch - empathy maps Dave Gray - shared understanding
-  * Apply a `made shit up «--------------» true` - conversations - surface the details - get stability - move true point of reference
+0. Define: initial alignment - who are we building it for - customer touch - empathy maps Dave Gray - shared understanding
+  * Apply a `made shit up «--------------» true` scale - have conversations - surface the details - get stability - move ‘true’ point of reference
   * Add structure - sift throught the details - used with empathy maps
-  * Visualising the customer - supporting details to further the character and motives of the customer - e.g. gender - more research
-0. Define rules - visualising ongoing research - leads to product decisions and prototypes - propmts further questions
+  * Visualizing the customer - supporting details to further the character and motives of the customer - e.g. gender - more research
+0. Define rules - visualizing ongoing research - leads to product decisions and prototypes - propmts further questions
 0. Realign - split and merge personas
   * Comunicates risk and confidence, **not truth** - start with the simpler routes and decisions
   * Whole team commits
