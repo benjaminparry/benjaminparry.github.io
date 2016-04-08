@@ -40,3 +40,6 @@ defaults:
       type: collecting
     values:
       layout: collecting
+
+gems:
+  - jekyll-sitemap
