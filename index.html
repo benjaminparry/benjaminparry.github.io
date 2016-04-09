@@ -3,15 +3,10 @@ layout: default
 type: landing
 title: Benjamin Parry ~ Personal writings and website
 ---
-
-<aside role="complementary" class="h-card">
-	{% include about-intro.html %}
-	{% include elsewhere-links.html %}
-</aside>
-
 <main role="main">
-	{% include posts.html %}
+	{% include about-intro.html %}
 </main>
 
-
-<!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+<aside role="complementary" class="h-card">
+	{% include elsewhere-links.html %}
+</aside>
