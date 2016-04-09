@@ -1,36 +1,32 @@
 {
   "name": "benjaminparry.github.io",
   "version": "1.0.0",
-  "description": "Gulp build of personal site",
-  "main": "Gruntfile.js",
+  "description": "Personal site of Benjamin Parry",
+  "main": "gulpfile-backup.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.11.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean-css": "^2.0.5",
+    "gulp-connect": "^3.2.2",
+    "gulp-csscomb": "^3.0.7",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.2.0",
+    "gulp-util": "^3.0.7"
+  },
   "scripts": {
-    "test": "test"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/benjaminparry/benjaminparry.github.io.git"
+    "url": "git+https://github.com/benjaminparry/benjaminparry.github.io.git"
   },
-  "author": "Benjamin Parry",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/benjaminparry/benjaminparry.github.io/issues"
   },
-  "homepage": "https://github.com/benjaminparry/benjaminparry.github.io",
-  "devDependencies": {
-    "autoprefixer": "^6.1.2",
-    "browser-sync": "^2.10.0",
-    "gulp": "^3.9.0",
-    "gulp-autoprefixer": "^3.1.0",
-    "gulp-csso": "^1.0.1",
-    "gulp-cssstats": "^1.0.1",
-    "gulp-imageoptim": "^0.3.3",
-    "gulp-minify-css": "^1.2.2",
-    "gulp-postcss": "^6.0.1",
-    "gulp-rename": "^1.2.2",
-    "gulp-shell": "^0.5.1",
-    "gulp-stylestats": "^1.0.1"
-  },
-  "dependencies": {
-    "immutable-css": "^1.0.1"
-  }
+  "homepage": "https://github.com/benjaminparry/benjaminparry.github.io#readme"
 }

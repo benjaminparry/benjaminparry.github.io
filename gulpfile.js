@@ -1,83 +1,73 @@
-// Require
-var gulp = require('gulp');
-var shell = require('gulp-shell');
-var csso = require('gulp-csso');
-var rename = require('gulp-rename');
-var postcss = require('gulp-postcss');
-var autoprefixer = require('autoprefixer');
-var imageOptim = require('gulp-imageoptim');
-var cp = require('child_process');
-var browserSync = require('browser-sync').create();
-var cssstats = require('gulp-cssstats');
+// https://codegaze.github.io/2016/01/09/a-jekyll-workflow-with-gulp/
 
-// TODO
-// https://github.com/johnotander/immutable-css
-// var immutableCss = require('immutable-css');
-// https://github.com/1000ch/gulp-stylestats
-// var stylestats = require('gulp-stylestats');
+// Require all the things
+const gulp = require('gulp'),
+      sass = require('gulp-sass'),
+      gutil = require('gulp-util'),
+      plumber = require('gulp-plumber'),
+      rename = require('gulp-rename'),
+      cleanCSS = require('gulp-clean-css'),
+      csscomb = require('gulp-csscomb');
+      prefixer = require('gulp-autoprefixer'),
+      connect = require('gulp-connect');
+      cp = require('child_process');
+      browserSync = require('browser-sync').create();
+
+// Set the path variables
+const base_path = './',
+      src = base_path + 'source/assets',
+      dist = base_path + 'assets',
+      paths = {  
+          js: src + '/js/*.js',
+          scss: [ src +'/css/*.scss', 
+                  src +'/css/**/* .scss', 
+                  src +'/css/**/**/*.scss'],
+          jekyll: ['index.html', '_posts/*', '_layouts/*', '_includes/*' , 'assets/*', 'assets/**/*', 'collecting/**/*']
+      };
 
 
-
-// Tasks
-
-// CSS
-gulp.task('css', function () {
-  // PostCSS processors
-  var processors = [
-    autoprefixer
-  ];
-  // Task source
-  return gulp.src('./source/assets/css/*.css')
-    // PostCSS
-    .pipe(postcss(processors))
-    // Minify/Optimise
-    .pipe(csso())
-    // Rename the minified file
-    .pipe(rename('main.min.css'))
-    // Task destination
-    .pipe(gulp.dest('./assets/css/'));
+// Compile sass to css
+gulp.task('compile-sass', () => {  
+  return gulp.src(paths.scss)
+    .pipe(plumber((error) => {
+        gutil.log(gutil.colors.red(error.message));
+        gulp.task('compile-sass').emit('end');
+    }))
+    .pipe(sass())
+    .pipe(prefixer('last 3 versions', 'ie 9'))
+    .pipe(csscomb())
+    .pipe(cleanCSS())
+    .pipe(rename({
+      dirname: dist + '/css',
+      suffix: ".min"
+    }))
+    .pipe(gulp.dest('./'));
 });
 
-// Performance
-gulp.task('images', function() {
-    // Task source
-    return gulp.src('./source/assets/img/**/*')
-      // Optomise images
-      .pipe(imageOptim.optimize())
-      // Task destination
-      .pipe(gulp.dest('./assets/img/'));
+// Rebuild Jekyll 
+gulp.task('build-jekyll', (code) => {
+  return cp.spawn('jekyll', ['build'], {stdio: 'inherit'})
+    .on('error', (error) => gutil.log(gutil.colors.red(error.message)))
+    .on('close', code);
+})
+
+// Setup Server
+gulp.task('server', () => {
+  connect.server({
+    root: ['_site'],
+    port: 4000
+  });
+})
+
+// Watch files
+gulp.task('watch', () => {  
+  gulp.watch(paths.scss, ['compile-sass']);
+  gulp.watch(paths.jekyll, ['build-jekyll']);
+  
+  browserSync.init({server: {baseDir: '_site/'}});
+  // Reloads page when some of the already built files changed:
+  gulp.watch('_site/**/*.*').on('change', browserSync.reload);
 });
 
-// Stats: CSS
-gulp.task('cssstats', function() {
-  gulp.src('./assets/css/main.min.css')
-    .pipe(cssstats())
-    .pipe(gulp.dest('./performance/css/'));
-});
-
-// Jekyll
-gulp.task('jekyll', shell.task(['jekyll serve --watch']));
-
-gulp.task('serve', function () {
-    browserSync.init({server: {baseDir: '_site/'}});
-    // Reloads page when some of the already built files changed:
-    gulp.watch('_site/**/*.*').on('change', browserSync.reload);
-});
-
-// CSS Stats
-// gulp.task('stylestats', function () {
-//   gulp.src('./assets/css/*.css')
-//     .pipe(stylestats());
-// });
-
-
-
-// Watch
-gulp.task('watch', function () {
-   gulp.watch('./source/assets/css/*.css', ['css']);
-});
-
-// Commands
-gulp.task('dev', ['css', 'jekyll', 'serve']);
-
-gulp.task('deploy', ['css', 'images', 'cssstats']);
+// Start Everything with the default task
+gulp.task('default', [ 'compile-sass', 'build-jekyll', 'server', 'watch' ]);
