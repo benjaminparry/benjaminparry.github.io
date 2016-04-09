@@ -7,6 +7,7 @@ const gulp = require('gulp'),
       plumber = require('gulp-plumber'),
       rename = require('gulp-rename'),
       cleanCSS = require('gulp-clean-css'),
+      csscomb = require('gulp-csscomb');
       prefixer = require('gulp-autoprefixer'),
       connect = require('gulp-connect');
       cp = require('child_process');
@@ -34,6 +35,7 @@ gulp.task('compile-sass', () => {
     }))
     .pipe(sass())
     .pipe(prefixer('last 3 versions', 'ie 9'))
+    .pipe(csscomb())
     .pipe(cleanCSS())
     .pipe(rename({
       dirname: dist + '/css',
