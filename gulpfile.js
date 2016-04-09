@@ -7,10 +7,11 @@ const gulp = require('gulp'),
       plumber = require('gulp-plumber'),
       rename = require('gulp-rename'),
       cleanCSS = require('gulp-clean-css'),
-      csscomb = require('gulp-csscomb');
+      csscomb = require('gulp-csscomb'),
       prefixer = require('gulp-autoprefixer'),
-      connect = require('gulp-connect');
-      cp = require('child_process');
+      connect = require('gulp-connect'),
+      cp = require('child_process'),
+      stylestats = require('gulp-stylestats'),
       browserSync = require('browser-sync').create();
 
 // Set the path variables
@@ -44,6 +45,16 @@ gulp.task('compile-sass', () => {
     .pipe(gulp.dest('./'));
 });
 
+// 
+gulp.task('stylestats', (code) => {
+  gulp.src('./assets/css/*.css')
+    .pipe(stylestats({
+      type: 'json',
+      outfile: true
+    }))
+    .pipe(gulp.dest('./performance/css/'));
+});
+
 // Rebuild Jekyll 
 gulp.task('build-jekyll', (code) => {
   return cp.spawn('jekyll', ['build'], {stdio: 'inherit'})
@@ -70,4 +81,4 @@ gulp.task('watch', () => {
 });
 
 // Start Everything with the default task
-gulp.task('default', [ 'compile-sass', 'build-jekyll', 'server', 'watch' ]);
+gulp.task('default', [ 'compile-sass', 'stylestats', 'build-jekyll', 'server', 'watch' ]);
