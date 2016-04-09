@@ -23,6 +23,7 @@ body {
 	padding: 2rem 10%;
 	font-size: 16px;
 	font-family: sans-serif;
+	line-height: 1.2;
 }
 
 a {
@@ -121,15 +122,28 @@ img {
 	display: none;
 }
 
+.landing .u-photo {
+	float: left;
+	margin-right: 2rem;
+	margin-bottom: 2rem;
+}
 
-@media (min-width: 37.5em) {
+.landing [role="complementary"] {
+		 
+	 	clear: both;
+}
+@media (max-width: 532px) {
 
-	.landing [role="complementary"] {
-
-		float: right;
-		width: 40%;
-		padding-left: 3rem;
+	.landing .u-photo{
+		
+		display: none;
 	}
+}
+
+.wrap {
+	max-width: 55rem;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 blockquote {
@@ -139,4 +153,17 @@ blockquote {
     background-color: hsl(0, 0%, 93%);
     padding: 0 1rem;
 
+}
+
+[href*="//"]:not([href*="benjamin.parry.is"]) {
+	position: relative;
+	padding-right: 0.75rem;
+}
+
+[href*="//"]:not([href*="benjamin.parry.is"]):after {
+	content: "»";
+	position: absolute;
+	top: 0;
+	right: 0;
+	display: inline-block;
 }
