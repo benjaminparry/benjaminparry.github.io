@@ -1,7 +1,7 @@
 ---
 category: links
 title: The User’s Journey
-date: 2016-04-010
+date: 2016-04-10
 link: http://alistapart.com/article/the-users-journey
 ---
 
