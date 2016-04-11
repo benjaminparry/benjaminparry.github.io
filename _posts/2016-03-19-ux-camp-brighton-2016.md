@@ -366,13 +366,29 @@ Chris How [https://twitter.com/chrishow](@chrishow)
 Better questions move things forward - Einstein quote
 Questions are scary - senior
 
-0. Ends in a question mark - who, why, what, when, how
-0. Has a purpose - what do they want to get out of the session, what’s the hypothesis
+0. Ends in a question mark
+ * who?
+ * why?
+ * what?
+ * when?
+ * how?
+0. Has a purpose
+  * what do they want to get out of the session? 
+  * what’s the hypothesis?
 0. Gives insight that is actionable - cash for answers
-0. xxx
-0. xxx
-0. xxx
-0. xxx
+0. Opens up a conversation
+  * closed questions - yes or no answers
+  * clarification if fine
+  * don’t constrain the answers
+0. Neutral and free of bias
+ * charged words e.g. “do you think”, “would you agree”, “tell me about about our new and exciting designs”
+0. It’s interesting
+  * it’s a tiring process
+  * omit useless questions
+0. Is short
+  * avoid “and”, commas, to many words *>12 words should be trimmed* **lesses understanding of question**
+0. Can be answered
+  * “**what do** you do…” rather than “**what would** you do”
 
 ---
 
@@ -383,9 +399,9 @@ http://www.slideshare.net/ChrisHow/how-to-get-better-answers-from-asking-better-
 
 * [uxcb2016 website](http://www.uxcampbrighton.org/sessions/)
 
-Todo
+<!-- Todo
 
-[ ] Create a template for next year
+[ ] Create a template for next year -->
 
 <!-- I’ll be live blogging session notes from this year’s UX Camp Brighton. Stay tuned! -->
 
