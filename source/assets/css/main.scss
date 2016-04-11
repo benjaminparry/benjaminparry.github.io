@@ -75,6 +75,14 @@ img {
 	margin-top: 0;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5 {
+	position: relative;
+}
+
 .heading {
 
 	font-weight: bold;
@@ -83,6 +91,18 @@ img {
 .heading--alpha {
 
 	font-size: 2rem;
+}
+
+.post h1 {
+	font-size: 1.7rem;
+}
+
+.post h2 {
+	font-size: 1.45rem;
+}
+
+.post h3 {
+	font-size: 1.25rem;
 }
 
 .reset-list {
@@ -168,12 +188,14 @@ blockquote {
 	display: inline-block;
 }
 
+.anchor {
+	position: relative;
+}
 .anchor:before {
 	content: '#';
-}
-.anchor__text {
 	position: absolute;
-	left: -99999px;
+	top: 0;
+	left: -1em;
 }
 
 // http://type-scale.com/

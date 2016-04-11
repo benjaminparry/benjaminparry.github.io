@@ -7,12 +7,9 @@ categories : [writing]
 published: true
 ---
 
+# <a href="#the-first-30-seconds-user-onboarding" class="anchor" id="the-first-30-seconds-user-onboarding"><span class="anchor__text">The First 30 Seconds: Let’s Talk User Onboarding</span></a>
 
-<a href="#the-first-30-seconds-user-onboarding" class="anchor" id="the-first-30-seconds-user-onboarding"><span class="anchor__text">Heading permalink</span></a>
-
-# The First 30 Seconds: Let’s Talk User Onboarding
-
-Andrea Saez [@dreasaez](https://twitter.com/dreasaez)
+Andrea Saez [@dreasaez](https://twitter.com/dreasaez){:target="_blank"}
 
 ## Onboarding
 
@@ -27,8 +24,8 @@ Andrea Saez [@dreasaez](https://twitter.com/dreasaez)
 
 ## Give them something to focus on
 
-* [Shopify](https://www.shopify.co.uk/) e.g. - numbered steps to engage the user
-* [Prodpad](https://www.prodpad.com/) case study
+* [Shopify](https://www.shopify.co.uk/){:target="_blank"} e.g. - numbered steps to engage the user
+* [Prodpad](https://www.prodpad.com/){:target="_blank"} case study
   * cohort analysis (time form trial to conversion)
   * conversion times 6-10 weeks » 4-6 weeks with onboarding changes
   * drip flow emails to increase product engagement
@@ -36,13 +33,13 @@ Andrea Saez [@dreasaez](https://twitter.com/dreasaez)
   * understanding the why of the tasks (user)
 * 3 click rule: no more than that results in difficult to learn the IA
 
-## Open discussion
+### Open discussion
 
 * Anchor.fm - short audio messaging
 * Users are impatient
-* [Tictail](https://tictail.com/) onboarding: tasks - suggested text + t+c to move the user through the onboarding process quicker
+* [Tictail](https://tictail.com/){:target="_blank"} onboarding: tasks - suggested text + t+c to move the user through the onboarding process quicker
 * Adding friction: increase commitment and value by adding friction where it makes sense
-* Feature bloat: [Appcues](http://www.appcues.com/) case study.
+* Feature bloat: [Appcues](http://www.appcues.com/){:target="_blank"} case study.
   * aggressive onboarding
   * understanding tasks
   * through this you gain a better understanding what features your users actually need
@@ -57,15 +54,13 @@ Andrea Saez [@dreasaez](https://twitter.com/dreasaez)
   * users don’t read
 * Pace of onboarding: it depends on the user e.g. service provider/consumer contexts might require slower/quicker more/less speed or friction
 
-[View Andrea’s slides](http://www.slideshare.net/AndreaSaez4/the-first-30-seconds-lets-talk-user-onboarding)
+[View Andrea’s slides](http://www.slideshare.net/AndreaSaez4/the-first-30-seconds-lets-talk-user-onboarding){:target="_blank"}
 
 ---
 
-<a href="#initiating-ux-through-resistance" class="anchor" id="initiating-ux-through-resistance"><span class="anchor__text">Heading permalink</span></a>
+# <a href="#initiating-ux-through-resistance" class="anchor" id="initiating-ux-through-resistance"><span class="anchor__text">Initiating UX Through Resistance</span></a>
 
-# Initiating UX Through Resistance
-
-Gultekin Irengun [@mgirengun](https://twitter.com/mgirengun)
+Gultekin Irengun [@mgirengun](https://twitter.com/mgirengun){:target="_blank"}
 
 ## How to integrate UX into an established product?
 
@@ -110,38 +105,34 @@ Gultekin Irengun [@mgirengun](https://twitter.com/mgirengun)
 
 ---
 
-<a href="#flowcharts-personas-and-a-love-story" class="anchor" id="flowcharts-personas-and-a-love-story"><span class="anchor__text">Heading permalink</span></a>
+# <a href="#flowcharts-personas-and-a-love-story" class="anchor" id="flowcharts-personas-and-a-love-story"><span class="anchor__text">Flowcharts, Personas and a Love Story</span></a>
 
-# Flowcharts, Personas and a Love Story
-
-Natalia Rey [@mikitcha](https://twitter.com/mikitcha)
+Natalia Rey [@mikitcha](https://twitter.com/mikitcha){:target="_blank"}
 
 * Use consistent patterns
 * Reviewing the overall interaction design: highlights user goals - justify the changes
 * Problem based on customer complaints: direct
 
-**Users have different motives**
+## Users have different motives
 
 * Motivation - Feelings
 * Framing - Thinking
 * Behaviour - Doing
 
-# Questions
+### Questions
 
 * Development engagement and buy-in
 * Think into the situations
 * *Appropriate user persona e.g. motivations etc?*  Aligned with the business and collaborative process
 * *Testing the motivation?* Done during the user research stage
 
-[View Natalia’s slides](http://www.slideshare.net/mikitcha/flocharts-personas-pdf)
+[View Natalia’s slides](http://www.slideshare.net/mikitcha/flocharts-personas-pdf){:target="_blank"}
 
 ---
 
-<a href="#iterative-personas" class="anchor" id="iterative-personas"><span class="anchor__text">Heading permalink</span></a>
+# <a href="#iterative-personas" class="anchor" id="iterative-personas"><span class="anchor__text">Iterative Personas</span></a>
 
-# Iterative Personas
-
-Adrian Howard [@adrianh](https://twitter.com/adrianh)
+Adrian Howard [@adrianh](https://twitter.com/adrianh){:target="_blank"}
 
 ## How do we understand out customers?
 
@@ -179,26 +170,24 @@ Adrian Howard [@adrianh](https://twitter.com/adrianh)
 * Add rules
 * Step back
 
-# Questions
+### Questions
 
 * Hypothisis about users, customere and product features
 * Go for the truth straight away
 
-[View Adrian’s slides](http://www.slideshare.net/adrianh/lean-persona)
+[View Adrian’s slides](http://www.slideshare.net/adrianh/lean-persona){:target="_blank"}
 
 ---
 
-<a href="#practical-analytics-tips" class="anchor" id="practical-analytics-tips"><span class="anchor__text">Heading permalink</span></a>
+# <a href="#practical-analytics-tips" class="anchor" id="practical-analytics-tips"><span class="anchor__text">Practical Analytics Tips</span></a>
 
-# Practical Analytics Tips
-
-Luke Hay [@hayluke](https://twitter.com/hayluke)
+Luke Hay [@hayluke](https://twitter.com/hayluke){:target="_blank"}
 
 0. Reasons to use google Analytics
   *  easy to setup
   *  documented
   *  free
-0. gachecker.com - checks whole website for tracking
+0. [gachecker.com](http://www.gachecker.com/){:target="_blank"} - checks whole website for tracking
 0. Filter out spam/bots traffic
   * google doing well to filter this out
   * filter out unwanted spam
@@ -236,13 +225,11 @@ Luke Hay [@hayluke](https://twitter.com/hayluke)
 0. Customise your reports - easy access
 0. Use it often - better insight
 
-[View Luke’s slides](http://www.slideshare.net/LukeHay/analytics-for-ux-public)
+[View Luke’s slides](http://www.slideshare.net/LukeHay/analytics-for-ux-public){:target="_blank"}
 
 ---
 
-<a href="#organizational-culture-and-ux-design" class="anchor" id="organizational-culture-and-ux-design"><span class="anchor__text">Heading permalink</span></a>
-
-# Organizational Culture and UX Design
+# <a href="#organizational-culture-and-ux-design" class="anchor" id="organizational-culture-and-ux-design"><span class="anchor__text">Organizational Culture and UX Design</span></a>
 
 *speaker unknown*
 
@@ -259,18 +246,17 @@ Luke Hay [@hayluke](https://twitter.com/hayluke)
   * **Hierarchy** - focused on processes - top down
   * **Market** - externally focused - stable - e.g. Google, need to be iterative want to be first and best - need proof to validate this
 
-# Questions and discussion
+### Questions and discussion
 
 * We change our behavior when dealing with one of the above
 * Further Reading: Kim Goodwin’s presentation - competing values framework - communication techniques
 
 ---
 
-<a href="#the-project-pre-mortem" class="anchor" id="the-project-pre-mortem"><span class="anchor__text">Heading permalink</span></a>
 
-# The Project Pre-Mortem
+# <a href="#the-project-pre-mortem" class="anchor" id="the-project-pre-mortem"><span class="anchor__text">The Project Pre-Mortem</span></a>
 
-Tom Prior [@tomprior](https://twitter.com/tomprior)
+Tom Prior [@tomprior](https://twitter.com/tomprior){:target="_blank"}
 
 * Hindsight is a great things
 * How to avoid making the same mistakes?
@@ -310,54 +296,52 @@ Making course corrections - use retrospectives to route check and change tack
 * Encourages team work
 * Starts the project with a win
 
-# Questions & discussion
+### Questions & discussion
 
 * *Client billing?* Yes. More to maintain afterward.
 
-[View Tom’s slides](https://speakerdeck.com/tomprior/the-project-pre-mortem-harnessing-prospective-hindsight-for-healthier-projects)
+[View Tom’s slides](https://speakerdeck.com/tomprior/the-project-pre-mortem-harnessing-prospective-hindsight-for-healthier-projects){:target="_blank"}
 
 ---
 
-<a href="#how-to-ask-better-questions-from-asking-better-questions" class="anchor" id="how-to-ask-better-questions-from-asking-better-questions"><span class="anchor__text">Heading permalink</span></a>
+# <a href="#how-to-ask-better-questions-from-asking-better-questions" class="anchor" id="how-to-ask-better-questions-from-asking-better-questions"><span class="anchor__text">How To Ask Better Questions From Asking Better Questions</span></a>
 
-# How To Ask Better Questions From Asking Better Questions
-
-Chris How [@chrishow](https://twitter.com/chrishow)
+Chris How [@chrishow](https://twitter.com/chrishow){:target="_blank"}
 
 ## What makes a good question?
 
 Better questions move things forward - Einstein quote
 Questions are scary - senior
 
-0. Ends in a question mark
+0. **Ends in a question mark**
  * who?
  * why?
  * what?
  * when?
  * how?
-0. Has a purpose
+0. **Has a purpose**
   * what do they want to get out of the session? 
   * what’s the hypothesis?
-0. Gives insight that is actionable - cash for answers
-0. Opens up a conversation
+0. **Gives insight that is actionable** - cash for answers
+0. **Opens up a conversation**
   * closed questions - yes or no answers
   * clarification if fine
   * don’t constrain the answers
-0. Neutral and free of bias
+0. **Neutral and free of bias**
  * charged words e.g. “do you think”, “would you agree”, “tell me about about our new and exciting designs”
-0. It’s interesting
+0. **It’s interesting**
   * it’s a tiring process
   * omit useless questions
-0. Is short
+0. **Is short**
   * avoid “and”, commas, to many words *>12 words should be trimmed* **lesses understanding of question**
-0. Can be answered
-  * “**what do** you do…” rather than “**what would** you do”
+0. **Can be answered**
+  * “*what do* you do…” rather than “*what would* you do…”
 
-[View Chris’ slides](http://www.slideshare.net/ChrisHow/how-to-get-better-answers-from-asking-better-questions-59633964)
+[View Chris’ slides](http://www.slideshare.net/ChrisHow/how-to-get-better-answers-from-asking-better-questions-59633964){:target="_blank"}
 
 ---
 
-[UX Camp Brighton website](http://www.uxcampbrighton.org/sessions/)
+[View all the UX Camp Brighton 2016 sessions](http://www.uxcampbrighton.org/sessions/){:target="_blank"}
 
 <!-- Todo
 
