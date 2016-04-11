@@ -1,18 +1,18 @@
 ---
 type: post
 layout: collecting
-title: UX Camp Brighton
-description: Live blog of UX Camp Brighton 2016 sessions
+title: UX Camp Brighton 2016
+description: Notes from UX Camp Brighton 2016 sessions
 categories : [writing]
-published: false
+published: true
 ---
 
 
-<div id="the-first-30-seconds-user-onboarding">
+<a href="#the-first-30-seconds-user-onboarding" class="anchor" id="the-first-30-seconds-user-onboarding"><span class="anchor__text">Heading permalink</span></a>
 
 # The First 30 Seconds: Let’s Talk User Onboarding
 
-Andrea Saez [https://twitter.com/dreasaez](@dreasaez)
+Andrea Saez [@dreasaez](https://twitter.com/dreasaez)
 
 ## Onboarding
 
@@ -36,10 +36,6 @@ Andrea Saez [https://twitter.com/dreasaez](@dreasaez)
   * understanding the why of the tasks (user)
 * 3 click rule: no more than that results in difficult to learn the IA
 
-http://www.slideshare.net/AndreaSaez4/the-first-30-seconds-lets-talk-user-onboarding
-
----
-
 ## Open discussion
 
 * Anchor.fm - short audio messaging
@@ -61,13 +57,15 @@ http://www.slideshare.net/AndreaSaez4/the-first-30-seconds-lets-talk-user-onboar
   * users don’t read
 * Pace of onboarding: it depends on the user e.g. service provider/consumer contexts might require slower/quicker more/less speed or friction
 
-</div>
+[View Andrea’s slides](http://www.slideshare.net/AndreaSaez4/the-first-30-seconds-lets-talk-user-onboarding)
 
-<div id="initiating-ux-through-resistance">
+---
+
+<a href="#initiating-ux-through-resistance" class="anchor" id="initiating-ux-through-resistance"><span class="anchor__text">Heading permalink</span></a>
 
 # Initiating UX Through Resistance
 
-Gultekin Irengun [https://twitter.com/mgirengun](@mgirengun)
+Gultekin Irengun [@mgirengun](https://twitter.com/mgirengun)
 
 ## How to integrate UX into an established product?
 
@@ -110,15 +108,13 @@ Gultekin Irengun [https://twitter.com/mgirengun](@mgirengun)
 * Mock ups and mid-fidelity (axure etc) prototypes to help understand the workings
 * Angular templating framework to inject new code and UX into a legacy UI
 
-</div>
+---
 
-
-
-<div id="flowcharts-personas-and-a-love-story">
+<a href="#flowcharts-personas-and-a-love-story" class="anchor" id="flowcharts-personas-and-a-love-story"><span class="anchor__text">Heading permalink</span></a>
 
 # Flowcharts, Personas and a Love Story
 
-Natalia Rey [https://twitter.com/mikitcha](@mikitcha)
+Natalia Rey [@mikitcha](https://twitter.com/mikitcha)
 
 * Use consistent patterns
 * Reviewing the overall interaction design: highlights user goals - justify the changes
@@ -130,8 +126,6 @@ Natalia Rey [https://twitter.com/mikitcha](@mikitcha)
 * Framing - Thinking
 * Behaviour - Doing
 
----
-
 # Questions
 
 * Development engagement and buy-in
@@ -139,19 +133,15 @@ Natalia Rey [https://twitter.com/mikitcha](@mikitcha)
 * *Appropriate user persona e.g. motivations etc?*  Aligned with the business and collaborative process
 * *Testing the motivation?* Done during the user research stage
 
-http://www.slideshare.net/mikitcha/flocharts-personas-pdf
+[View Natalia’s slides](http://www.slideshare.net/mikitcha/flocharts-personas-pdf)
 
-</div>
+---
 
-
-
-<div id="iterative-personas">
+<a href="#iterative-personas" class="anchor" id="iterative-personas"><span class="anchor__text">Heading permalink</span></a>
 
 # Iterative Personas
 
-Adrian Howard [https://twitter.com/adrianh](@adrianh)
-
----
+Adrian Howard [@adrianh](https://twitter.com/adrianh)
 
 ## How do we understand out customers?
 
@@ -173,7 +163,7 @@ Adrian Howard [https://twitter.com/adrianh](@adrianh)
 ## ~~Lean~~ Iterative Persona
 
 0. Define: initial alignment - who are we building it for - customer touch - empathy maps Dave Gray - shared understanding
-  * Apply a `made shit up «--------------» true` scale - have conversations - surface the details - get stability - move ‘true’ point of reference
+  * Apply a `“made shit up” «------» “true”` scale - have conversations - surface the details - get stability - push “true” point of reference
   * Add structure - sift through the details - used with empathy maps
   * Visualizing the customer - supporting details to further the character and motives of the customer - e.g. gender - more research
 0. Define rules - visualizing ongoing research - leads to product decisions and prototypes - prompts further questions
@@ -189,28 +179,20 @@ Adrian Howard [https://twitter.com/adrianh](@adrianh)
 * Add rules
 * Step back
 
----
-
 # Questions
 
 * Hypothisis about users, customere and product features
 * Go for the truth straight away
 
+[View Adrian’s slides](http://www.slideshare.net/adrianh/lean-persona)
+
 ---
 
-http://www.slideshare.net/adrianh/lean-persona
-
-</div>
-
-
-
-<div id="">
+<a href="#practical-analytics-tips" class="anchor" id="practical-analytics-tips"><span class="anchor__text">Heading permalink</span></a>
 
 # Practical Analytics Tips
 
-Luke Hay [https://twitter.com/hayluke](@hayluke)
-
----
+Luke Hay [@hayluke](https://twitter.com/hayluke)
 
 0. Reasons to use google Analytics
   *  easy to setup
@@ -254,20 +236,15 @@ Luke Hay [https://twitter.com/hayluke](@hayluke)
 0. Customise your reports - easy access
 0. Use it often - better insight
 
+[View Luke’s slides](http://www.slideshare.net/LukeHay/analytics-for-ux-public)
+
 ---
 
-http://www.slideshare.net/LukeHay/analytics-for-ux-public
-
-</div>
-
-
-<div id="organizational-culture-and-ux-design">
+<a href="#organizational-culture-and-ux-design" class="anchor" id="organizational-culture-and-ux-design"><span class="anchor__text">Heading permalink</span></a>
 
 # Organizational Culture and UX Design
 
 *speaker unknown*
-
----
 
 * Each culture is different
 * Communication map
@@ -282,24 +259,18 @@ http://www.slideshare.net/LukeHay/analytics-for-ux-public
   * **Hierarchy** - focused on processes - top down
   * **Market** - externally focused - stable - e.g. Google, need to be iterative want to be first and best - need proof to validate this
 
----
-
 # Questions and discussion
 
 * We change our behavior when dealing with one of the above
 * Further Reading: Kim Goodwin’s presentation - competing values framework - communication techniques
 
-</div>
+---
 
-
-
-<div id="the-project-pre-mortem">
+<a href="#the-project-pre-mortem" class="anchor" id="the-project-pre-mortem"><span class="anchor__text">Heading permalink</span></a>
 
 # The Project Pre-Mortem
 
-Tom Prior [https://twitter.com/tomprior](@tomprior)
-
----
+Tom Prior [@tomprior](https://twitter.com/tomprior)
 
 * Hindsight is a great things
 * How to avoid making the same mistakes?
@@ -339,27 +310,19 @@ Making course corrections - use retrospectives to route check and change tack
 * Encourages team work
 * Starts the project with a win
 
----
-
 # Questions & discussion
 
 * *Client billing?* Yes. More to maintain afterward.
 
+[View Tom’s slides](https://speakerdeck.com/tomprior/the-project-pre-mortem-harnessing-prospective-hindsight-for-healthier-projects)
+
 ---
 
-https://speakerdeck.com/tomprior/the-project-pre-mortem-harnessing-prospective-hindsight-for-healthier-projects
-
-</div>
-
-
-
-<div id="how-to-ask-better-questions-from-asking-better-questions">
+<a href="#how-to-ask-better-questions-from-asking-better-questions" class="anchor" id="how-to-ask-better-questions-from-asking-better-questions"><span class="anchor__text">Heading permalink</span></a>
 
 # How To Ask Better Questions From Asking Better Questions
 
-Chris How [https://twitter.com/chrishow](@chrishow)
-
----
+Chris How [@chrishow](https://twitter.com/chrishow)
 
 ## What makes a good question?
 
@@ -390,14 +353,11 @@ Questions are scary - senior
 0. Can be answered
   * “**what do** you do…” rather than “**what would** you do”
 
+[View Chris’ slides](http://www.slideshare.net/ChrisHow/how-to-get-better-answers-from-asking-better-questions-59633964)
+
 ---
 
-http://www.slideshare.net/ChrisHow/how-to-get-better-answers-from-asking-better-questions-59633964
-
-</div>
-
-
-* [uxcb2016 website](http://www.uxcampbrighton.org/sessions/)
+[UX Camp Brighton website](http://www.uxcampbrighton.org/sessions/)
 
 <!-- Todo
 
