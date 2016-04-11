@@ -1,6 +1,33 @@
-<img src="assets/img/profile/benjamin-parry.jpg" alt="Photo of Benjamin Parry." class="u-photo">
-<h1 class="p-name">Benjamin Parry</h1>
-<p class="p-note">I’ve fallen in love with the problem. I’m a sucker for a product.</p>
-<h2>About me</h2>
-<p>This is my personal site where <a href="/writing/">I write</a> about my experience working in the web.</p>
-<p>I’m currently working as <span class="role p-role">designer</span> at <a href="https://www.create.net/" target="_blank">Create.net</a>, an ecommerce and content management system, based just outside of Brighton.</p>
+<article class="vcard">
+  
+  <figure class="reset-figure card card--profile">
+    <div class="reset-line-height">
+      
+      <img src="assets/img/profile/benjamin-parry.jpg" alt="Photo of Benjamin Parry." class="u-photo card__image">
+    </div>
+    <figcaption class="reset-figcaption card__text">
+      <h1 class="reset-heading card__text__heading p-name">Benjamin Parry</h1>
+      <p class="card__text__description">UI Designer</p>
+    </figcaption>
+  </figure>
+  
+  
+  <h2>Hello, I’m Benjamin Parry.</h2>
+  <p class="p-note">I’m a <strong class="role p-role">User Interface Designer</strong> living and working in East Sussex.</p>
+  <p>I strive to design <strong>intuative and inspired products</strong> that remain accessible and performant to the end user.</p>
+  <p>I’m currently working at <a href="https://www.create.net/" target="_blank">Create.net</a>, an ecommerce and CMS, based just outside of Brighton.</p>
+  
+  <h3>About this site</h3>
+  <p>This is my personal site where <a href="/writing/">I write</a> about my experiences working in the industry.</p>
+
+  {% for post in site.posts limit:1 %}
+  <a rel="syndication" href="{{ post.url }}" class="p-name u-url u-syndication card card--linked card--full card--inverted card--article">
+    <div class="reset-figcaption card__text">
+      <h1 class="reset-heading card__text__heading p-name">Read my most recent post</h1>
+      <p class="card__text__description card__link-target">{{ post.title }}</p>
+    </div>
+  </a>
+  {% endfor %}
+  
+  <p>I’m also <a href="/collecting/">collecting</a> noteworthy <a href="/links/">links</a> and general  <a href="/thoughts/">thoughts</a>.</p>
+</article>
