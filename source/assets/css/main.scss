@@ -1,3 +1,28 @@
+$spacing-unit: 4px;
+
+// Spacing Function
+//
+// 
+
+// Usage: multiply the spacing size to define the scale of spacing
+// Example:
+//
+// $spacing-unit: 4px;
+//
+// spacing(1) = 4px
+// spacing(2) = 8px
+// spacing(3) = 12px
+// spacing(4) = 16px
+// spacing(5) = 20px
+// spacing(6) = 24px
+// spacing(7) = 28px
+// spacing(8) = 32px
+
+@function spacing($function-multiply-value){
+
+	@return ($spacing-unit * $function-multiply-value)
+}
+
 html {
 	box-sizing: border-box;
 }
@@ -17,13 +42,13 @@ body {
 
 	margin: 0;
 	min-height: 100%;
-	border: 6px solid hsl(214, 81%, 30%);
+	border: spacing(2) solid hsl(214, 81%, 30%);
 	color: hsl(270, 3%, 12%);
 	background-color: hsl(0, 0%, 98%);
 	padding: 2rem 10%;
 	font-size: 16px;
 	font-family: sans-serif;
-	line-height: 1.2;
+	line-height: 1.4;
 }
 
 a {
@@ -31,6 +56,10 @@ a {
 	color: hsl(214, 81%, 35%);
 }
 
+strong {
+	
+	color: hsl(214, 68%, 22%);
+}
 
 
 /**
@@ -64,13 +93,11 @@ img {
 
 	max-width: 100%;
 	height: auto;
-
-	border: 1px solid hsl(214, 81%, 35%);
 }
 
 .site-banner {
 	
-	border-bottom: 5px solid hsl(214, 81%, 35%);
+	border-bottom: $spacing-unit solid hsl(214, 81%, 35%);
 	margin-bottom: 1rem;
 }
 
@@ -151,21 +178,69 @@ h5 {
 	display: none;
 }
 
-.landing .u-photo {
-	float: left;
-	margin-right: 2rem;
-	margin-bottom: 2rem;
+.reset-figure {
+	margin: 0;
+	display: inline-block;
+}
+.reset-figcaption {
+}
+.reset-line-height {
+	line-height: 0;
 }
 
-.landing [role="complementary"] {
-		 
-	 	clear: both;
-}
-@media (max-width: 532px) {
 
-	.landing .u-photo{
-		
-		display: none;
+.card--profile {
+	
+	border: spacing(1) solid hsl(0, 0%, 100%);
+	
+	text-align: center;
+	
+	.card__text {
+		color: hsl(0, 0%, 98%);
+	}
+	.card__text__heading {
+		background-color: hsl(214, 81%, 40%);
+	}
+	.card__text__description {
+		background-color: hsl(214, 81%, 35%);
+	}
+}
+.card__text {
+	font-weight: 100;
+}
+.card__text__heading {
+	padding: 0.5rem;
+	margin-bottom: 0;
+	font-weight: inherit;
+}
+.card__text__description {
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 0.5rem;
+	font-weight: inherit;
+}
+
+.card--linked {
+	text-decoration: none;
+	display: inline-block;
+}
+.card--article {
+	border: spacing(1) solid hsl(214, 81%, 35%);
+	background-color: white;
+	
+	.card__text__heading {
+		border-bottom: 1px solid hsl(214, 81%, 35%);
+	}
+}
+.card__link-target {
+	text-decoration: underline;
+}
+@media (min-width: 532px) {
+
+	.card--profile {
+		float: right;
+		margin-left: spacing(4);
+		margin-bottom: spacing(4);
 	}
 }
 
