@@ -7,11 +7,11 @@ categories : [writing]
 published: true
 ---
 
-# <a href="#the-first-30-seconds-user-onboarding" class="anchor" id="the-first-30-seconds-user-onboarding"><span class="anchor__text">The First 30 Seconds: Let’s Talk User Onboarding</span></a>
+## <a href="#the-first-30-seconds-user-onboarding" class="heading__anchor" id="the-first-30-seconds-user-onboarding"><span class="heading__anchor__text">The First 30 Seconds: Let’s Talk User Onboarding</span></a>
 
-Andrea Saez [@dreasaez](https://twitter.com/dreasaez){:target="_blank"}
+By **Andrea Saez** [@dreasaez](https://twitter.com/dreasaez){:target="_blank"}
 
-## Onboarding
+### Onboarding
 
 * Not a perfect artform
 * Goal to create a successful product + engaged user
@@ -22,7 +22,7 @@ Andrea Saez [@dreasaez](https://twitter.com/dreasaez){:target="_blank"}
 * Examine the outcomes
 * Slack as an example as success … *but you’re not Slack and your app does more than that*
 
-## Give them something to focus on
+### Give them something to focus on
 
 * [Shopify](https://www.shopify.co.uk/){:target="_blank"} e.g. - numbered steps to engage the user
 * [Prodpad](https://www.prodpad.com/){:target="_blank"} case study
@@ -56,15 +56,15 @@ Andrea Saez [@dreasaez](https://twitter.com/dreasaez){:target="_blank"}
 
 [View Andrea’s slides](http://www.slideshare.net/AndreaSaez4/the-first-30-seconds-lets-talk-user-onboarding){:target="_blank"}
 
----
 
-# <a href="#initiating-ux-through-resistance" class="anchor" id="initiating-ux-through-resistance"><span class="anchor__text">Initiating UX Through Resistance</span></a>
 
-Gultekin Irengun [@mgirengun](https://twitter.com/mgirengun){:target="_blank"}
+## <a href="#initiating-ux-through-resistance" class="heading__anchor" id="initiating-ux-through-resistance"><span class="heading__anchor__text">Initiating UX Through Resistance</span></a>
 
-## How to integrate UX into an established product?
+By **Gultekin Irengun** [@mgirengun](https://twitter.com/mgirengun){:target="_blank"}
 
-### Friction and blockers
+### How to integrate UX into an established product?
+
+#### Friction and blockers
 
 * Legacy code
 * CEO doesn’t know/understand UX
@@ -76,7 +76,7 @@ Gultekin Irengun [@mgirengun](https://twitter.com/mgirengun){:target="_blank"}
 * Business time and customer barriers
 * You can be the only UX team member - cross over skills
 
-## Three opportunities and resources
+### Three opportunities and resources
 
 * Usability tests
 * Product research
@@ -91,7 +91,7 @@ Gultekin Irengun [@mgirengun](https://twitter.com/mgirengun){:target="_blank"}
 * Feed back into the business
 * Goal design - feature requests
 
-## Legacy code
+### Legacy code
 
 * Roadblocks to improvements
 * Need of a product owner
@@ -101,17 +101,17 @@ Gultekin Irengun [@mgirengun](https://twitter.com/mgirengun){:target="_blank"}
 * Mock ups and mid-fidelity (axure etc) prototypes to help understand the workings
 * Angular templating framework to inject new code and UX into a legacy UI
 
----
 
-# <a href="#flowcharts-personas-and-a-love-story" class="anchor" id="flowcharts-personas-and-a-love-story"><span class="anchor__text">Flowcharts, Personas and a Love Story</span></a>
 
-Natalia Rey [@mikitcha](https://twitter.com/mikitcha){:target="_blank"}
+## <a href="#flowcharts-personas-and-a-love-story" class="heading__anchor" id="flowcharts-personas-and-a-love-story"><span class="heading__anchor__text">Flowcharts, Personas and a Love Story</span></a>
+
+By **Natalia Rey** [@mikitcha](https://twitter.com/mikitcha){:target="_blank"}
 
 * Use consistent patterns
 * Reviewing the overall interaction design: highlights user goals - justify the changes
 * Problem based on customer complaints: direct
 
-## Users have different motives
+### Users have different motives
 
 * Motivation - Feelings
 * Framing - Thinking
@@ -126,18 +126,18 @@ Natalia Rey [@mikitcha](https://twitter.com/mikitcha){:target="_blank"}
 
 [View Natalia’s slides](http://www.slideshare.net/mikitcha/flocharts-personas-pdf){:target="_blank"}
 
----
 
-# <a href="#iterative-personas" class="anchor" id="iterative-personas"><span class="anchor__text">Iterative Personas</span></a>
 
-Adrian Howard [@adrianh](https://twitter.com/adrianh){:target="_blank"}
+## <a href="#iterative-personas" class="heading__anchor" id="iterative-personas"><span class="heading__anchor__text">Iterative Personas</span></a>
 
-## How do we understand out customers?
+By **Adrian Howard** [@adrianh](https://twitter.com/adrianh){:target="_blank"}
+
+### How do we understand out customers?
 
 * Twitter for cats: point of reference different for all teams - no shared understanding = a bad customer experience
 * UX solution is the persona: deliverable - helps with empathy - good for generating ideas - shared understanding + happy customer
 
-## Persona Problems
+### Persona Problems
 
 * Presented as truth: customer’s needs change over time
 * Large investment of time and money and people
@@ -149,10 +149,10 @@ Adrian Howard [@adrianh](https://twitter.com/adrianh){:target="_blank"}
 
 **The photo album is not the same as the holiday experience.**
 
-## ~~Lean~~ Iterative Persona
+### ~~Lean~~ Iterative Persona
 
 0. Define: initial alignment - who are we building it for - customer touch - empathy maps Dave Gray - shared understanding
-  * Apply a `“made shit up” «------» “true”` scale - have conversations - surface the details - get stability - push “true” point of reference
+  * Apply a `“made shit up” «» “true”` scale - have conversations - surface the details - get stability - push “true” point of reference
   * Add structure - sift through the details - used with empathy maps
   * Visualizing the customer - supporting details to further the character and motives of the customer - e.g. gender - more research
 0. Define rules - visualizing ongoing research - leads to product decisions and prototypes - prompts further questions
@@ -161,7 +161,7 @@ Adrian Howard [@adrianh](https://twitter.com/adrianh){:target="_blank"}
   * Whole team commits
   * Buy-in
 
-## Summing Up
+### Summing Up
 
 * Early alignment
 * Scale up with truth
@@ -175,11 +175,11 @@ Adrian Howard [@adrianh](https://twitter.com/adrianh){:target="_blank"}
 
 [View Adrian’s slides](http://www.slideshare.net/adrianh/lean-persona){:target="_blank"}
 
----
 
-# <a href="#practical-analytics-tips" class="anchor" id="practical-analytics-tips"><span class="anchor__text">Practical Analytics Tips</span></a>
 
-Luke Hay [@hayluke](https://twitter.com/hayluke){:target="_blank"}
+## <a href="#practical-analytics-tips" class="heading__anchor" id="practical-analytics-tips"><span class="heading__anchor__text">Practical Analytics Tips</span></a>
+
+By **Luke Hay** [@hayluke](https://twitter.com/hayluke){:target="_blank"}
 
 0. Reasons to use google Analytics
   *  easy to setup
@@ -225,16 +225,16 @@ Luke Hay [@hayluke](https://twitter.com/hayluke){:target="_blank"}
 
 [View Luke’s slides](http://www.slideshare.net/LukeHay/analytics-for-ux-public){:target="_blank"}
 
----
 
-# <a href="#organizational-culture-and-ux-design" class="anchor" id="organizational-culture-and-ux-design"><span class="anchor__text">Organizational Culture and UX Design</span></a>
+
+## <a href="#organizational-culture-and-ux-design" class="heading__anchor" id="organizational-culture-and-ux-design"><span class="heading__anchor__text">Organizational Culture and UX Design</span></a>
 
 *speaker unknown*
 
 * Each culture is different
 * Communication map
 
-## Workshop objectives
+### Workshop objectives
 
 * 4 company culture types based on **Competing Values Framework** by Cameron & Quinn
 * (see slide diagram)
@@ -249,12 +249,12 @@ Luke Hay [@hayluke](https://twitter.com/hayluke){:target="_blank"}
 * We change our behavior when dealing with one of the above
 * Further Reading: Kim Goodwin’s presentation - competing values framework - communication techniques
 
----
 
 
-# <a href="#the-project-pre-mortem" class="anchor" id="the-project-pre-mortem"><span class="anchor__text">The Project Pre-Mortem</span></a>
 
-Tom Prior [@tomprior](https://twitter.com/tomprior){:target="_blank"}
+## <a href="#the-project-pre-mortem" class="heading__anchor" id="the-project-pre-mortem"><span class="heading__anchor__text">The Project Pre-Mortem</span></a>
+
+By **Tom Prior** [@tomprior](https://twitter.com/tomprior){:target="_blank"}
 
 * Hindsight is a great things
 * How to avoid making the same mistakes?
@@ -267,7 +267,7 @@ Tom Prior [@tomprior](https://twitter.com/tomprior){:target="_blank"}
   * Harnesses predicted faluire - improves 30%
   * Project is already a disaster
 
-## How it runs
+### How it runs
 
 * All present involved in the Project
 * Include the client
@@ -279,7 +279,7 @@ Tom Prior [@tomprior](https://twitter.com/tomprior){:target="_blank"}
 0. Brainstorm solutions
 0. Agree actions - owner scrum master
 
-## Recap
+### Recap
 
 0. Image compelte failure
 0. Generate reasons for failure
@@ -288,7 +288,7 @@ Tom Prior [@tomprior](https://twitter.com/tomprior){:target="_blank"}
 
 Making course corrections - use retrospectives to route check and change tack
 
-## Benefits
+### Benefits
 
 * Improves the odds of success
 * Encourages team work
@@ -300,13 +300,13 @@ Making course corrections - use retrospectives to route check and change tack
 
 [View Tom’s slides](https://speakerdeck.com/tomprior/the-project-pre-mortem-harnessing-prospective-hindsight-for-healthier-projects){:target="_blank"}
 
----
 
-# <a href="#how-to-ask-better-questions-from-asking-better-questions" class="anchor" id="how-to-ask-better-questions-from-asking-better-questions"><span class="anchor__text">How To Ask Better Questions From Asking Better Questions</span></a>
 
-Chris How [@chrishow](https://twitter.com/chrishow){:target="_blank"}
+## <a href="#how-to-ask-better-questions-from-asking-better-questions" class="heading__anchor" id="how-to-ask-better-questions-from-asking-better-questions"><span class="heading__anchor__text">How To Ask Better Questions From Asking Better Questions</span></a>
 
-## What makes a good question?
+By **Chris How** [@chrishow](https://twitter.com/chrishow){:target="_blank"}
+
+### What makes a good question?
 
 Better questions move things forward - Einstein quote
 Questions are scary - senior
@@ -337,7 +337,7 @@ Questions are scary - senior
 
 [View Chris’ slides](http://www.slideshare.net/ChrisHow/how-to-get-better-answers-from-asking-better-questions-59633964){:target="_blank"}
 
----
+
 
 [View all the UX Camp Brighton 2016 sessions](http://www.uxcampbrighton.org/sessions/){:target="_blank"}
 

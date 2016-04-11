@@ -68,6 +68,12 @@ img {
 	border: 1px solid hsl(214, 81%, 35%);
 }
 
+.site-banner {
+	
+	border-bottom: 5px solid hsl(214, 81%, 35%);
+	margin-bottom: 1rem;
+}
+
 .reset-heading {
 
 	font-size: 1rem;
@@ -95,6 +101,9 @@ h5 {
 
 .post h1 {
 	font-size: 1.7rem;
+	
+	// border-top: 1px solid hsl(0, 0%, 80%);
+	// padding-top: 30px;
 }
 
 .post h2 {
@@ -188,13 +197,17 @@ blockquote {
 	display: inline-block;
 }
 
-.anchor {
+.heading__anchor {
 	position: relative;
+	border-top: 1px solid hsl(0, 0%, 88%);
+	padding-top: 1.5rem;
+	margin-top: 1.75rem;
+	display: block;
 }
-.anchor:before {
+.heading__anchor:before {
 	content: '#';
 	position: absolute;
-	top: 0;
+	top: 1.5rem;
 	left: -1em;
 }
 
