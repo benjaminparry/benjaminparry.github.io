@@ -93,8 +93,6 @@ Gultekin Irengun [@mgirengun](https://twitter.com/mgirengun){:target="_blank"}
 
 ## Legacy code
 
- <!-- Marcus @ airline booking + legacy code - marcus@mdibb.com -->
-
 * Roadblocks to improvements
 * Need of a product owner
 * Utilize the scrum master and project manager
