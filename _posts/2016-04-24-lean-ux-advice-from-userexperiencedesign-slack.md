@@ -11,7 +11,7 @@ published: true
 
 
 
-*The following content was copied from the [userexperiencedesign.slack.com](https://userexperiencedesign.slack.com/) ‘topic_lean’ channel. All contributors to the discussion have given their permission for the content to be re-published here.*
+*The following content was copied from the [userexperiencedesign.slack.com](https://userexperiencedesign.slack.com/){:target="_blank"} ‘topic_lean’ channel. All contributors to the discussion have given their permission for the content to be re-published here.*
 
 **Sonja Bobrowska:** [@sbobrowska](https://twitter.com/sbobrowska){:target="_blank"}
 
