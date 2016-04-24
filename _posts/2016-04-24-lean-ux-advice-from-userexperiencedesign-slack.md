@@ -7,9 +7,13 @@ categories : [writing]
 published: true
 ---
 
-*The following content was copied from the [userexperiencedesign.slack.com](https://userexperiencedesign.slack.com/) ‘topic_lean’ channel.*
+## Heading
 
-**Sonja Bobrowska:**
+
+
+*The following content was copied from the [userexperiencedesign.slack.com](https://userexperiencedesign.slack.com/) ‘topic_lean’ channel. All contributors to the discussion have given their permission for the content to be re-published here.*
+
+**Sonja Bobrowska:** [@sbobrowska](https://twitter.com/sbobrowska){:target="_blank"}
 
 > I came to this thread out of desperation. And the first thing I see is @lauraklein’s post which describes my situation to the dot: "the most critical part of this whole thing might be getting individuals to start identifying assumptions that are baked into a lot of the roadmaps and features for their products. I’ve noticed in large orgs that somehow features just sort of appear out of nowhere. Or they come out of weird compromises in meetings. If product managers can start figuring out what the actual point of the features is and then figuring out whether there are things they could to validate (or invalidate) the direction, that would be helpful.”
 >
@@ -21,7 +25,7 @@ published: true
 >
 > Also, this is my first UX design role =]
 
-**Louis Elfman:**
+**Louis Elfman:** [@lelfman](https://twitter.com/lelfman){:target="_blank"} [website](http://louiselfman.com/){:target="_blank"}
 
 > Well, Laura literally wrote a book called “Lean UX for Startups”, so you might want to pick her brain. Slash buy her book and read it?
 >
@@ -33,13 +37,13 @@ published: true
 >
 > And remember, @sonja, that you don’t have to solve all the things. You can only fix so much, you’ll kill yourself if you expect yourself to do it all. First find out what the most valuable things you can do for your users and your org. Then tackle those and hopefully the rest will fall in line.
 
-**Dave Malouf:**
+**Dave Malouf:** [@daveixd](https://twitter.com/daveixd){:target="_blank"} [website](http://davemalouf.com/){:target="_blank"}
 
 > Another book and this one will give you things to do. How to make sense of any mess by Abbie Covert. it has direct frames for you to start applying … Last book again will help you help yourself “First 90 Days"
 >
 > Would be great to get a general mentor for sure. Often local groups in different cities offer mentorship programs. Have you looked into that?
 
-**Adrian Howard:**
+**Adrian Howard:** [@adrianh](https://twitter.com/adrianh){:target="_blank"} [website](http://quietstars.com/){:target="_blank"}
 
 > In an attempt to be more directive with practices
 >
@@ -53,13 +57,13 @@ published: true
 >
 > On the community/people front you may want to reach out to the Balanced Team folk [http://balancedteam.org/](http://balancedteam.org/). It's a community that grew out of UX and Agile folk talking, its where I first heard of the stuff Janice Fraser et al were doing with Lean UX way back in 2010, and has a bunch of folk who have been playing with these ideas for a while. There's Yet Another Slack, DM me an email if you want an invite. Also an email list, link of the website ;-)
 >
-> On the book front I'd ​_personally_​ put Lean Startup at the bottom of the reading pile since it's not that useful for practices. It is, however, a much better book at convincing business/management layers about the value of the more experimental approaches. So it might be a book you want to get your boss or grandboss to read.
+> On the book front I'd ​personally put Lean Startup at the bottom of the reading pile since it's not that useful for practices. It is, however, a much better book at convincing business/management layers about the value of the more experimental approaches. So it might be a book you want to get your boss or grandboss to read.
 >
-> I would second @daveixd's recommendation of Making Sense Of Any Mess. The content is good but, possibly more importantly, it is a ​_masterclass_​ in explaining concepts to folk who don't grok the concepts. Looking at the way Abby explains IA to an audience who don't know anything about IA may have some useful lessons for you.
+> I would second @daveixd's recommendation of Making Sense Of Any Mess. The content is good but, possibly more importantly, it is a ​masterclass​ in explaining concepts to folk who don't grok the concepts. Looking at the way Abby explains IA to an audience who don't know anything about IA may have some useful lessons for you.
 > 
 > Laura's UX for Lean Startups, if you've not read it yet, is more practice-oriented than Lean UX — so that will be worth a look. However it is more focused and startup-startups, so may be less directly relevant to your current context. However it is both refreshingly blunt – and written to non UX folk — so is possibly a better book for the rest of the team to read.
 
-**Dave Malouf:**
+**Dave Malouf:** [@daveixd](https://twitter.com/daveixd){:target="_blank"} [website](http://davemalouf.com/){:target="_blank"}
 
 > Another piece of advice, is start every meeting about a next release kickoff with the questions: What do we need to learn next and what is the least we can do in order to learn it and do we have to put it into production to learn it? (create a culture of learning and the rest falls into place)
 >
