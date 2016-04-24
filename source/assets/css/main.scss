@@ -137,10 +137,10 @@ h5 {
 	
 	.p-description {
 		
-		// border-top: 1px solid hsl(0, 0%, 80%);
-		// padding-top: 30px;
-		// border-bottom: 1px solid hsl(0, 0%, 80%);
-		// padding-bottom: 30px;
+		border-top: 1px solid hsl(0, 0%, 80%);
+		padding-top: 30px;
+		border-bottom: 1px solid hsl(0, 0%, 80%);
+		padding-bottom: 30px;
 		font-size: 1.15rem;
 	}
 	
@@ -338,7 +338,18 @@ a {
 	padding-top: 1.5rem;
 	margin-top: 1.75rem;
 	display: block;
+	
 }
+.e-content h2:first-child .heading__anchor {
+	
+	padding-top: 0;
+	border-top: none;
+	
+	&:before {
+		top: 0;
+	}
+}
+
 .heading__anchor:before {
 	content: '#';
 	position: absolute;
