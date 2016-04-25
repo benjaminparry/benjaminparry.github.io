@@ -27,7 +27,7 @@ The **Lean UX** approach had been suggested to me earlier last week and keen to 
 >
 > Also, this is my first UX design role =]
 
-**Louis Elfman:** [@lelfman](https://twitter.com/lelfman){:target="_blank"} [Louis’ website](http://louiselfman.com/){:target="_blank"}
+<!-- **Louis Elfman:** [@lelfman](https://twitter.com/lelfman){:target="_blank"} [Louis’ website](http://louiselfman.com/){:target="_blank"}
 
 > Well, Laura literally wrote a book called “Lean UX for Startups”, so you might want to pick her brain. Slash buy her book and read it?
 >
@@ -37,7 +37,7 @@ The **Lean UX** approach had been suggested to me earlier last week and keen to 
 >
 > Do a 2x2 (a 4-quadrant grid). Put each assumption on a post-it. Top is “low risk”, bottom is “high risk”, left is “low value” right is “high value”. Grab a couple trusted partners and prioritize all according to the axes. It’ll help bring some clarity to it
 >
-> And remember, @sonja, that you don’t have to solve all the things. You can only fix so much, you’ll kill yourself if you expect yourself to do it all. First find out what the most valuable things you can do for your users and your org. Then tackle those and hopefully the rest will fall in line.
+> And remember, @sonja, that you don’t have to solve all the things. You can only fix so much, you’ll kill yourself if you expect yourself to do it all. First find out what the most valuable things you can do for your users and your org. Then tackle those and hopefully the rest will fall in line. -->
 
 **Dave Malouf:** [@daveixd](https://twitter.com/daveixd){:target="_blank"} [Dave’s website](http://davemalouf.com/){:target="_blank"}
 
@@ -62,7 +62,7 @@ The **Lean UX** approach had been suggested to me earlier last week and keen to 
 > On the book front I'd ​personally put Lean Startup at the bottom of the reading pile since it's not that useful for practices. It is, however, a much better book at convincing business/management layers about the value of the more experimental approaches. So it might be a book you want to get your boss or grandboss to read.
 >
 > I would second @daveixd's recommendation of Making Sense Of Any Mess. The content is good but, possibly more importantly, it is a ​masterclass​ in explaining concepts to folk who don't grok the concepts. Looking at the way Abby explains IA to an audience who don't know anything about IA may have some useful lessons for you.
-> 
+>
 > Laura's UX for Lean Startups, if you've not read it yet, is more practice-oriented than Lean UX — so that will be worth a look. However it is more focused and startup-startups, so may be less directly relevant to your current context. However it is both refreshingly blunt – and written to non UX folk — so is possibly a better book for the rest of the team to read.
 
 **Dave Malouf:** [@daveixd](https://twitter.com/daveixd){:target="_blank"} [Dave’s website](http://davemalouf.com/){:target="_blank"}
