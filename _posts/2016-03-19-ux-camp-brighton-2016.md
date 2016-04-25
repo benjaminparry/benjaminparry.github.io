@@ -7,7 +7,7 @@ categories : [writing]
 published: true
 ---
 
-## <a href="#the-first-30-seconds-user-onboarding" class="heading__anchor" id="the-first-30-seconds-user-onboarding"><span class="heading__anchor__text">The First 30 Seconds: Let’s Talk User Onboarding</span></a>
+<h2><a href="#the-first-30-seconds-user-onboarding" class="heading__anchor" id="the-first-30-seconds-user-onboarding">The First 30 Seconds: Let’s Talk User Onboarding</a></h2>
 
 By **Andrea Saez** [@dreasaez](https://twitter.com/dreasaez){:target="_blank"}
 
@@ -58,7 +58,7 @@ By **Andrea Saez** [@dreasaez](https://twitter.com/dreasaez){:target="_blank"}
 
 
 
-## <a href="#initiating-ux-through-resistance" class="heading__anchor" id="initiating-ux-through-resistance"><span class="heading__anchor__text">Initiating UX Through Resistance</span></a>
+<h2><a href="#initiating-ux-through-resistance" class="heading__anchor" id="initiating-ux-through-resistance">Initiating UX Through Resistance</a></h2>
 
 By **Gultekin Irengun** [@mgirengun](https://twitter.com/mgirengun){:target="_blank"}
 
@@ -103,7 +103,7 @@ By **Gultekin Irengun** [@mgirengun](https://twitter.com/mgirengun){:target="_bl
 
 
 
-## <a href="#flowcharts-personas-and-a-love-story" class="heading__anchor" id="flowcharts-personas-and-a-love-story"><span class="heading__anchor__text">Flowcharts, Personas and a Love Story</span></a>
+<h2><a href="#flowcharts-personas-and-a-love-story" class="heading__anchor" id="flowcharts-personas-and-a-love-story">Flowcharts, Personas and a Love Story</a></h2>
 
 By **Natalia Rey** [@mikitcha](https://twitter.com/mikitcha){:target="_blank"}
 
@@ -128,7 +128,7 @@ By **Natalia Rey** [@mikitcha](https://twitter.com/mikitcha){:target="_blank"}
 
 
 
-## <a href="#iterative-personas" class="heading__anchor" id="iterative-personas"><span class="heading__anchor__text">Iterative Personas</span></a>
+<h2><a href="#iterative-personas" class="heading__anchor" id="iterative-personas">Iterative Personas</a></h2>
 
 By **Adrian Howard** [@adrianh](https://twitter.com/adrianh){:target="_blank"}
 
@@ -177,7 +177,7 @@ By **Adrian Howard** [@adrianh](https://twitter.com/adrianh){:target="_blank"}
 
 
 
-## <a href="#practical-analytics-tips" class="heading__anchor" id="practical-analytics-tips"><span class="heading__anchor__text">Practical Analytics Tips</span></a>
+<h2><a href="#practical-analytics-tips" class="heading__anchor" id="practical-analytics-tips">Practical Analytics Tips</a></h2>
 
 By **Luke Hay** [@hayluke](https://twitter.com/hayluke){:target="_blank"}
 
@@ -227,7 +227,7 @@ By **Luke Hay** [@hayluke](https://twitter.com/hayluke){:target="_blank"}
 
 
 
-## <a href="#organizational-culture-and-ux-design" class="heading__anchor" id="organizational-culture-and-ux-design"><span class="heading__anchor__text">Organizational Culture and UX Design</span></a>
+<h2><a href="#organizational-culture-and-ux-design" class="heading__anchor" id="organizational-culture-and-ux-design">Organizational Culture and UX Design</a></h2>
 
 *speaker unknown*
 
@@ -252,7 +252,7 @@ By **Luke Hay** [@hayluke](https://twitter.com/hayluke){:target="_blank"}
 
 
 
-## <a href="#the-project-pre-mortem" class="heading__anchor" id="the-project-pre-mortem"><span class="heading__anchor__text">The Project Pre-Mortem</span></a>
+<h2><a href="#the-project-pre-mortem" class="heading__anchor" id="the-project-pre-mortem">The Project Pre-Mortem</a></h2>
 
 By **Tom Prior** [@tomprior](https://twitter.com/tomprior){:target="_blank"}
 
@@ -302,7 +302,7 @@ Making course corrections - use retrospectives to route check and change tack
 
 
 
-## <a href="#how-to-ask-better-questions-from-asking-better-questions" class="heading__anchor" id="how-to-ask-better-questions-from-asking-better-questions"><span class="heading__anchor__text">How To Ask Better Questions From Asking Better Questions</span></a>
+<h2><a href="#how-to-ask-better-questions-from-asking-better-questions" class="heading__anchor" id="how-to-ask-better-questions-from-asking-better-questions">How To Ask Better Questions From Asking Better Questions</a></h2>
 
 By **Chris How** [@chrishow](https://twitter.com/chrishow){:target="_blank"}
 

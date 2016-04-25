@@ -61,6 +61,11 @@ strong {
 	color: hsl(214, 68%, 22%);
 }
 
+em {
+	
+	background-color: #fff;
+}
+
 
 /**
  * For modern browsers
@@ -113,7 +118,9 @@ h2,
 h3,
 h4,
 h5 {
+	
 	position: relative;
+	word-break: break-all;
 }
 
 .heading {
@@ -126,20 +133,30 @@ h5 {
 	font-size: 2rem;
 }
 
-.post h1 {
-	font-size: 1.7rem;
+.post {
 	
-	// border-top: 1px solid hsl(0, 0%, 80%);
-	// padding-top: 30px;
-}
-
-.post h2 {
-	font-size: 1.45rem;
-}
-
-.post h3 {
-	font-size: 1.25rem;
-}
+	.p-description {
+		
+		border-top: 1px solid hsl(0, 0%, 80%);
+		padding-top: 30px;
+		border-bottom: 1px solid hsl(0, 0%, 80%);
+		padding-bottom: 30px;
+		font-size: 1.15rem;
+	}
+	
+	h1 {
+		font-size: 1.7rem;
+		
+	}
+	
+	h2 {
+		font-size: 1.45rem;
+	}
+	
+	h3 {
+		font-size: 1.25rem;
+	}
+} 
 
 .reset-list {
 
@@ -254,23 +271,66 @@ blockquote {
 
 
     border: 1px solid #0e448a;
-    background-color: hsl(0, 0%, 93%);
+    background-color: hsl(0, 0%, 95%);
     padding: 0 1rem;
+		position: relative;
+		margin-bottom: 2rem;
+		
+		> :first-child {
+			
+			&:before {
+				
+				content: "";
+				margin-left: 2rem;
+			}
+		}
+		
+		> :last-child {
+			
+			&:after {
+				
+				content: "";
+				margin-right: 2rem;
+			}
+		}
+		
+		&:before {
+			
+			content: "“";
+	    color: #0e448a;
+			font-size: 3rem;
+			position: absolute;
+			top: 0;
+			left: 1rem;
+			line-height: 1.5;
+		}
+		
+		&:after {
+			
+			content: "”";
+	    color: #0e448a;
+			font-size: 3rem;
+			position: absolute;
+			bottom: 0;
+			right: 1rem;
+			line-height: 0.5;
+		}
+}
 
+a {
+	word-break: break-all;
+	display: inline;
 }
 
 [href*="//"]:not([href*="benjamin.parry.is"]) {
 	position: relative;
-	padding-right: 0.75rem;
+	
+	&:after {
+		content: "\2009»";
+		display: inline-block;
+	}
 }
 
-[href*="//"]:not([href*="benjamin.parry.is"]):after {
-	content: "»";
-	position: absolute;
-	top: 0;
-	right: 0;
-	display: inline-block;
-}
 
 .heading__anchor {
 	position: relative;
@@ -278,7 +338,18 @@ blockquote {
 	padding-top: 1.5rem;
 	margin-top: 1.75rem;
 	display: block;
+	
 }
+.e-content h2:first-child .heading__anchor {
+	
+	padding-top: 0;
+	border-top: none;
+	
+	&:before {
+		top: 0;
+	}
+}
+
 .heading__anchor:before {
 	content: '#';
 	position: absolute;
