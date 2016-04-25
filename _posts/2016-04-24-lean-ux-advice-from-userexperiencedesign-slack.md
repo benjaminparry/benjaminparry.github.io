@@ -27,7 +27,7 @@ The **Lean UX** approach had been suggested to me earlier last week and keen to 
 >
 > Also, this is my first UX design role =]
 
-<!-- **Louis Elfman:** [@lelfman](https://twitter.com/lelfman){:target="_blank"} [Louis’ website](http://louiselfman.com/){:target="_blank"}
+**Louis Elfman:** [@lelfman](https://twitter.com/lelfman){:target="_blank"} [Louis’ website](http://louiselfman.com/){:target="_blank"}
 
 > Well, Laura literally wrote a book called “Lean UX for Startups”, so you might want to pick her brain. Slash buy her book and read it?
 >
@@ -37,7 +37,7 @@ The **Lean UX** approach had been suggested to me earlier last week and keen to 
 >
 > Do a 2x2 (a 4-quadrant grid). Put each assumption on a post-it. Top is “low risk”, bottom is “high risk”, left is “low value” right is “high value”. Grab a couple trusted partners and prioritize all according to the axes. It’ll help bring some clarity to it
 >
-> And remember, @sonja, that you don’t have to solve all the things. You can only fix so much, you’ll kill yourself if you expect yourself to do it all. First find out what the most valuable things you can do for your users and your org. Then tackle those and hopefully the rest will fall in line. -->
+> And remember, @sonja, that you don’t have to solve all the things. You can only fix so much, you’ll kill yourself if you expect yourself to do it all. First find out what the most valuable things you can do for your users and your org. Then tackle those and hopefully the rest will fall in line.
 
 **Dave Malouf:** [@daveixd](https://twitter.com/daveixd){:target="_blank"} [Dave’s website](http://davemalouf.com/){:target="_blank"}
 
