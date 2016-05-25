@@ -59,6 +59,7 @@ a {
 strong {
 	
 	color: hsl(214, 68%, 22%);
+	text-shadow: 0 1px 0 white;
 }
 
 em {
@@ -103,7 +104,7 @@ img {
 .site-banner {
 	
 	border-bottom: $spacing-unit solid hsl(214, 81%, 35%);
-	margin-bottom: 1rem;
+	margin-bottom: spacing(4);
 }
 
 .reset-heading {
@@ -261,6 +262,38 @@ h5 {
 	}
 }
 
+// Heading
+@media (min-width: 433px) {
+	.vcard .heading--alpha {
+		text-align: center;
+	}
+}
+@media (max-width: 523px) {
+	.vcard .heading--alpha {
+		font-size: 1rem;
+	}
+}
+@media (min-width: 524px) {
+	.vcard .heading--alpha {
+		font-size: 1.25rem;
+	}
+}
+@media (min-width: 688px) {
+	.vcard .heading--alpha {
+		font-size: 1.5rem;
+	}
+}
+@media (min-width: 826px) {
+	.vcard .heading--alpha {
+		font-size: 2rem;
+	}
+}
+@media (max-width: 825px) {
+	.card--profile {
+		display: none;
+	}
+}
+
 .wrap {
 	max-width: 55rem;
 	margin-right: auto;
@@ -355,6 +388,31 @@ a {
 	position: absolute;
 	top: 1.5rem;
 	left: -1em;
+}
+
+[role="navigation"] .list--standard {
+	padding-left: 0;
+}
+
+[role="navigation"] > a {
+	text-decoration: none;
+}
+
+[role="navigation"] .list--standard > li {
+	font-weight: bold;
+	display: inline;
+	margin-right: spacing(6);
+}
+[role="navigation"] .list--standard .list {
+	font-weight: normal;
+}
+
+// Utility
+.utility-font-size-150 {
+	font-size: 150%;
+}
+.utility-font-size-200 {
+	font-size: 200%;
 }
 
 // http://type-scale.com/
