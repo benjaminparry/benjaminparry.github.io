@@ -212,6 +212,7 @@ h5 {
 	border: spacing(1) solid hsl(0, 0%, 100%);
 	
 	text-align: center;
+	position: relative;
 	
 	.card__text {
 		color: hsl(0, 0%, 98%);
@@ -253,13 +254,39 @@ h5 {
 .card__link-target {
 	text-decoration: underline;
 }
+@media (max-width: 531px) {
+	.card--profile {
+		display: none;
+	}
+}
+
 @media (min-width: 532px) {
 
 	.card--profile {
+		
 		float: right;
 		margin-left: spacing(4);
 		margin-bottom: spacing(4);
 	}
+
+}
+
+@media (max-width: 687px) {
+	.card--profile {
+		
+		width: 200px;
+		padding-bottom: 192px + 76px;
+		overflow: hidden;
+	}
+	.card__image {
+		position: absolute;
+		left: 0;
+	}
+	.card__text {
+		position: absolute;
+		bottom: 0;
+		width: 100%;
+}
 }
 
 // Heading
@@ -288,11 +315,11 @@ h5 {
 		font-size: 2rem;
 	}
 }
-@media (max-width: 825px) {
-	.card--profile {
-		display: none;
-	}
-}
+// @media (max-width: 825px) {
+// 	.card--profile {
+// 		display: none;
+// 	}
+// }
 
 .wrap {
 	max-width: 55rem;
