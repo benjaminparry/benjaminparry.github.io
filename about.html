@@ -1,0 +1,21 @@
+---
+permalink: /about/
+layout: default
+---
+
+<h1>About</h1>
+
+<h2 id="process">Process</h2>
+
+<p>This is my personal site where <a href="/writing/">I write</a> about my experiences working in the industry.</p>
+
+{% for post in site.posts limit:1 %}
+<a rel="syndication" href="{{ post.url }}" class="p-name u-url u-syndication card card--linked card--full card--inverted card--article">
+  <div class="reset-figcaption card__text">
+    <h1 class="reset-heading card__text__heading p-name">Read my most recent post</h1>
+    <p class="card__text__description card__link-target">{{ post.title }}</p>
+  </div>
+</a>
+{% endfor %}
+
+<p>I’m also <a href="/collecting/">collecting</a> noteworthy <a href="/collecting/links/">links</a> and general  <a href="/collecting/thoughts/">thoughts</a>.</p>
