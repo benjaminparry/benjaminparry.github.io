@@ -8,14 +8,31 @@
 		</h1>
 		{% endif %}
 		<ul class="reset-list list list--standard">
-			<li><a href="/writing/">Writing</a></li>
-			<li><a href="/working/">Working</a></li>
-			<li><a href="/making/">Making</a></li>
-			<li>
-				<a href="/collecting/">Collecting</a>:
+			<!-- <li class="list__item{% if page.url contains 'about' %} list__item--active{% endif %}">
+				<a href="/about/"><span>About</span></a>
+			</li> -->
+			<li class="list__item{% if page.url contains 'writing' %} list__item--active{% endif %}">
+				<a href="/writing/"><span>Writing</span></a>
+			</li>
+			<li class="list__item{% if page.url contains 'working' %} list__item--active{% endif %}">
+				<a href="/working/"><span>Working</span></a>
+			</li>
+			<!-- <li class="list__item{% if page.url contains 'making' %} list__item--active{% endif %}">
+			<a href="/making/">
+				<span>Making</span>
+			</a>
+			</li
+			> -->
+			<li class="list__item{% if page.url contains 'collecting' %} list__item--active{% endif %}">
+				
+				<a href="/collecting/"><span>Collecting</span></a>:
 				<ul class="reset-list list list--inline list--csv">
-					<li><a href="/collecting/thoughts">thoughts</a></li>
-					<li><a href="/collecting/links">links</a></li>
+					<li class="list__item">
+						<a href="/collecting/thoughts"><span>thoughts</span></a>
+					</li>
+					<li class="list__item">
+						<a href="/collecting/links"><span>links</span></a>
+					</li>
 				</ul>
 			</li>
 		</ul>
