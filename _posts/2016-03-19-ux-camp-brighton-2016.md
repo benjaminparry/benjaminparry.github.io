@@ -1,6 +1,6 @@
 ---
 type: post
-layout: collecting
+layout: post
 title: UX Camp Brighton 2016
 description: Notes from UX Camp Brighton 2016 sessions
 categories : [writing]

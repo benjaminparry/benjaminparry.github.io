@@ -1,6 +1,19 @@
 ---
 layout: default
 ---
+<ul class="reset-list list list--inline list--breadcrumb utility-font-size-80">
+  <li><a href="/">Home</a></li>
+  <li><a href="/collecting/">Collecting</a></li>
+	<li>
+		{% if page.category == "thoughts" %}
+		<a href="/collecting/thoughts/">Thoughts</a>
+		{% endif %}
+		{% if page.category == "links" %}
+		<a href="/collecting/links/">Links</a>
+		{% endif %}
+	</li>
+  <li><span>{{ page.title }}</span></li>
+</ul>
 
 <article class="h-entry">
 	<h1 class="p-name">{{ page.title }}</h1>

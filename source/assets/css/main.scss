@@ -129,6 +129,17 @@ h5 {
 	font-weight: bold;
 }
 
+.heading__de-emphasise {
+
+	font-weight: normal;
+	font-style: italic;
+}
+.heading__de-emphasise:before {
+
+	content: "/";
+	margin-right: spacing(2);
+}
+
 .heading--alpha {
 
 	font-size: 2rem;
@@ -194,6 +205,29 @@ h5 {
 .list--csv > li:last-child:after {
 
 	display: none;
+}
+
+.list--breadcrumb > li:after {
+
+	content: " /";
+}
+.list--breadcrumb > li:last-child:after {
+
+	display: none;
+}
+
+.list--breadcrumb {
+	
+	&,
+	a {
+		
+		color: #989898;
+	}
+	
+	a:hover {
+		
+		color: #0f448a;
+	}
 }
 
 .reset-figure {
@@ -463,6 +497,9 @@ a {
 	z-index: 2;
 }
 // Utility
+.utility-font-size-80 {
+	font-size: 80%;
+}
 .utility-font-size-120 {
 	font-size: 120%;
 }

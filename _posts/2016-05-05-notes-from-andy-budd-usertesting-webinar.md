@@ -1,6 +1,6 @@
 ---
 type: post
-layout: collecting
+layout: post
 title: Notes from Andy Budd’s UserTesting Webinar
 description: My notes from Andy Budd’s UserTesting webinar entitled Defeat the status quo - how to run the perfect digital project.
 categories : [writing]
