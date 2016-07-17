@@ -179,12 +179,17 @@ h5 {
 
 .list--standard {
 
-	padding-left: 2rem;
+	padding-left: spacing(5);
+	
+	> :last-child {
+		
+		margin-bottom: 0;
+	}
 }
 
 .list--standard > li {
 
-	margin-bottom: 0.5rem;
+	margin-bottom: spacing(2);
 }
 
 .list--inline {
@@ -492,10 +497,6 @@ a {
 	position: relative;
 	z-index: 1;
 }
-[role="navigation"] .list .list {
-	position: relative;
-	z-index: 2;
-}
 // Utility
 .utility-font-size-80 {
 	font-size: 80%;
@@ -510,4 +511,74 @@ a {
 	font-size: 200%;
 }
 
+.utility-font-weight-normal {
+	
+	font-weight: normal;
+}
+
 // http://type-scale.com/
+
+
+
+.learning {
+	
+	position: relative;
+	margin-left: -2%;
+	padding-right: 2%;
+	margin-top: spacing(5);
+	margin-bottom: spacing(5);
+	
+}
+.learning__content {
+	
+	padding: spacing(2);
+	border: 1px solid #0e448a;
+	background-color: hsl(0, 0%, 95%);
+	// width: 66.666666667%;
+	width: 75%;	
+	> :first-child {
+		
+		margin-top: 0;
+	}
+	
+	> :last-child {
+		
+		margin-bottom: 0;
+	}
+}
+
+.page-buster {
+	
+	width: 130%;
+	margin-left: -15%;
+	font-size: 0;
+	position: relative;
+	
+	img {
+		width: 33.333333333%;
+	}
+}
+
+.post-contents {
+	float: right;
+	padding: spacing(3);
+	border: 1px solid #989898;
+	background-color: hsl(0, 0%, 95%);
+	color: #989898;
+	margin-left: spacing(4);
+	margin-bottom: spacing(4);
+	
+	a,
+	strong {
+		color: inherit;
+	}
+	
+	a:hover {
+		color: #0e448a;
+	}
+	
+	> :last-child {
+		
+		margin-bottom: 0;
+	}
+}
