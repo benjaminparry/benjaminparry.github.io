@@ -48,7 +48,7 @@ body {
 	padding: 2rem 10%;
 	font-size: 16px;
 	font-family: sans-serif;
-	line-height: 1.4;
+	line-height: 1.6;
 }
 
 a {
@@ -124,6 +124,20 @@ h5 {
 	word-break: break-all;
 }
 
+h2 {
+	margin-top: spacing(9);
+	margin-bottom: spacing(6);
+}
+
+h3 {
+	margin-top: spacing(7);
+	margin-bottom: spacing(6);
+}
+
+p {
+	margin-bottom: spacing(7);
+}
+
 .heading {
 
 	font-weight: bold;
@@ -194,7 +208,7 @@ h5 {
 
 .list--inline {
 
-	display: inline;
+	display: block;
 }
 
 .list--inline > li {
@@ -516,6 +530,11 @@ a {
 	font-weight: normal;
 }
 
+.utility-push-down-6 {
+	
+	margin-bottom: spacing(6);	
+}
+
 // http://type-scale.com/
 
 
@@ -553,9 +572,21 @@ a {
 	margin-left: -15%;
 	font-size: 0;
 	position: relative;
+}
+
+.page-buster--image-thirds {
 	
-	img {
+	img,
+	video {
 		width: 33.333333333%;
+	}
+}
+
+.page-buster--image-quarters {
+	
+	img,
+	video {
+		width: 25%;
 	}
 }
 
@@ -567,6 +598,7 @@ a {
 	color: #989898;
 	margin-left: spacing(4);
 	margin-bottom: spacing(4);
+	width: 33.333333333%;
 	
 	a,
 	strong {
