@@ -105,6 +105,11 @@ img {
 	
 	border-bottom: $spacing-unit solid hsl(214, 81%, 35%);
 	margin-bottom: spacing(4);
+	
+	.landing & {
+		
+		margin-bottom: 0;
+	}
 }
 
 .reset-heading {
@@ -168,11 +173,6 @@ p {
 		border-bottom: 1px solid hsl(0, 0%, 80%);
 		padding-bottom: 30px;
 		font-size: 1.15rem;
-	}
-	
-	h1 {
-		font-size: 1.7rem;
-		
 	}
 	
 	h2 {
