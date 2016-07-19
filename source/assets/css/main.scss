@@ -43,7 +43,7 @@ body {
 	margin: 0;
 	min-height: 100%;
 	border: spacing(2) solid hsl(214, 81%, 30%);
-	color: hsl(270, 3%, 12%);
+	color: hsl(270, 3%, 23%);
 	background-color: hsl(0, 0%, 98%);
 	padding: 2rem 10%;
 	font-size: 16px;
@@ -203,7 +203,7 @@ p {
 
 .list--standard > li {
 
-	margin-bottom: spacing(2);
+	margin-bottom: spacing(1);
 }
 
 .list--inline {
@@ -335,7 +335,7 @@ p {
 		position: absolute;
 		left: 0;
 	}
-	.card__text {
+	.landing .card__text {
 		position: absolute;
 		bottom: 0;
 		width: 100%;
@@ -511,6 +511,10 @@ a {
 	position: relative;
 	z-index: 1;
 }
+
+[role="contentinfo"] {
+	margin-top: spacing(4);
+}
 // Utility
 .utility-font-size-80 {
 	font-size: 80%;
@@ -612,5 +616,28 @@ a {
 	> :last-child {
 		
 		margin-bottom: 0;
+	}
+}
+
+.challange {
+	
+	border-left: spacing(1) solid #0e448a;
+	padding-left: spacing(3);
+	margin-left: -(spacing(3));
+	color: black;
+	font-size: 110%;
+}
+
+.conclusion {
+	
+	background-color: #fff;
+	width: 110%;
+	margin-left: -5%;
+	padding: 5%;
+	border: 1px solid #989898;
+	
+	> :first-child {
+		
+		margin-top: 0;
 	}
 }
