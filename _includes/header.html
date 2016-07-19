@@ -1,12 +1,6 @@
 <header role="banner" class="site-banner">
 	<nav role="navigation">
-		{% if page.url == "/index.html" %}
-		<h1 class="reset-heading">
-		{% endif %}
 		<a class="heading heading--alpha" href="/">Benjamin Parry</a>
-		{% if page.url == "/index.html" %}
-		</h1>
-		{% endif %}
 		<ul class="reset-list list list--standard">
 			<!-- <li class="list__item{% if page.url contains 'about' %} list__item--active{% endif %}">
 				<a href="/about/"><span>About</span></a>
@@ -25,15 +19,15 @@
 			> -->
 			<li class="list__item{% if page.url contains 'collecting' %} list__item--active{% endif %}">
 				
-				<a href="/collecting/"><span>Collecting</span></a>:
-				<ul class="reset-list list list--inline list--csv">
+				<a href="/collecting/"><span>Collecting</span></a>
+				<!-- <ul class="reset-list list list--inline list--csv">
 					<li class="list__item">
 						<a href="/collecting/thoughts"><span>thoughts</span></a>
 					</li>
 					<li class="list__item">
 						<a href="/collecting/links"><span>links</span></a>
 					</li>
-				</ul>
+				</ul> -->
 			</li>
 		</ul>
 	</nav>

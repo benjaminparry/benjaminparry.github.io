@@ -43,12 +43,12 @@ body {
 	margin: 0;
 	min-height: 100%;
 	border: spacing(2) solid hsl(214, 81%, 30%);
-	color: hsl(270, 3%, 12%);
+	color: hsl(270, 3%, 23%);
 	background-color: hsl(0, 0%, 98%);
 	padding: 2rem 10%;
 	font-size: 16px;
 	font-family: sans-serif;
-	line-height: 1.4;
+	line-height: 1.6;
 }
 
 a {
@@ -105,6 +105,11 @@ img {
 	
 	border-bottom: $spacing-unit solid hsl(214, 81%, 35%);
 	margin-bottom: spacing(4);
+	
+	.landing & {
+		
+		margin-bottom: 0;
+	}
 }
 
 .reset-heading {
@@ -124,9 +129,34 @@ h5 {
 	word-break: break-all;
 }
 
+h2 {
+	margin-top: spacing(9);
+	margin-bottom: spacing(6);
+}
+
+h3 {
+	margin-top: spacing(7);
+	margin-bottom: spacing(6);
+}
+
+p {
+	margin-bottom: spacing(7);
+}
+
 .heading {
 
 	font-weight: bold;
+}
+
+.heading__de-emphasise {
+
+	font-weight: normal;
+	font-style: italic;
+}
+.heading__de-emphasise:before {
+
+	content: "/";
+	margin-right: spacing(2);
 }
 
 .heading--alpha {
@@ -143,11 +173,6 @@ h5 {
 		border-bottom: 1px solid hsl(0, 0%, 80%);
 		padding-bottom: 30px;
 		font-size: 1.15rem;
-	}
-	
-	h1 {
-		font-size: 1.7rem;
-		
 	}
 	
 	h2 {
@@ -168,17 +193,22 @@ h5 {
 
 .list--standard {
 
-	padding-left: 2rem;
+	padding-left: spacing(5);
+	
+	> :last-child {
+		
+		margin-bottom: 0;
+	}
 }
 
 .list--standard > li {
 
-	margin-bottom: 0.5rem;
+	margin-bottom: spacing(1);
 }
 
 .list--inline {
 
-	display: inline;
+	display: block;
 }
 
 .list--inline > li {
@@ -194,6 +224,29 @@ h5 {
 .list--csv > li:last-child:after {
 
 	display: none;
+}
+
+.list--breadcrumb > li:after {
+
+	content: " /";
+}
+.list--breadcrumb > li:last-child:after {
+
+	display: none;
+}
+
+.list--breadcrumb {
+	
+	&,
+	a {
+		
+		color: #989898;
+	}
+	
+	a:hover {
+		
+		color: #0f448a;
+	}
 }
 
 .reset-figure {
@@ -212,6 +265,7 @@ h5 {
 	border: spacing(1) solid hsl(0, 0%, 100%);
 	
 	text-align: center;
+	position: relative;
 	
 	.card__text {
 		color: hsl(0, 0%, 98%);
@@ -253,13 +307,39 @@ h5 {
 .card__link-target {
 	text-decoration: underline;
 }
+@media (max-width: 531px) {
+	.card--profile {
+		display: none;
+	}
+}
+
 @media (min-width: 532px) {
 
 	.card--profile {
+		
 		float: right;
 		margin-left: spacing(4);
 		margin-bottom: spacing(4);
 	}
+
+}
+
+@media (max-width: 687px) {
+	.card--profile {
+		
+		width: 200px;
+		padding-bottom: 192px + 76px;
+		overflow: hidden;
+	}
+	.card__image {
+		position: absolute;
+		left: 0;
+	}
+	.landing .card__text {
+		position: absolute;
+		bottom: 0;
+		width: 100%;
+}
 }
 
 // Heading
@@ -288,11 +368,11 @@ h5 {
 		font-size: 2rem;
 	}
 }
-@media (max-width: 825px) {
-	.card--profile {
-		display: none;
-	}
-}
+// @media (max-width: 825px) {
+// 	.card--profile {
+// 		display: none;
+// 	}
+// }
 
 .wrap {
 	max-width: 55rem;
@@ -431,11 +511,14 @@ a {
 	position: relative;
 	z-index: 1;
 }
-[role="navigation"] .list .list {
-	position: relative;
-	z-index: 2;
+
+[role="contentinfo"] {
+	margin-top: spacing(4);
 }
 // Utility
+.utility-font-size-80 {
+	font-size: 80%;
+}
 .utility-font-size-120 {
 	font-size: 120%;
 }
@@ -446,4 +529,115 @@ a {
 	font-size: 200%;
 }
 
+.utility-font-weight-normal {
+	
+	font-weight: normal;
+}
+
+.utility-push-down-6 {
+	
+	margin-bottom: spacing(6);	
+}
+
 // http://type-scale.com/
+
+
+
+.learning {
+	
+	position: relative;
+	margin-left: -2%;
+	padding-right: 2%;
+	margin-top: spacing(5);
+	margin-bottom: spacing(5);
+	
+}
+.learning__content {
+	
+	padding: spacing(2);
+	border: 1px solid #0e448a;
+	background-color: hsl(0, 0%, 95%);
+	// width: 66.666666667%;
+	width: 75%;	
+	> :first-child {
+		
+		margin-top: 0;
+	}
+	
+	> :last-child {
+		
+		margin-bottom: 0;
+	}
+}
+
+.page-buster {
+	
+	width: 130%;
+	margin-left: -15%;
+	font-size: 0;
+	position: relative;
+}
+
+.page-buster--image-thirds {
+	
+	img,
+	video {
+		width: 33.333333333%;
+	}
+}
+
+.page-buster--image-quarters {
+	
+	img,
+	video {
+		width: 25%;
+	}
+}
+
+.post-contents {
+	float: right;
+	padding: spacing(3);
+	border: 1px solid #989898;
+	background-color: hsl(0, 0%, 95%);
+	color: #989898;
+	margin-left: spacing(4);
+	margin-bottom: spacing(4);
+	width: 33.333333333%;
+	
+	a,
+	strong {
+		color: inherit;
+	}
+	
+	a:hover {
+		color: #0e448a;
+	}
+	
+	> :last-child {
+		
+		margin-bottom: 0;
+	}
+}
+
+.challange {
+	
+	border-left: spacing(1) solid #0e448a;
+	padding-left: spacing(3);
+	margin-left: -(spacing(3));
+	color: black;
+	font-size: 110%;
+}
+
+.conclusion {
+	
+	background-color: #fff;
+	width: 110%;
+	margin-left: -5%;
+	padding: 5%;
+	border: 1px solid #989898;
+	
+	> :first-child {
+		
+		margin-top: 0;
+	}
+}

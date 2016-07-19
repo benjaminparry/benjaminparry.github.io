@@ -2,14 +2,20 @@
 layout: default
 ---
 
+<ul class="reset-list list list--inline list--breadcrumb utility-font-size-80">
+  <li><a href="/">Home</a></li>
+  <li><a href="/writing/">Writing</a></li>
+  <li><span>{{ page.title }}</span></li>
+</ul>
+
 <article class="h-entry">
-	<h1 class="p-name heading">{{ page.title }}</h1>
+	<h1 class="p-name heading heading--alpha">{{ page.title }}</h1>
 	<p class="p-description">{{ page.description }}</p>
+	<div class="e-content">
+		{{ content }}
+	</div>
 	<footer>
 		<p>Published: <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y" }}</time></p>
 		<a rel="syndication" href="{{ page.url }}" class="u-url u-syndication">permalink</a>
 	</footer>
-	<div class="e-content">
-		{{ content }}
-	</div>
 </article>

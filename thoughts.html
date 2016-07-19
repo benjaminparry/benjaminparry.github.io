@@ -3,7 +3,14 @@ permalink: /collecting/thoughts/
 layout: default
 ---
 
-<h1>Collecting: thoughts</h1>
+<ul class="reset-list list list--inline list--breadcrumb utility-font-size-80">
+  <li><a href="/">Home</a></li>
+  <li><a href="/collecting/">Collecting</a></li>
+  <li><a href="/collecting/thoughts/">Thoughts</a></li>
+  <li><span>{{ item.title }}</span></li>
+</ul>
+
+<h1 class="heading heading--alpha">Collecting: thoughts</h1>
 
 <ul>
 	{% for item in site.collecting reversed | sort: 'date' %}

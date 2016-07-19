@@ -23,7 +23,16 @@ const base_path = './',
           scss: [ src +'/css/*.scss', 
                   src +'/css/**/* .scss', 
                   src +'/css/**/**/*.scss'],
-          jekyll: ['index.html', '_posts/*', '_layouts/*', '_includes/*' , 'assets/*', 'assets/**/*', 'collecting/**/*']
+          jekyll: [
+            '*.html',
+            '_posts/*',
+            '_layouts/*',
+            '_includes/*',
+            'assets/*',
+            'assets/**/*',
+            'collecting/**/*',
+            'working/**/*'
+          ]
       };
 
 
