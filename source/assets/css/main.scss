@@ -640,4 +640,40 @@ a {
 		
 		margin-top: 0;
 	}
+	
+	> :last-child {
+		
+		margin-bottom: 0;
+	}
+}
+
+
+.image-pointers {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  color: #fff;
+  background-color: #1150a2;
+  padding: 4px 4px 2px 4px;
+  font-size: 14px;
+  font-weight: normal;
+  border: 1px solid #0e4286;
+}
+.image-pointers:before {
+  content: "";
+  display: block;
+  height: 8px;
+  width: 2px;
+  background-color: #0e4286;
+  position: absolute;
+  left: 50%;
+  margin-left: -2px;
+  z-index: 2;
+}
+.image-pointers--bottom:before {
+  bottom: -8px;
+}
+.image-pointers--top:before {
+  top: -8px;
 }
