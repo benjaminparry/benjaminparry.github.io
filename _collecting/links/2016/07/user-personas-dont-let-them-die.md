@@ -1,6 +1,6 @@
 ---
 category: links
-title: User personas: don’t let them die…
+title: User personas - don’t let them die…
 date: 2016-07-27
 link: http://www.mindtheproduct.com/2016/07/user-personas-dont-let-them-die/
 ---
