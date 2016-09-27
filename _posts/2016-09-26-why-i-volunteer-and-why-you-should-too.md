@@ -83,7 +83,7 @@ One of the reasons for volunteering will no-doubt be for the content of the conf
 
 * The amazing welcome party at the Royal Observatory for UX London 2013
 * Meeting and helping Adam Buxton prep for his closing talk at dConstruct 2013
-* Rising to the challenge of stage manager for the last ever dConstruct in 2013
+* Rising to the challenge of stage manager for the last ever dConstruct in 2015
 * Glen Keane’s drawing of Tarzan for my son
 
 ## How do I get started?
