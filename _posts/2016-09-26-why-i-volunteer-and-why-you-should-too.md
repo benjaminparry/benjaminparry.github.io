@@ -5,7 +5,7 @@ layout: post
 title: Why I Volunteer And Why You Should Too
 categories : [writing]
 description: A retrospective piece on what I’ve gained from 3 years of volunteering for web/digital conferences.
-published: false
+published: true
 
 ---
 
@@ -41,7 +41,7 @@ An average conference day goes something like this.
 * 18.00 - Lanyard checking at party venue
 * 19.00 - Doing your bit to empty the bar
 
-There’s also additional opportunities to help prior to the event e.g. labeling lanyards, setting up the venue, packing the goodie bags. These are usually optional but earn you extra brownie points if you can help.
+There’s also additional opportunities to help prior to the event e.g. labelling lanyards, setting up the venue, packing the goodie bags. These are usually optional but earn you extra brownie points if you can help.
 
 ## Is volunteering for me?
 
@@ -50,7 +50,7 @@ Volunteering isn’t for everyone. Here’s a brief guide to help you make a dec
 ### Volunteer if:
 
 0. **You like getting stuck in and working hard** - it can be physically and mentally draining but a bucket load of fun and rewarding if you can hack it _(read on for my highlights)_
-0. **You’re organised, pro-active and enthusiastic** - there’s months and months of planning to put into action on the day, be there or be square!
+0. **You’re organised, pro-active and enthusiastic** - there are months and months of planning to put into action on the day, be there or be square!
 0. **Work hard and party hard _(partying is optional)_** - pre-parties, welcome parties, finale parties… _did I mention there were parties?_
 
 ### Don’t volunteer if\*:
@@ -59,20 +59,33 @@ Volunteering isn’t for everyone. Here’s a brief guide to help you make a dec
 0. **You need just 5 more minutes in bed** - don’t expect a lay in or an invitation back if you’re constantly late
 0. **You just want a free ticket** - you’ll end up making more enemies than friends if you can’t pull your weight
 
-This might sound like part of a job description but that’s exactly what it is, a job. Event organisers rely on volunteers to put all of their months of organisation and planning into action on the day. Approach the challange like you would any other job, with profeciaonalism, enthusiasm and a drive for success.
+This might sound like part of a job description but that’s exactly what it is, a job. Event organisers rely on volunteers to put all of their months of organisation and planning into action on the day. Approach the challenge like you would any other job, with professionalism, enthusiasm and a drive for success.
 
 \* _If any of these are deal-breakers, it’s probably safe to assume it’s not for you._
 
-## So what are the highlights?
+## So what are these highlights?
 
-### Forming new friendships and extending your peer and profesional network
+### Forming new friendships and extending your peer and professional network
 
 One of the biggest gains I’ve got from volunteering is an ever-growing network of friends.
 
-When I volunteered for UX London in 2013 I was fairly new to UX was only starting to gain real understanding of what it was. Meeting the 20 or so other volunteers, each with a different background and career progression, was hugely insightful and encouraging.
+When I volunteered for UX London in 2013 I was fairly new to UX was only starting to gain a real understanding of what it was. Meeting the 20 or so other volunteers, each with a different background and career progression, was hugely insightful and encouraging.
 
-A large proportion of the volunteers returned and over the next three years these bonds have strengthened and have developed into real friendships. A large part of the conference excitement, year-on-year, is having that opportunity to see your friends again.
+A large proportion of the volunteers returned, and over the next three years these bonds have strengthened and have developed into friendships. A large part of the conference excitement, year-on-year, is having that opportunity to see your friends again.
 
 Volunteering also gives you the opportunity to speak with industry leaders and other professionals attending the course, work alongside them in workshops and share a pint or two at the after party bar.
 
-### 
+### Attendance to talks and workshops of your choice
+
+One of the reasons for volunteering will no-doubt be for the content of the conference. My experience has always been that a great deal of effort goes into scheduling a rota that fits the volunteer's top picks for talks and workshops. Of course, there are times where you don’t get what you chose or that you’re asked to help with an unforeseen event when you should be doing something else, *such is life, no?*
+
+### Other highlights
+
+* The amazing welcome party at the Royal Observatory for UX London 2013
+* Meeting and helping Adam Buxton prep for his closing talk at dConstruct 2013
+* Rising to the challenge of stage manager for the last ever dConstruct in 2013
+* Glen Keane’s drawing of Tarzan for my son
+
+## How do I get started?
+
+Send an email, send a Tweet. Event organisers are always looking for reliable and enthusiastic volunteers so it’s worth starting the conversation now if it’s something you’re interested in doing.
