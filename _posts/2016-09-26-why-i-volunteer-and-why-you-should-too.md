@@ -45,17 +45,17 @@ There’s also additional opportunities to help prior to the event e.g. labellin
 
 ## Is volunteering for me?
 
-Volunteering isn’t for everyone. Here’s a brief guide to help you make a decision.
+Volunteering isn’t for everyone though. Here’s a brief guide to help you decide if it’s right for you.
 
 ### Volunteer if:
 
-0. **You like getting stuck in and working hard** - it can be physically and mentally draining but a bucket load of fun and rewarding if you can hack it _(read on for my highlights)_
+0. **You like getting stuck in and working hard** - it can be physically and mentally draining but a bucket load of fun and rewarding _(read on for my highlights)_
 0. **You’re organised, pro-active and enthusiastic** - there are months and months of planning to put into action on the day, be there or be square!
 0. **Work hard and party hard _(partying is optional)_** - pre-parties, welcome parties, finale parties… _did I mention there were parties?_
 
 ### Don’t volunteer if\*:
 
-0. **You’ve got to work on XYZ for work during the conference** - there are quiet moments but they rarely very last long and your wireframes won’t take priority
+0. **You’ve got to work on XYZ for work during the conference** - there are quiet moments but they rarely last very long and your wireframes won’t take priority
 0. **You need just 5 more minutes in bed** - don’t expect a lay in or an invitation back if you’re constantly late
 0. **You just want a free ticket** - you’ll end up making more enemies than friends if you can’t pull your weight
 
@@ -67,11 +67,11 @@ This might sound like part of a job description but that’s exactly what it is,
 
 ### Forming new friendships and extending your peer and professional network
 
-One of the biggest gains I’ve got from volunteering is an ever-growing network of friends.
+One of the biggest gains from volunteering is an ever-growing network of friends.
 
 When I volunteered for UX London in 2013 I was fairly new to UX was only starting to gain a real understanding of what it was. Meeting the 20 or so other volunteers, each with a different background and career progression, was hugely insightful and encouraging.
 
-A large proportion of the volunteers returned, and over the next three years these bonds have strengthened and have developed into friendships. A large part of the conference excitement, year-on-year, is having that opportunity to see your friends again.
+A large proportion of the volunteers returned for subsequent conferences, and over the next three years these bonds have strengthened and have developed into friendships. A large part of the conference excitement, year-on-year, is having the opportunity to see your friends again.
 
 Volunteering also gives you the opportunity to speak with industry leaders and other professionals attending the course, work alongside them in workshops and share a pint or two at the after party bar.
 
