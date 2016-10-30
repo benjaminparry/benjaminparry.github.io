@@ -471,43 +471,41 @@ a {
 }
 
 [role="navigation"] .list--standard {
-	padding-left: 5px;
+	padding-left: 0;
 }
 
 [role="navigation"] > a {
 	text-decoration: none;
+	padding: 1px 5px 4px 5px;
+	
+	&.active {
+		background-color: hsl(214, 81%, 35%);
+		color: #fff;
+	}
 }
-
 [role="navigation"] .list--standard > li {
 	font-weight: bold;
 	display: inline;
-	margin-right: spacing(6);
+	margin-right: spacing(5);
 }
 [role="navigation"] .list--standard .list {
 	font-weight: normal;
 }
 
+[role="navigation"] .list__item > a {
+	padding: 3px 5px 2px 5px;
+}
+
 [role="navigation"] .list__item--active > a {
 	
+	color: #fff;
 	position: relative;
 	text-decoration: none;
-	
-	&:before {
-		content: "";
-		display: block;
-		background-color: hsl(214, 81%, 35%);
-		position: absolute;
-		top: -3px;
-    right: -5px;
-    bottom: -2px;
-    left: -5px;
-		z-index: 0;
-	}
+	background-color: hsl(214, 81%, 35%);
 }
 
 [role="navigation"] .list__item--active > a span {
 	
-	color: #fff;
 	position: relative;
 	z-index: 1;
 }

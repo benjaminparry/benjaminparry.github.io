@@ -1,6 +1,6 @@
 <header role="banner" class="site-banner">
 	<nav role="navigation">
-		<a class="heading heading--alpha" href="/">Benjamin Parry</a>
+		<a class="heading heading--alpha{% if page.url == '/' %} active{% endif %}" href="/">Benjamin Parry</a>
 		<ul class="reset-list list list--standard">
 			<!-- <li class="list__item{% if page.url contains 'about' %} list__item--active{% endif %}">
 				<a href="/about/"><span>About</span></a>
@@ -19,7 +19,7 @@
 			> -->
 			<li class="list__item{% if page.url contains 'collecting' %} list__item--active{% endif %}">
 				
-				<a href="/collecting/"><span>Collecting</span></a>
+				<a href="/collecting/">Collecting</a>
 				<!-- <ul class="reset-list list list--inline list--csv">
 					<li class="list__item">
 						<a href="/collecting/thoughts"><span>thoughts</span></a>
