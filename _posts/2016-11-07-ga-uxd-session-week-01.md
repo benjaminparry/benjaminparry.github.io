@@ -43,9 +43,9 @@ published: true
 
 ### Objective
 
-* Define the elements of UX
-* Explore the techniques of problem solving, innovation, user centered design and design thinking
-* Sketch out potential design solutions to real world problems
+0. Define the elements of UX
+0. Explore the techniques of problem solving, innovation, user centered design and design thinking
+0. Sketch out potential design solutions to real world problems
 
 ### What is user experience?
 
@@ -71,12 +71,12 @@ published: true
 
 ### Examples of good and bad user experience
 
-* Underground signage in Japan clearly visible and native language nonspecific - good
-* Underground signage in London hidden and confusing - bad
-* City Mapper enabling non-native speaking users to navigate cities - good
-* Doors with handles both sides but only swing one way - bad
-* Google Photos lowering user effort, automating gallery creation and making it easier to share photos - good
-* Google Photos showing anniversary photos that evoke sad memories - bad
+* Underground signage in Japan clearly visible and native language nonspecific - **good**
+* Underground signage in London hidden and confusing - **bad**
+* City Mapper enabling non-native speaking users to navigate cities - **good**
+* Doors with handles both sides but only swing one way - **bad**
+* Google Photos lowering user effort, automating gallery creation and making it easier to share photos - **good**
+* Google Photos showing anniversary photos that evoke sad memories - **bad**
 
 ### Good UX case study
 
