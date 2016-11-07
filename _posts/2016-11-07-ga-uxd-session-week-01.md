@@ -29,9 +29,9 @@ published: true
 
 * Prototyping tools - Sketch and Marvel or Invision
 * All homework will be set and submitted through Basecamp
-* Class communication is via a Slack channel 
+* Class communication is via a Slack channel
 
-### Advice for getting the most out of the Course
+### Advice for getting the most out of the Course
 
 * Get the homework in on time
 * Push through the emotional cycle of change
@@ -39,7 +39,7 @@ published: true
 * Concentrate on homework over pre-work
 * Make your final project your passion
 
-## Session 01 - Intro to UX and Design Thinking
+## Intro to UX and Design Thinking
 
 ### Objective
 
@@ -63,11 +63,11 @@ published: true
 
 > Experience design is the design of anything independent of medium, or across media, with human experience as an explicit outcome and human engagement as an explicit goal.
 >
-> Jesse James Garret
+> **[Jesse James Garret](https://twitter.com/jjg){:target="_blank"}**
 
 > User experience encompasses all aspects of the end-user’s interaction with the company, its services, and its products.
 >
-> Donald Norman
+> **[Donald Norman](https://twitter.com/jnd1er){:target="_blank"}**
 
 ### Examples of good and bad user experience
 
@@ -117,12 +117,12 @@ published: true
   * silence = thinking - don’t interrupt it
 * Ask about a typical day
 * Be aware that moods fluctuate during the day
-* Discussion guide - https://www.gov.uk/service-manual/user-centred-design/user-research/discussion-guides.html
+* [Discussion guide](https://www.gov.uk/service-manual/user-centred-design/user-research/discussion-guides.html){:target="_blank"} 
 * Notetaking is a good idea, additionally the audio can be recorded for convenient playback
 * Quotes are good - affinity mapping
 * outline key takeaways
   
-## Session 01 - Workshop
+## Workshop
 
 ### Redesigning the laundry
 
@@ -130,9 +130,9 @@ To introduce the class to design thinking, the rest of the session was dedicated
 
 The class then regrouped to compared our learnings in an open discussion.
 
-## Session 01 - Homework
+## Homework
 
-Familiarize the process of running a Design Sprint http://www.gv.com/sprint/
+Familiarize the process of running a [Design Sprint](http://www.gv.com/sprint/){:target="_blank"}
 
 ---
 
@@ -144,7 +144,7 @@ Familiarize the process of running a Design Sprint http://www.gv.com/sprint/
 * Create a rapidly produced paper prototyped solution
 * Present the solution to the class in a 90sec elevator pitch and take any questions
 
-## Session 02 - Workshop
+## Workshop
 
 The class paired up to complete the session’s task of analysing and acting on our research and produce a solution to an identified problem.
 
@@ -166,7 +166,7 @@ Edward and I compared our research and discussed:
 
 We then defined the problem they were facing:
 
-> ____users____ need a way to ______user need______ because _____insight_____
+> **Young professionals in urban environments** need a way to **reduce the time spent on medial task such as keeping up with laundry** because **they lead busy lives**
 
 We put aside any solutions at this stage so as to not cloud our understanding of our the problems our user’s were facing.
 
@@ -184,8 +184,6 @@ With the clock ticking we got to work.
 
 With the first half of our first double diamond full, we compared and explained our solutions to our partners. Interestingly, Edward and I had both come to fairly similar execution of our problem; the details were different but our designs were similar in essence.
 
-[pic]
-
 With 10mins on the clock, Edward and I then reviewed all of the solutions to find one that would address the defined problem. What we both identified here was that we had biases toward certain solutions and that we needed to continuously keep ourselves and each other in-check and focused on our users and the defined problem.
 
 ### Expansion 
@@ -194,7 +192,7 @@ We were then given 20mins to explore this solution with sketches and diagrams to
 
 Drawing form the research of the Design Sprint technique we mapped out the solution from the user’s perspective. Rather than get too caught-up in screen details or technology requirements, instead we explored the various touchpoints and tried to unpack potential risks or blockers and designed to our solutions around them.
 
-We also found ourselves riffing on other solutions and finding opportunities to address other weighty painpoints and needs from our research. These presented themselves as potential internal triggers that aligned with our user’s values.
+We also found ourselves riffing on other solutions and finding opportunities to address other weighty painpoints and needs from our research. These presented themselves as potential internal triggers that aligned with our user’s values. We also began to define the business’s ethical values and principals as this was one of the key takeaways from the interview stage and would help to guide us at each decision point.
 
 ### Stakeholder bombshell
 
@@ -219,9 +217,11 @@ Presenting to the class was a little nerve-racking, I don’t find public speaki
 
 The class re-grouped again to share our leanings from today’s session.
 
-* See paper
+* Eliminating personal preference
+* The differing motivations of users
+* Avoiding rushing in with solutions
 
-## Session 02 - Final Project Topics
+## Final Project Topics
 
 With the techniques of problem solving introduced we were asked to explore themes for our course final project.
 
@@ -232,7 +232,7 @@ With the techniques of problem solving introduced we were asked to explore theme
 * Use design thinking to navigate you through potential routes
 * Choose a field that is important to you
 
-## Session 02 - Homework
+## Homework
 
 Create at least two topics for the final project.
 
