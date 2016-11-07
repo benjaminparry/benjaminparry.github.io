@@ -7,7 +7,7 @@ categories : [writing]
 published: true
 ---
 
-## Course introduction
+## Session 01 - Introduction
 
 ### Course approach and technique
 
@@ -39,7 +39,7 @@ published: true
 * Concentrate on homework over pre-work
 * Make your final project your passion
 
-## Session 01 keynote
+## Session 01 - Intro to UX and Design Thinking
 
 ### Objective
 
@@ -122,8 +122,130 @@ published: true
 * Quotes are good - affinity mapping
 * outline key takeaways
   
-## Session 01 workshop
+## Session 01 - Workshop
 
 ### Redesigning the laundry
 
-To introduce the class to design thinking, the rest of the session was dedicated to researching our experiences with clothes washing/laundry. The class split into pairs and spending roughly 10 mins interviewed each other to extrapolate potential problems to try and solve.
+To introduce the class to design thinking, the rest of the session was dedicated to researching our experiences of washing clothes. The class split into pairs and interviewed each other to extrapolate potential problems to try and solve. After 10 minutes the first set of interviews were completed the class rotated to complete another round of interviews.
+
+The class then regrouped to compared our learnings in an open discussion.
+
+## Session 01 - Homework
+
+Familiarize the process of running a Design Sprint http://www.gv.com/sprint/
+
+---
+
+## Session 02 - Prototypes and Critique
+
+### Objective
+
+* Adapt to changing stakeholder requirements
+* Create a rapidly produced paper prototyped solution
+* Present the solution to the class in a 90sec elevator pitch and take any questions
+
+## Session 02 - Workshop
+
+The class paired up to complete the session’s task of analysing and acting on our research and produce a solution to an identified problem.
+
+### Group reflection
+
+As a group we discussed:
+
+* The single resounding need of our interviewees
+* How our personal thoughts differed from what we heard
+* Our assumptions of what we might hear during the interviews and how they compared
+* Whether an interviewee said something they did but actually, in truth, didn’t do
+
+### Identifying the problem
+
+Edward and I compared our research and discussed:
+
+* What our interviewees were trying to achieve
+* What their motivations were
+
+We then defined the problem they were facing:
+
+> ____users____ need a way to ______user need______ because _____insight_____
+
+We put aside any solutions at this stage so as to not cloud our understanding of our the problems our user’s were facing.
+
+### Ideation
+
+With our problem defined, Edward and I each sketched out 6 possible solutions to address the main problem we had identified. In the true spirit of design thinking we explored all possibilities regardless of current technology, logistics or resources.
+
+We divided a sheet of A4 into 6 and sketched a solution in each of the squares in the 5 mins we were allocated. Having recently read about Crazy Eights as part of our Design Sprint reading homework I was keen to give it a try. _I have used similar sketching techniques with cross-team workshops before, this one however seemed a lot less intimidating to team members not comfortable with sketching amongst peers._
+
+By not inferring any solutions in our problem definition, this left us free to full explore different avenues of solution discovery. Had we not done this we would have found ourselves painted into a particular solution corner.
+
+With the clock ticking we got to work.
+
+### Narrow down
+
+With the first half of our first double diamond full, we compared and explained our solutions to our partners. Interestingly, Edward and I had both come to fairly similar execution of our problem; the details were different but our designs were similar in essence.
+
+[pic]
+
+With 10mins on the clock, Edward and I then reviewed all of the solutions to find one that would address the defined problem. What we both identified here was that we had biases toward certain solutions and that we needed to continuously keep ourselves and each other in-check and focused on our users and the defined problem.
+
+### Expansion 
+
+We were then given 20mins to explore this solution with sketches and diagrams to explain it’s usage through the journey and any important key details.
+
+Drawing form the research of the Design Sprint technique we mapped out the solution from the user’s perspective. Rather than get too caught-up in screen details or technology requirements, instead we explored the various touchpoints and tried to unpack potential risks or blockers and designed to our solutions around them.
+
+We also found ourselves riffing on other solutions and finding opportunities to address other weighty painpoints and needs from our research. These presented themselves as potential internal triggers that aligned with our user’s values.
+
+### Stakeholder bombshell
+
+Halfway through this exercise our instructor Amit dropped the stakeholder requirement change. The constraint was budgetary and implications meant that the application development resources were limited and any app that had been designed were limited to 4 screens.
+
+Designing around this constraint a challenge but we also offered up an opportunity to rely on simpler technologies and more accessible user interfaces e.g. SMS, push notifications etc.
+
+### Lightning pitch
+
+Our pitches had to explain:
+
+* The problem main we identified
+* Our solution
+* The user’s journey through the solution
+* How we designed around the constraint
+
+The class’s solutions were really varied but there was a lot of crossover. A few of the pairs had picked the same problem and come up with roughly the same core solution but the details, technologies and interfaces differed massively.
+
+Presenting to the class was a little nerve-racking, I don’t find public speaking particularly natural and is definitely something I’m looking forward to feeling more comfortable with. However I was surprised and pleased with what Edward and I had come up with.
+
+### Workshop reflection
+
+The class re-grouped again to share our leanings from today’s session.
+
+* See paper
+
+## Session 02 - Final Project Topics
+
+With the techniques of problem solving introduced we were asked to explore themes for our course final project.
+
+### Guidance for a choosing a topic
+
+* Explore a problem without a preconceived idea of the solution or technology
+* Identify the target audience and design the solution for them
+* Use design thinking to navigate you through potential routes
+* Choose a field that is important to you
+
+## Session 02 - Homework
+
+Create at least two topics for the final project.
+
+---
+
+## Week 01 links
+
+* [Nielsen Norman Group](https://www.nngroup.com/){:target="_blank"}
+* [Design Of Everyday Things](http://amzn.to/2cFB0eP){:target="_blank"}
+* [Google Venture’s Design Sprint](http://www.gv.com/sprint/){:target="_blank"}
+* [Clinical User Experience Association meetup](https://www.eventbrite.co.uk/e/can-better-ux-improve-the-nhs-tickets-28746447398){:target="_blank"}
+* [How User Experience Inspires Remarkable Customer Experiences](http://www.business2community.com/customer-experience/user-experience-inspires-remarkable-customer-experiences-01678514#64T6DRL7eD7RrLwq.97){:target="_blank"}
+* [Introducing The New Uber App For Riders](https://ride.uber.com/en_US/){:target="_blank"}
+* [Reactions: Not everything in life is Likable – Facebook Design](https://medium.com/facebook-design/reactions-not-everything-in-life-is-likable-5c403de72a3f#.d36j9ngxp){:target="_blank"}
+* [How I Built This podcast](http://www.npr.org/podcasts/510313/how-i-built-this){:target="_blank"}
+* [Interviewing Users](https://www.nngroup.com/articles/interviewing-users/){:target="_blank"}
