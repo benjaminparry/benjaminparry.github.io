@@ -18,18 +18,21 @@ layout: default
 			<h1 class="p-description">
 				<a class="u-url u-syndication" href="{{ item.url }}" rel="syndication">{{ item.title }}</a>
 			</h1>
-			<div class="p-name e-content">
-				{% if item.category == "links" %}
-				{{ item.content }}
-				{% endif %}
-				{% if item.category == "thoughts" %}
+			<p class="p-name e-content">
 				{{ item.posse }}
-				{% endif %}
-			</div>
+        {% if item.notes %}
+        <a class="u-url u-syndication" href="{{ item.url }}" rel="syndication">Read my notes</a>
+        {% endif %}
+			</p>
 			<footer>
-				<p class="meta">
-					Posted: <time class="dt-published" datetime="{{ item.date | date: "%d %B %Y" }}">{{ item.date | date: "%d %B %Y" }}</time> | Filed under: <a href="/collecting/{{ item.category }}/">{{ item.category }}</a>
-				</p>
+				<ul class="meta">
+          <li>
+            Filed under: <a href="/collecting/{{ item.category }}/">{{ item.category }}</a>
+          </li>
+          <li>
+            Collected: <time class="dt-published" datetime="{{ item.date | date: "%d %B %Y" }}">{{ item.date | date: "%d %B %Y" }}</time>
+          </li>
+				</ul>
 			</footer>
 		</article>
 	</li>

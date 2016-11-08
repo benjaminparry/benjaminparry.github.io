@@ -19,13 +19,23 @@ layout: default
 			<h1 class="p-description">
 				<a class="u-url u-syndication" href="{{ item.url }}" rel="syndication">{{ item.title }}</a>
 			</h1>
-			<div class="p-name e-content">
-				{{ item.content }}
-			</div>
+			<p class="p-name e-content">
+				{{ item.posse }}        
+        {% if item.notes %}
+        <a class="u-url u-syndication" href="{{ item.url }}" rel="syndication">Read my notes</a>
+        {% endif %}
+			</p>
 			<footer>
-				<p class="meta">
-					Posted: <time class="dt-published" datetime="{{ item.date | date: "%d %B %Y" }}">{{ item.date | date: "%d %B %Y" }}</time>
-				</p>
+				<ul class="meta">
+          {% if item.author %}
+          <li>
+            Article author: {{ item.author }}
+          </li>
+          {% endif %}
+          <li>
+            Collected: <time class="dt-published" datetime="{{ item.date | date: "%d %B %Y" }}">{{ item.date | date: "%d %B %Y" }}</time>
+          </li>
+				</ul>
 			</footer>
 		</article>
 	</li>
