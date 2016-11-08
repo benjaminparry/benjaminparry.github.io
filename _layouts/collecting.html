@@ -17,18 +17,23 @@ layout: default
 
 <article class="h-entry">
 	<h1 class="p-name heading heading--alpha">{{ page.title }}</h1>
-	<p class="p-description">{{ page.description }}</p>
+	<p class="p-description">{{ page.posse }}</p>
+  {% if page.category == "links" %}
+  <a class="u-url" href="{{ page.link }}" target="_blank">{{ page.link }}</a>
+  {% endif %}
 	<div class="e-content">
 		{% if page.category == "thoughts" %}
 		{{ page.posse }}
 		{% endif %}
+    {% if page.category == "links" %}
+    {% if page.notes %}
+    <h2>My notes</h2>
+    {% endif %}
+    {% endif %}
 		{{ content }}
-		{% if page.category == "links" %}
-		<a class="u-url" href="{{ page.link }}" target="_blank">{{ page.link }}</a>
-		{% endif %}
 	</div>
-	<footer>
-		<p>Published: <time class="dt-published" datetime="{{ page.date | date: "%d %B %Y" }}">{{ page.date | date: "%d %B %Y" }}</time></p>
-		<a rel="syndication" href="{{ page.url }}" class="u-url u-syndication">permalink</a>
-	</footer>
+  <footer>
+    <p>Published: <time class="dt-published" datetime="{{ page.date | date: "%d %B %Y" }}">{{ page.date | date: "%d %B %Y" }}</time></p>
+    <a rel="syndication" href="{{ page.url }}" class="u-url u-syndication">permalink</a>
+  </footer>
 </article>
