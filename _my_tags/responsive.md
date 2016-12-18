@@ -1,0 +1,4 @@
+---
+slug: responsive
+name: Responsive
+---

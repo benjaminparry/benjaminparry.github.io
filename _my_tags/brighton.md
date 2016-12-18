@@ -1,0 +1,4 @@
+---
+slug: brighton
+name: Brighton
+---
