@@ -5,6 +5,7 @@ title: Testing WebMentions
 description: Testing webmentions for Jeremy.
 categories : [writing]
 published: true
+tags: [indieweb, unconference]
 ---
 
 ## Ahoy Hoy!

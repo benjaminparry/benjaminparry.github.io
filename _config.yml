@@ -32,7 +32,9 @@ collections:
   making:
     output: true
     permalink: /:collection/:path/
-    
+  my_tags:
+    output: true
+    permalink: /tagging/:name/
     
 defaults:
   - scope:
@@ -40,6 +42,11 @@ defaults:
       type: collecting
     values:
       layout: collecting
+  - scope:
+      path: ""
+      type: my_tags
+    values:
+      layout: all_tags
 
 gems:
   - jekyll-sitemap

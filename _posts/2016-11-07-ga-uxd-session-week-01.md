@@ -5,6 +5,7 @@ title: General Assembly - User Experience Design - Week 01
 description: A round up of my first week on the User Experience Design course at General Assembly, London.
 categories : [writing]
 published: true
+tags: [user-experience, career-progression]
 ---
 
 ## Session 01 - Introduction

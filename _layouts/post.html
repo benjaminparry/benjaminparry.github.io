@@ -2,6 +2,23 @@
 layout: default
 ---
 
+{% assign post = page %}
+
+{% if post.tags.size > 0 %}
+  {% capture tags_content %}
+  Tagged with: 
+  <!-- <span class="icon-price-tag{% if post.tags.size > 1 %}s{% endif %}"></span> -->
+  {% endcapture %}
+  {% for post_tag in post.tags %}
+    {% assign tag = site.my_tags | where: "slug", post_tag %}
+    {% if tag %}
+      {% assign tag = tag[0] %}
+      {% capture tags_content_temp %}{{ tags_content }}<a href="{{ tag.url }}">{{ tag.name }}</a>{% if forloop.last == false %}, {% endif %}{% endcapture %}
+      {% assign tags_content = tags_content_temp %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
 <ul class="reset-list list list--inline list--breadcrumb utility-font-size-80">
   <li><a href="/">Home</a></li>
   <li><a href="/writing/">Writing</a></li>
@@ -15,7 +32,16 @@ layout: default
 		{{ content }}
 	</div>
 	<footer>
-		<p>Published: <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y" }}</time></p>
-		<a rel="syndication" href="{{ page.url }}" class="u-url u-syndication">permalink</a>
+    <ul>
+      <li>
+        <p>Published: <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y" }}</time></p>
+      </li>
+      <li>
+        <p>{{ tags_content }}</p>
+      </li>
+      <li>
+        <p><a rel="syndication" href="{{ page.url }}" class="u-url u-syndication">permalink</a></p>
+      </li>
+    </ul>
 	</footer>
 </article>
