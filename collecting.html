@@ -11,7 +11,7 @@ layout: default
 
 <h1 class="heading heading--alpha">Collecting:</h1>
 
-<ul>
+<ul class="reset-list list--divided">
 	{% for item in site.collecting reversed | sort: 'date' %}
 	<li>
 		<article class="h-entry">
@@ -24,7 +24,7 @@ layout: default
         <a class="u-url u-syndication" href="{{ item.url }}" rel="syndication">Read my notes</a>
         {% endif %}
 			</p>
-			<footer>
+			<footer class="utility-font-size-80">
 				<ul class="meta">
           <li>
             Filed under: <a href="/collecting/{{ item.category }}/">{{ item.category }}</a>

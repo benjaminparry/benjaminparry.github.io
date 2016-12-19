@@ -4,6 +4,7 @@ layout: post
 title: Small Team Lean UX Advice From The userexperiencedesign.slack.com Community
 description: Preserving some sound advice from the userexperiencedesign.slack.com community on small team Lean UX in a mature company with little/no previous user research.
 categories : [writing]
+tags: [lean-ux, user-experience]
 published: true
 ---
 

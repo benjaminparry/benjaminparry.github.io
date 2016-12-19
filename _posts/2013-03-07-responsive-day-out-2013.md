@@ -6,7 +6,7 @@ title: Responsive Day Out 2013
 description: My notes for Responsive Day Out 2013.
 categories : [writing]
 published: true
-
+tags: [responsive, conference, brighton]
 ---
 
 After the inspirational talks at [Altitude](http://altitude.io/) and a short but sweet Shopify meetup the night after, I was hungry for the meat potatoes and pint o’Guinness portion of last-last-week’s web conference schedule.

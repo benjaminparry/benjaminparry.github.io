@@ -5,6 +5,7 @@ title: UX Camp Brighton 2016
 description: Notes from UX Camp Brighton 2016 sessions
 categories : [writing]
 published: true
+tags: [brighton, user-experience, unconference]
 ---
 
 <h2><a href="#the-first-30-seconds-user-onboarding" class="heading__anchor" id="the-first-30-seconds-user-onboarding">The First 30 Seconds: Let’s Talk User Onboarding</a></h2>

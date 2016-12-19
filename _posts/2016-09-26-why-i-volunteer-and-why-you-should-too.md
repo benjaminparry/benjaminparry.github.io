@@ -6,6 +6,7 @@ title: Why I Volunteer And Why You Should Too
 categories : [writing]
 description: A retrospective piece on what I’ve gained from 3 years of volunteering for web/digital conferences.
 published: true
+tags: [conference, career-progression]
 
 ---
 
