@@ -31,17 +31,13 @@ layout: default
 	<div class="e-content">
 		{{ content }}
 	</div>
-	<footer>
+	<footer class="page-footer">
     <ul>
-      <li>
-        <p>Published: <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y" }}</time></p>
-      </li>
-      <li>
-        <p>{{ tags_content }}</p>
-      </li>
-      <li>
-        <p><a rel="syndication" href="{{ page.url }}" class="u-url u-syndication">permalink</a></p>
-      </li>
+      <li>Published: <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y" }}</time></li>
+      {% if tag %}
+      <li>{{ tags_content }}</li>
+      {% endif %}
+      <li><a rel="syndication" href="{{ page.url }}" class="u-url u-syndication">Permalink</a></li>
     </ul>
 	</footer>
 </article>

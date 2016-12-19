@@ -46,7 +46,7 @@ defaults:
       path: ""
       type: my_tags
     values:
-      layout: all_tags
+      layout: tagged_content
 
 gems:
   - jekyll-sitemap

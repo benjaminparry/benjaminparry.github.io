@@ -11,7 +11,7 @@ layout: default
 
 <h1 class="heading heading--alpha">Collecting: links</h1>
 
-<ul>
+<ul class="reset-list list--divided">
 	{% for item in site.collecting reversed | sort: 'date' %}
 	{% if item.category contains 'links' %}
 	<li>
@@ -25,7 +25,7 @@ layout: default
         <a class="u-url u-syndication" href="{{ item.url }}" rel="syndication">Read my notes</a>
         {% endif %}
 			</p>
-			<footer>
+			<footer class="utility-font-size-80">
 				<ul class="meta">
           {% if item.author %}
           <li>
