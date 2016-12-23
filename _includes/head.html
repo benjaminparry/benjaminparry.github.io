@@ -19,12 +19,10 @@
 	<meta name="author" content="Benjamin Parry" />
 	<link rel="author" href="{{ site.url }}" />
 
-	<!-- <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}"> -->
-	<meta name="description" content="Benjamin Parry ~ User Experience Designer ~ Personal Writings and Portfolio.">
+	<meta name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}">
 	<meta name="keywords" content="benjamin, parry, benjamin parry, ux, designer, design, writings, process, user experience">
 
-	<!-- <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title> -->
-	<title class="p-name">Benjamin Parry {% if page.type == "post" %}@benjaminparry ~ {% endif %}{{ page.title }}</title>
+	<title class="p-name">{{ site.title }} {% if page.type == "post" %}@benjaminparry ~ {% endif %}{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
 	<!-- Icons -->
 	<link rel="shortcut icon" type="image/ico" src="/favicon.ico">
@@ -48,4 +46,12 @@
 	<!-- Webmentions -->
 	<link rel="pingback" href="https://webmention.io/benjamin.parry.is/xmlrpc" />
 	<link rel="webmention" href="https://webmention.io/benjamin.parry.is/webmention" />
+	
+	<!-- Social -->
+	<meta name="twitter:title" content="{% if page.title %}{{ page.title | truncate: 70 }}{% else %}{{ site.title | truncate: 70 }}{% endif %}">
+	<meta name="twitter:description" content="{% if page.description%}{{ page.description | truncate: 200 }}{% else %}{{ site.description | truncate: 200 }}{% endif %}">
+	<meta name="twitter:site" content="@benjaminparry" />
+	<meta name="twitter:creator" content="@benjaminparry">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:image" content="{{ site.url }}/assets/img/benjamin-parry-300x300.jpg" />
 </head>
