@@ -27,6 +27,7 @@ layout: default
 
 <article class="h-entry">
 	<h1 class="p-name heading heading--alpha">{{ page.title }}</h1>
+  <div><a href="#webmentions">{% webmention_count page.url %} Webmentions</a></div>
 	<p class="p-description">{{ page.description }}</p>
 	<div class="e-content">
 		{{ content }}
@@ -39,5 +40,6 @@ layout: default
       {% endif %}
       <li><a rel="syndication" href="{{ page.url }}" class="u-url u-syndication">Permalink</a></li>
     </ul>
+    <div id="webmentions">{% webmentions page.url %}</div>
 	</footer>
 </article>
