@@ -1,7 +1,7 @@
 ---
 type: post
 layout: post
-title: 3 Months With Clearleft - Week 1 
+title: 3 Months With Clearleft - Week 2
 description: or 
 categories : [writing]
 tags: [user-experience, career-progression, clearleft]
@@ -18,8 +18,6 @@ published: false
 
 ### General
 
-
-
 #### OverheardAtClearleft
 
 * Bot design
@@ -28,22 +26,54 @@ published: false
 
 ### Content Deli
 
-* Others seem to suffer from distraction - email, Slack etc
+* Others seem to suffer from distraction - email, Slack etc - I should share my Twitter distraction handling lifehack
 
 
 ### Kaisan
 
+### Monday’s Retrospective
 
-
-### Stop
+#### Stop
 
 * Blabbering
+
+#### Start
+
+* Writing more
+
+#### Continue
+
+* Taking the opportunities like the Content Deli
+
+---
+
+## Tuesday
+
+### Clearleft.com
+
+* Standup
+  * Challenging flow of working on your own work while working on other content - when you are the client
+  * Shift in ownership/accountablility - Jon » Ellen
+
+### General
+
+* Ped-es-tranian (Tessa) - Mispronounced words
+
+#### OverheardAtClearleft
+
+* Jeremy talking about this not that technique/excercise to better define a branding identity
 * 
 
-### Start
+### Monday’s Retrospective
+
+#### Stop
 
 * 
 
-### Continue
+#### Start
+
+* 
+
+#### Continue
 
 * 
