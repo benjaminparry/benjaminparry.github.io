@@ -77,3 +77,38 @@ published: false
 #### Continue
 
 * 
+
+---
+
+## Wednesday
+
+### Chat with Richard - Trusted Review
+
+* Faceted search
+  * How it benefits the [n] different customers and their existing behaviour and motivations
+* Advertising
+  * Viewability - https://www.thinkwithgoogle.com/infographics/5-factors-of-viewability.html
+* Advertising targets - e.g Ford advertising to tech-savy camera enthusiasts. Ford have limited growth with existing customers so targeting potential customers within a tech-savy arena is an opportunity for growth.
+* Challenges
+  * Filling advertisement inventory
+  * Responsive - existing m-dot equivelant and desktop experience
+  * 
+* Three types of visitors
+  * News readers - coming to the site to read ~3,000 word in-depth articles to brain-up on the details for social gains. Not in the mind to buy
+  * Customers:
+    * Need to buy - item is broken need to make a purchase, might need further advice/guidance - hot lead
+    * Want to buy - aspires to buy a product, needs extra information - warm lead
+
+---
+
+## Thursday
+
+### Proper Tiny Lessons Kickoff
+
+---
+
+## Friday
+
+### clearleft.com Tiny Lessons
+
+* 
