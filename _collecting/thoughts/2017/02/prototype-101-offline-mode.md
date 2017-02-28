@@ -2,7 +2,7 @@
 category: thoughts
 title: HTML Prototyping 101 - Offline Mode
 date: 2017-02-28
-posse: 🤔 HTML Prototyping 101 - Build HTML prototypes with the assumption you’ll be demoing them without an internet connection
+posse: 🤔 HTML Prototyping 101 - Build with the assumption you’ll be demoing them without an internet connection
 tags: [prototype, offline, clearleft]
 published: true
 ---
