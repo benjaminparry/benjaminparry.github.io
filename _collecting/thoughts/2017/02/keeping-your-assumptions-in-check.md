@@ -1,6 +1,6 @@
 ---
 category: thoughts
-title: Shaded understanding - Keeping your assumptions in check
+title: Shared understanding - Keeping your assumptions in check
 date: 2017-02-28
 posse: 🤔 Build better shared understanding by leading from a macro to micro level
 tags: [assuption, shared-understanding, playback, clearleft]
