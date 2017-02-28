@@ -17,4 +17,4 @@ The value of this learning was truly brought home during the UX Laundromat – a
 
 James later reiterated the value of [beginner's mind](https://en.wikipedia.org/wiki/Shoshin){:target="_blank"} and the importance of onboarding your audience from a macro level before zooming into the micro details.
 
-Mulling over the previous week of Tiny Lessons themed discussions and meetings, I realised I had not taken the opportunity to ask Nicky if she knew about [x] or had followed the [y] process before. Doing so is respectful to your team and forms a better discussion for everyone involved.
+Mulling over the previous week of Tiny Lessons themed discussions and meetings, I realised I had not taken the opportunity to ask Nicky if she knew about [x] or had followed the [y] process before. This is something I wanted to address. Doing so is respectful to your team and forms a better discussion for everyone involved.
