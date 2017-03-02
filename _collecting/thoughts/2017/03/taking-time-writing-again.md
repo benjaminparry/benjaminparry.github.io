@@ -1,6 +1,6 @@
 ---
 category: thoughts
-title: Taking time to make writing a habit
+title: Taking time to form writing a habit
 date: 2017-03-02 15:36:08
 posse: 🤔 I’m taking time out to write in hope of forming a healthier habit
 tags: [writing, clearleft]
