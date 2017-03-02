@@ -136,8 +136,6 @@ The week ended with a fairly sore head. With the daily standup complete it was a
 
 ### Pow wow!
 
-After a company lunch at the local pub – there’s a pattern forming here I think… – Kate, Alis, Nicky and I meet for a UX London pow wow to discuss ways we can improve the conference experience for delegates, crew (volunteers), and Clearleft as a whole.
+After a company lunch at the local pub – _there’s a pattern forming here I think…_ – Kate, Alis, Nicky and I meet for a UX London pow wow to discuss ways we can improve the conference experience for delegates, crew (volunteers), and Clearleft as a whole.
 
 Both Nicky and I had volunteered for Clearleft’s conferences before so we both had suggestions to contribute. I turns out Kate had been sharing my blogpost [Why I Volunteer and Why You Should Too](http://benjamin.parry.is/writing/2016/09/why-i-volunteer-and-why-you-should-too/) to prospective volunteers.
-
-### 
