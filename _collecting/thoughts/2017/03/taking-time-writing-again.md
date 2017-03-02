@@ -13,6 +13,6 @@ There’s a culture of writing here at Clearleft HQ. I’m sat next to Jeremy wh
 
 When I started the 3 months here at Clearleft I had grand plans to follow in the footsteps of [John Ellison’s 90 Days](https://90days.john-ellison.com){:target="_blank"} but it’s been a tough act to follow up until now.
 
-What has helped is Ellen’s Content Deli – a space reserved for 1 hour for those who want a quiet and distraction-free environment to write – and [Ben’s first Slapdashery post](https://slapdashery.org/what-the-hell-is-this-69d53e43c796#.zc2s8leok){:target="_blank"} sharing techniques for forming a healthy writing habit.
+What has helped is Ellen’s Content Deli – a space reserved for 1 hour for those who want a quiet and distraction-free environment to write – and [Ben’s first Slapdashery post](https://slapdashery.org/what-the-hell-is-this-69d53e43c796#.zc2s8leok){:target="_blank"} sharing techniques for frequent writing.
 
 With a few posts already published this week and working in a culture that actively encourages writing, I can see this becoming a habit.
