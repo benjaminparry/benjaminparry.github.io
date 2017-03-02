@@ -9,7 +9,7 @@ published: true
 
 Coming off a rather intensive 2 weeks building a responsive HTML prototype, I’m taking some time to write up the notes from the last 6 weeks here are Clearleft.
 
-There’s a culture of writing here at Clearleft HQ. I’m sat next to Jeremy who creates written content of gargantuan proportions and is one of the content buddies. Kate who’s about to have her book published. Ben S and [Ben W](http://thewhitesite.co.uk/){:target="_blank"} who are both on a writing mission. In-house content strategist Ellen. Not to mention those who contribute to the Clearleft blog post or their own blogs.
+There’s a culture of writing here at Clearleft HQ. I’m sat next to Jeremy who creates written content of gargantuan proportions and is one of the self-appointed content buddies. Kate who’s about to have her book published. Ben S and [Ben W](http://thewhitesite.co.uk/){:target="_blank"} who are both on a writing mission. In-house content strategist Ellen. Not to mention those who contribute to the Clearleft blog post or their own blogs.
 
 When I started the 3 months here at Clearleft I had grand plans to follow in the footsteps of [John Ellison’s 90 Days](https://90days.john-ellison.com){:target="_blank"} but it’s been a tough act to follow up until now.
 
