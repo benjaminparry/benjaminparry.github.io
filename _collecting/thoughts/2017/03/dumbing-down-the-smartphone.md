@@ -1,7 +1,7 @@
 ---
 category: thoughts
 title: Smartphone vs Dumbphone - where’s the middle ground?
-date: 2017-03-03 09:00:00
+date: 2017-03-03 10:18:59
 posse: 🤔 Is going “full dumbphone” really nessesarry? Here’s my thoughts on dumbing down the smartphone
 tags: [technology, mobile, clearleft]
 published: true
@@ -28,7 +28,7 @@ His article explains the week long experiment of removing/disabling the followin
 * Web browser (via Restrictions on an iPhone)
 * Anything installed to whittle away time
 
-I also moved all home entertainment apps like Netflix and iPlayer to the family iPad, having this seperate device for play lessens the tempation to pick up your phone.
+I also moved all home entertainment apps like Netflix and iPlayer to the family iPad, having this seperate device for entertainment lessens the tempation to interact with your phone.
 
 After a week or so of fighting the muscle memory of turning my phone on for no apparent reason, I began to pay it less attention. It no longer had to be within an arm’s length at all times, the battery lasted longer, I started reading books on public transport, and most importantly I had no reason to take it into the loo anymore!
 
