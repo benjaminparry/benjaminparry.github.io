@@ -139,3 +139,21 @@ The week ended with a fairly sore head. With the daily standup complete it was a
 After a company lunch at the local pub – _there’s a pattern forming here I think…_ – Kate, Alis, Nicky and I meet for a UX London pow wow to discuss ways we can improve the conference experience for delegates, crew (volunteers), and Clearleft as a whole.
 
 Both Nicky and I had volunteered for Clearleft’s conferences before so we both had suggestions to contribute. I turns out Kate had been sharing my blogpost [Why I Volunteer and Why You Should Too](http://benjamin.parry.is/writing/2016/09/why-i-volunteer-and-why-you-should-too/) to prospective volunteers.
+
+### Sitting in
+
+With the Friday afternoon wind down looming, James introduced me to [Hayden](http://www.haydenslaughter.co.uk/){:target=“blank”} to run through the project he was about to start on.
+
+At face value the project involved the redesign of a typical legacy internal admin system but with every project there is much more going on.
+
+James set the scene and walked through the learnings from the stakeholder interviews and workshops, shadowing and surveys. With such an out of date interface there were some obvious tactical quick and easy wins. Part of Clearleft’s involvement though was to nurture a culture of design and innovation. Although the client had very limited design resource they were moving in the right direction albeit very slowly.
+
+The idea of a design “intervention” was proposed with the purpose of exposing what is working and what isn’t with a governance role to help see them through their longterm transformation. Showing the value of design and developing trust was becoming a recurring theme.
+
+How would Clearleft show this value? Through activities such as expert reviews, usability reviews, co-designing, user journey mapping, tying in metrics, feedback loops e.g. net promoter scores.
+
+On the topic of innovation, James briefly explained the zag discipline from [Marty Neumeier’s book Zag](https://www.amazon.co.uk/ZAG-Strategy-High-Performance-Brands-High-performance/dp/0321426770){:target=“_blank”} “When everybody zigs, zag”.
+
+### Let there be cheese…
+
+There’s a weekly tradition at Clearleft at 4pm on a Friday that **everyone** downs tools and meets to gorge on cheese and wine and craft beer. It’s like Christmas or Boxing Day all over again. 
