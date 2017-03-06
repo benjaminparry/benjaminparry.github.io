@@ -156,4 +156,34 @@ On the topic of innovation, James briefly explained the zag discipline from [Mar
 
 ### Let there be cheese…
 
-There’s a weekly tradition at Clearleft at 4pm on a Friday that **everyone** downs tools and meets to gorge on cheese and wine and craft beer. It’s like Christmas or Boxing Day all over again. 
+There’s a weekly tradition at Clearleft at 4pm on a Friday that **everyone** downs tools and meets to gorge on cheese and wine and craft beer. It’s like Christmas or Boxing Day all over again.
+
+## Big Ideas and Tiny Lessons - Week 2
+
+After a day or so of finishing up tasks for Clearleft.com, Ellen announced there was a small side project that would be perfect for Nicky and I to take ownership of and work on alongside the main push for launch.
+
+Ellen found a quiet corner of the office and introduced Nicky and I to the idea of Tiny Lessons: small, shareable pieces of content that would expose how Clearleft works and what they learn along the way.
+
+Ellen suggested structuring the project as an extended design sprint at just over 2 weeks with the aim to present something by the time everyone returns from Interaction 17 NY.
+
+### Discovery
+
+Tiny Lessons aligns perfectly with their value of “Learn, share, learn, share”. Members of the team already share learnings and opinions via their own or Clearleft’s blog.
+
+But there a couple of questions I needed to clarify. 
+
+* What’s the problem we’re trying to solve?
+* Who are we designing for?
+
+Ellen briefly explained the benefits from a content and business perspective and later shared the personas they had used for the Clearleft website.
+
+With these necessary first steps toward understanding the problem and users, Nicky and I got together to flesh out the plan of attack.
+
+#### Thomas and Vanessa
+
+Reading through the Clearleft.com personas and thinking about the content strategy for Tiny Lessons it seemed we might need to make a few changes to our primary persona.
+
+We noticed a need for two personas that would represent Thomas’s career progression to his current position as senior designer. We identified which problems mapped to an earlier stage in a designer’s career and allocated them to Frank. Frank became our primary persona and Thomas our secondary.
+
+Our other persona, Vanessa, didn’t change as her relationship with Thomas didn’t change.
+
