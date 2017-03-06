@@ -30,7 +30,7 @@ const base_path = './',
             '_includes/*',
             'assets/*',
             'assets/**/*',
-            'collecting/**/*',
+            'collecting/**/**/**/*',
             'working/**/*'
           ]
       };
