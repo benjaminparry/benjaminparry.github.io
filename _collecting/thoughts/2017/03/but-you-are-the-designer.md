@@ -7,9 +7,9 @@ tags: [sketching, collaboration, clearleft]
 published: true
 ---
 
-During last week’s Clearleft UX Laundromat [Hana](https://twitter.com/hana_stevenson){:target="_blank"} asked for session suggestions for a workshop she’s running as part of the many [Spring Forward](http://wespringforward.com/){:target=“_blank”} events happening in and around Brighton in March.
+During last week’s Clearleft UX Laundromat [Hana](https://twitter.com/hana_stevenson){:target="_blank"} asked for session suggestions for a workshop she’s running as part of the many [Spring Forward](http://wespringforward.com/){:target="_blank"} events happening in and around Brighton in March.
 
-Hana’s workshop [Concept to Code](https://concepttocode.eventbrite.co.uk/){:target=“_blank”} brings together the members of [Ladies That UX](http://ladiesthatux.com/brighton/){:target=“_blank”} and [Codebar](https://codebar.io/){:target=“_blank”} in a spirit of discovery and demystification in the UX and dev spheres.
+Hana’s workshop [Concept to Code](https://concepttocode.eventbrite.co.uk/){:target="_blank"} brings together the members of [Ladies That UX](http://ladiesthatux.com/brighton/){:target="_blank"} and [Codebar](https://codebar.io/){:target="_blank"} in a spirit of discovery and demystification in the UX and dev spheres.
 
 The following discussion touched upon various themes; type of audience, levels of experience, managing expectations, workshop formats.
 
@@ -17,7 +17,7 @@ Throwing in my 2 cents, I suggested a couple of activities that might be benefic
 
 ## A problem shared…
 
-I remember the first time I read Ben’s [Outcomes, not outputs](https://medium.com/@bensauer/outcomes-not-outputs-c9cf584dccd4#.3zio5exb1){:target=“_blank”} blog post. I was feeling the frustration of working in a feature-centric top-down organisation. I hadn’t yet been turned onto Lean so it blew my mind a little when I read it.
+I remember the first time I read Ben’s [Outcomes, not outputs](https://medium.com/@bensauer/outcomes-not-outputs-c9cf584dccd4#.3zio5exb1){:target="_blank"} blog post. I was feeling the frustration of working in a feature-centric top-down organisation. I hadn’t yet been turned onto Lean so it blew my mind a little when I read it.
 
 **Outputs** = features shipped
 
@@ -52,4 +52,4 @@ It also breeds advocates for the design. If everyone is designing together every
 
 ---
 
-There are still tickets for [Concept to Code](https://concepttocode.eventbrite.co.uk/){:target=“_blank”} and [Hana’s](https://twitter.com/hana_stevenson){:target="_blank"} looking for questions for the night so get in touch!
+There are still tickets for [Concept to Code](https://concepttocode.eventbrite.co.uk/){:target="_blank"} and [Hana’s](https://twitter.com/hana_stevenson){:target="_blank"} looking for questions for the night so get in touch!
