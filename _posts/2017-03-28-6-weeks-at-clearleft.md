@@ -160,15 +160,15 @@ There’s a weekly tradition at Clearleft at 4pm on a Friday that **everyone** d
 
 ## Big Ideas and Tiny Lessons - Week 2
 
-After a day or so of finishing up tasks for Clearleft.com, Ellen announced there was a small side project that would be perfect for Nicky and I to take ownership of and work on alongside the main push for launch.
+After a day or so of finishing up tasks for Clearleft.com, Ellen announced there was a small side project that would be perfect for Nicky and I to take ownership of and work alongside the main push for launch.
 
 Ellen found a quiet corner of the office and introduced Nicky and I to the idea of Tiny Lessons: small, shareable pieces of content that would expose how Clearleft works and what they learn along the way.
 
-Ellen suggested structuring the project as an extended design sprint at just over 2 weeks with the aim to present something by the time everyone returns from Interaction 17 NY.
+Ellen suggested structuring the project as an extended design sprint at just over 2 weeks with the aim to present something after everyone returns from Interaction 17 NY.
 
 ### Discovery
 
-Tiny Lessons aligns perfectly with their value of “Learn, share, learn, share”. Members of the team already share learnings and opinions via their own or Clearleft’s blog.
+The idea of Tiny Lessons aligns perfectly with their value of “Learn, share, learn, share”. Members of the team already share learnings and opinions via their own or Clearleft’s blog.
 
 But there a couple of questions I needed to clarify. 
 
@@ -184,6 +184,4 @@ With these necessary first steps toward understanding the problem and users, Nic
 Reading through the Clearleft.com personas and thinking about the content strategy for Tiny Lessons it seemed we might need to make a few changes to our primary persona.
 
 We noticed a need for two personas that would represent Thomas’s career progression to his current position as senior designer. We identified which problems mapped to an earlier stage in a designer’s career and allocated them to Frank. Frank became our primary persona and Thomas our secondary.
-
-Our other persona, Vanessa, didn’t change as her relationship with Thomas didn’t change.
 
