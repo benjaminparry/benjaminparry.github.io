@@ -1,5 +1,5 @@
 # Site settings
-title: Benjamin Parry 
+title: Benjamin Parry
 email: benjamin@parry.is
 
 
@@ -33,7 +33,7 @@ collections:
   my_tags:
     output: true
     permalink: /tagging/:name/
-    
+
 defaults:
   - scope:
       path: ""
@@ -46,7 +46,7 @@ defaults:
     values:
       layout: tagged_content
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-redirect-from
