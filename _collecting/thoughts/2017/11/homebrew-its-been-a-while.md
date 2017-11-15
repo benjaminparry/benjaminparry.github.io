@@ -18,3 +18,7 @@ My objectives were; simplify my current build workflow and work through the [ind
 I ticked these two items of the list fairly quickly, so with 30mins left on the clock I attempted to tackle something I have been trying for a while: POSSE and Webmentions. I managed to setup brid.ly to find my posts but couldn’t work out a way to automatically post them on publish due to this site running on Github’s Jekyll services. It wasn’t until the closing few minutes that I think I figured it out and as Jeremy and Alex were closing their laptops I was glued to my seat frantically making the last commit.
 
 Now here’s the moment of truth… did it work? Does this post automatically POSSE to Twitter?
+
+---
+
+_Postscript:_ No, it didn’t work. Back to the code editor. =[
