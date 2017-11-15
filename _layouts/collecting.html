@@ -30,7 +30,10 @@ layout: default
 		{{ content }}
 	</div>
   <footer class="page-footer">
-    <p>Published: <time class="dt-published" datetime="{{ page.date | date: "%d %B %Y" }}">{{ page.date | date: "%d %B %Y" }}</time></p>
-    <a rel="syndication" href="{{ page.url }}" class="u-url u-syndication">permalink</a>
+    <ul>
+      <li>Author: <a href="{{ page.url }}" rel="author" class="p-author h-card">Benjamin Parry</a></li>
+      <li>Published: <time class="dt-published" datetime="{{ page.date | date: "%d %B %Y" }}">{{ page.date | date: "%d %B %Y" }}</time></li>
+      <li><a rel="syndication" href="{{ page.url }}" class="u-url u-syndication">permalink</a></li>
+    </ul>
   </footer>
 </article>

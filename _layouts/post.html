@@ -33,12 +33,12 @@ layout: default
 	</div>
 	<footer class="page-footer">
     <ul>
+      <li>Author: <a href="{{ page.url }}" rel="author" class="p-author h-card">Benjamin Parry</a></li>
       <li>Published: <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y" }}</time></li>
       {% if tag %}
       <li>{{ tags_content }}</li>
       {% endif %}
       <li><a rel="syndication" href="{{ page.url }}" class="u-url u-syndication">Permalink</a></li>
-      <li>Author: <a href="{{ page.url }}" rel="author" class="p-author h-card">Benjamin Parry</a></li>
     </ul>
 	</footer>
 </article>
