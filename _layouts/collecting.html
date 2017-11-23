@@ -30,10 +30,6 @@ layout: default
 		{{ content }}
 	</div>
   <footer class="page-footer">
-    <div class="">
-       {% webmention_count page.url %}
-       {% webmentions page.url %}
-    </div>
     <ul>
       <li>Author: <a href="{{ page.url }}" rel="author" class="p-author h-card">Benjamin Parry</a></li>
       <li>Published: <time class="dt-published" datetime="{{ page.date | date: "%d %B %Y" }}">{{ page.date | date: "%d %B %Y" }}</time></li>
