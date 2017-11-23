@@ -33,7 +33,8 @@ layout: default
 	</div>
 	<footer class="page-footer">
     <div class="">
-       {% webmentions %}
+       {% webmention_count page.url %}
+       {% webmentions page.url %}
     </div>
     <ul>
       <li>Author: <a href="{{ page.url }}" rel="author" class="p-author h-card">Benjamin Parry</a></li>
