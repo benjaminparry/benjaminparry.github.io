@@ -50,4 +50,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-webmention_io
+  # - jekyll-webmention_io
