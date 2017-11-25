@@ -4,7 +4,7 @@ title: What Really Matters - Focusing on Top Tasks
 date: 2017-03-08 10:27:50
 link: https://alistapart.com/article/what-really-matters-focusing-on-top-tasks
 author: Gerry McGovern
-posse: My notes on researching Gerry McGovern’s Top Tasks article for an upcoming project
+posse: 🔗 My notes on researching Gerry McGovern’s Top Tasks article for an upcoming project
 notes: true
 ---
 

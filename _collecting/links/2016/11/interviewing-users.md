@@ -4,7 +4,7 @@ title: Interviewing Users
 date: 2016-11-08
 link: https://www.nngroup.com/articles/interviewing-users/
 author: Jakob Nielsen
-posse: Jakob Nielsen’s take on the similarities and inevitable merging of UX Design and Service Design.
+posse: 🔗 Jakob Nielsen’s take on the similarities and inevitable merging of UX Design and Service Design.
 notes: true
 ---
 
