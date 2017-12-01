@@ -17,10 +17,12 @@ layout: default
 
 <article class="h-entry">
 	<h1 class="p-name heading heading--alpha">{{ page.title }}</h1>
-	<p class="p-description posse p-summary">{{ page.posse }}</p>
-  {% if page.category == "links" %}
-  <a class="u-url" href="{{ page.link }}" target="_blank">{{ page.link }}</a>
-  {% endif %}
+	<p class="p-description posse p-summary">
+    {{ page.posse }}
+    {% if page.category == "links" %}
+    <a class="u-url" href="{{ page.link }}" target="_blank">{{ page.link }}</a>
+    {% endif %}
+  </p>
 	<div class="e-content">
     {% if page.category == "links" %}
     {% if page.notes %}
