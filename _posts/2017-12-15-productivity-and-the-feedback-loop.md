@@ -5,7 +5,7 @@ title: Productivity and the Feedback Loop
 description: I was graciously asked by @alexduloz to write something about productivity for The Human In The Machine project @humanthemachine. Here are my thoughts.
 categories : [writing]
 tags: [productivity]
-published: true
+published: false
 ---
 
 On every project I’ve worked on, I’ve always found the moment of shipping incredibly emotional.
