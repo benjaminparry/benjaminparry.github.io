@@ -2,7 +2,7 @@ $spacing-unit: 4px;
 
 // Spacing Function
 //
-// 
+//
 
 // Usage: multiply the spacing size to define the scale of spacing
 // Example:
@@ -36,6 +36,7 @@ html {
 html {
 
 	height: 100%;
+	overflow-y: scroll;
 }
 
 body {
@@ -57,13 +58,13 @@ a {
 }
 
 strong {
-	
+
 	color: hsl(214, 68%, 22%);
 	text-shadow: 0 1px 0 white;
 }
 
 em {
-	
+
 	background-color: #fff;
 }
 
@@ -102,32 +103,32 @@ img {
 }
 
 .site-banner {
-	
+
 	border-bottom: $spacing-unit solid hsl(214, 81%, 35%);
 	margin-bottom: spacing(4);
-	
+
 	.landing & {
-		
+
 		margin-bottom: 0;
 	}
 }
 
 .site-footer {
-	
+
 	border-top: $spacing-unit solid hsl(214, 81%, 35%);
 	margin-top: spacing(4);
 	padding-top: spacing(4);
 }
 
 .page-footer {
-	
+
 	font-size: 90%;
 	border-top: $spacing-unit solid hsl(214, 81%, 35%);
 	margin-top: spacing(4);
 	padding-top: spacing(4);
-	
+
 	&:last-child {
-		
+
 		margin-bottom: 0;
 	}
 }
@@ -144,7 +145,7 @@ h2,
 h3,
 h4,
 h5 {
-	
+
 	position: relative;
 	word-break: break-all;
 }
@@ -185,24 +186,24 @@ p {
 }
 
 .post {
-	
+
 	.p-description {
-		
+
 		border-top: 1px solid hsl(0, 0%, 85%);
 		padding-top: 30px;
 		border-bottom: 1px solid hsl(0, 0%, 85%);
 		padding-bottom: 30px;
 		font-size: 1.15rem;
 	}
-	
+
 	h2 {
 		font-size: 1.45rem;
 	}
-	
+
 	h3 {
 		font-size: 1.25rem;
 	}
-} 
+}
 
 .reset-list {
 
@@ -214,9 +215,9 @@ p {
 .list--standard {
 
 	padding-left: spacing(5);
-	
+
 	> :last-child {
-		
+
 		margin-bottom: 0;
 	}
 }
@@ -256,21 +257,21 @@ p {
 }
 
 .list--breadcrumb {
-	
+
 	&,
 	a {
-		
+
 		color: #989898;
 	}
-	
+
 	a:hover {
-		
+
 		color: #0f448a;
 	}
 }
 
 .list--divided > li {
-	
+
 	border-top: 1px solid hsl(0, 0%, 85%);
 }
 
@@ -286,12 +287,12 @@ p {
 
 
 .card--profile {
-	
+
 	border: spacing(1) solid hsl(0, 0%, 100%);
-	
+
 	text-align: center;
 	position: relative;
-	
+
 	.card__text {
 		color: hsl(0, 0%, 98%);
 	}
@@ -324,7 +325,7 @@ p {
 .card--article {
 	border: spacing(1) solid hsl(214, 81%, 35%);
 	background-color: white;
-	
+
 	.card__text__heading {
 		border-bottom: 1px solid hsl(214, 81%, 35%);
 	}
@@ -341,7 +342,7 @@ p {
 @media (min-width: 532px) {
 
 	.card--profile {
-		
+
 		float: right;
 		margin-left: spacing(4);
 		margin-bottom: spacing(4);
@@ -351,7 +352,7 @@ p {
 
 @media (max-width: 687px) {
 	.card--profile {
-		
+
 		width: 200px;
 		padding-bottom: 192px + 76px;
 		overflow: hidden;
@@ -413,27 +414,27 @@ blockquote {
     padding: 0 1rem;
 		position: relative;
 		margin-bottom: 2rem;
-		
+
 		> :first-child {
-			
+
 			&:before {
-				
+
 				content: "";
 				margin-left: 2rem;
 			}
 		}
-		
+
 		> :last-child {
-			
+
 			&:after {
-				
+
 				content: "";
 				margin-right: 2rem;
 			}
 		}
-		
+
 		&:before {
-			
+
 			content: "“";
 	    color: #0e448a;
 			font-size: 3rem;
@@ -442,9 +443,9 @@ blockquote {
 			left: 1rem;
 			line-height: 1.5;
 		}
-		
+
 		&:after {
-			
+
 			content: "”";
 	    color: #0e448a;
 			font-size: 3rem;
@@ -462,7 +463,7 @@ a {
 
 [href*="//"]:not([href*="benjamin.parry.is"]) {
 	position: relative;
-	
+
 	&:after {
 		content: "\2009»";
 		display: inline-block;
@@ -476,13 +477,13 @@ a {
 	padding-top: 1.5rem;
 	margin-top: 1.75rem;
 	display: block;
-	
+
 }
 .e-content h2:first-child .heading__anchor {
-	
+
 	padding-top: 0;
 	border-top: none;
-	
+
 	&:before {
 		top: 0;
 	}
@@ -502,7 +503,7 @@ a {
 [role="navigation"] > a {
 	text-decoration: none;
 	padding: 1px 5px 4px 5px;
-	
+
 	&.active {
 		background-color: hsl(214, 81%, 35%);
 		color: #fff;
@@ -522,7 +523,7 @@ a {
 }
 
 [role="navigation"] .list__item--active > a {
-	
+
 	color: #fff;
 	position: relative;
 	text-decoration: none;
@@ -530,7 +531,7 @@ a {
 }
 
 [role="navigation"] .list__item--active > a span {
-	
+
 	position: relative;
 	z-index: 1;
 }
@@ -553,13 +554,13 @@ a {
 }
 
 .utility-font-weight-normal {
-	
+
 	font-weight: normal;
 }
 
 .utility-push-down-6 {
-	
-	margin-bottom: spacing(6);	
+
+	margin-bottom: spacing(6);
 }
 
 // http://type-scale.com/
@@ -567,34 +568,34 @@ a {
 
 
 .learning {
-	
+
 	position: relative;
 	margin-left: -2%;
 	padding-right: 2%;
 	margin-top: spacing(5);
 	margin-bottom: spacing(5);
-	
+
 }
 .learning__content {
-	
+
 	padding: spacing(2);
 	border: 1px solid #0e448a;
 	background-color: hsl(0, 0%, 95%);
 	// width: 66.666666667%;
-	width: 75%;	
+	width: 75%;
 	> :first-child {
-		
+
 		margin-top: 0;
 	}
-	
+
 	> :last-child {
-		
+
 		margin-bottom: 0;
 	}
 }
 
 .page-buster {
-	
+
 	width: 130%;
 	margin-left: -15%;
 	font-size: 0;
@@ -602,7 +603,7 @@ a {
 }
 
 .page-buster--image-thirds {
-	
+
 	img,
 	video {
 		width: 33.333333333%;
@@ -610,7 +611,7 @@ a {
 }
 
 .page-buster--image-quarters {
-	
+
 	img,
 	video {
 		width: 25%;
@@ -626,24 +627,24 @@ a {
 	margin-left: spacing(4);
 	margin-bottom: spacing(4);
 	width: 33.333333333%;
-	
+
 	a,
 	strong {
 		color: inherit;
 	}
-	
+
 	a:hover {
 		color: #0e448a;
 	}
-	
+
 	> :last-child {
-		
+
 		margin-bottom: 0;
 	}
 }
 
 .challange {
-	
+
 	border-left: spacing(1) solid #0e448a;
 	padding-left: spacing(3);
 	margin-left: -(spacing(3));
@@ -652,20 +653,20 @@ a {
 }
 
 .conclusion {
-	
+
 	background-color: #fff;
 	width: 110%;
 	margin-left: -5%;
 	padding: 5%;
 	border: 1px solid #989898;
-	
+
 	> :first-child {
-		
+
 		margin-top: 0;
 	}
-	
+
 	> :last-child {
-		
+
 		margin-bottom: 0;
 	}
 }
@@ -712,5 +713,5 @@ a {
 	background-color: #fff;
 	padding: spacing(4);
 	border: 1px solid #989898;
-	
+
 }
