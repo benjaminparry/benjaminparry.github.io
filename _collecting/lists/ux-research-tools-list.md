@@ -8,7 +8,7 @@ notes: true
 published: false
 ---
 
-## Surveys
+## Surveys and Questionnaires
 
 * [https://www.surveymonkey.co.uk/](){:target="_blank"}
 
@@ -16,3 +16,9 @@ published: false
 
 * [PingPong](https://hellopingpong.com){:target="_blank"}
 * [Lookback](https://lookback.io/){:target="_blank"}
+
+## Recruitment
+
+### Email spam checker
+
+* [Mail Tester](https://www.mail-tester.com/){:target="_blank"}
