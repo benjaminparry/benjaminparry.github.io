@@ -10,14 +10,18 @@ published: false
 
 ## Surveys and Questionnaires
 
-* [https://www.surveymonkey.co.uk/](){:target="_blank"}
+* [Survey Monkey](https://www.surveymonkey.co.uk/){:target="_blank"}
 
-## Remote Usability Testing
+## Usability Testing Tools
+
+### Qual
 
 * [PingPong](https://hellopingpong.com){:target="_blank"}
 * [Lookback](https://lookback.io/){:target="_blank"}
 
-## Recruitment
+### Quant
+
+* [Maze](https://maze.design/){:target="_blank"}
 
 ### Email spam checker
 
