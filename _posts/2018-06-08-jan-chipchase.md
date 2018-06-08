@@ -34,11 +34,11 @@ While we, as researchers, should be striving to hone our processes, we shouldnâ€
 
 ### Analysis
 
-Toward the end of the workshop, three brave volunteers partook in an exercise in memory, through which Jan demonstrated how our recall diminishes at an alarming rate. This becomes troublesome for research studies structured with large gaps in between analysis. If time erodes evidence, then we should be reducing the latency for sensemaking as much as possible.
+Toward the end of the workshop, three brave volunteers partook in an exercise in memory, through which Jan demonstrated how our recall diminishes at an alarming rate. This becomes troublesome for research studies structured with large gaps in between analysis.
 
-> While the workshop was aimed at international ethnographic researchers, I left with a deeper appreciation of team leadership, a fresh outlook on process, and a great responsibly of the evidence I collect.
+> If time erodes evidence, then we should be reducing the latency for sensemaking as much as possible.
 
-For more info on Janâ€™s work, side projects, and The Field Study Handbook [check out his website](http://janchipchase.com/){:target="_blank"}.
+While the workshop was aimed at international ethnographic researchers, I left with a deeper appreciation of team leadership, a fresh outlook on process, and a great responsibly of the evidence I collect.
 
 <!-- ---
 
