@@ -40,6 +40,8 @@ Toward the end of the workshop, three brave volunteers partook in an exercise in
 
 While the workshop was aimed at international ethnographic researchers, I left with a deeper appreciation of team leadership, a fresh outlook on process, and a great responsibly of the evidence I collect.
 
+For more info on Jan’s work, side projects, and The Field Study Handbook [check out his website](http://janchipchase.com/){:target="_blank"}.
+
 <!-- ---
 
 Clearleft Presents is a programme of workshops, led by some of the biggest names in the tech industry. It’s a hand selected combination of designers, speakers, authors and evangelists, from across the sector; inspired by the most popular and impactful sessions at UX London, Leading Design and working with people we admire. Jake Knapp is up next in our series and he’ll be guiding folk in how to nail Design Sprints. He’s a New York Times bestselling author on the subject, so you’ll be in safe hands! [Take a look](https://clearleft.com/presents/design-sprint-workshop){:target="_blank"} to book your tickets. -->
