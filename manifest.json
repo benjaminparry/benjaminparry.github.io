@@ -1,11 +1,11 @@
 {
     "lang": "en",
     "name": "Benjamin Parry", 
-    "short_name": "Benjamin Parry",
+    "short_name": "Ben Parry",
     "start_url": "/",
-    "display": "browser",
-    "background_color": "#ffffff",
-    "theme_color": "#ffffff",
+    "display": "minimal-ui",
+    "background_color": "#fafafa",
+    "theme_color": "#fafafa",
     "icons": [
         {
             "src": "/icon.png",
