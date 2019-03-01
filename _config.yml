@@ -9,7 +9,7 @@ description: Benjamin Parry ~ User Experience Designer ~ Personal Writings and P
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
-url: "http://benjamin.parry.is" # the base hostname & protocol for your site
+url: "https://benjamin.parry.is" # the base hostname & protocol for your site
 
 # Build from/to
 # source:      _source
