@@ -1,0 +1,16 @@
+{
+    "lang": "en",
+    "name": "Benjamin Parry", 
+    "short_name": "Benjamin Parry",
+    "start_url": "/",
+    "display": "browser",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "/icon.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        }
+    ]
+}
