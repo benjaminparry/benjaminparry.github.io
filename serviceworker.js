@@ -4,6 +4,7 @@
 // (beware: the cache will grow and grow; there's no cleanup)
 
 const cacheName = 'files';
+const offlinePage = '/offline/index.html';
 
 addEventListener('fetch',  fetchEvent => {
   const request = fetchEvent.request;
