@@ -17,6 +17,6 @@ I followed Jeremy’s post on checking off the checklist for adding a [service w
 
 Fast forward a few weeks and I’m sitting at Clearleft HQ at the weekly [Brighton Homebrew Website Club](https://indieweb.org/Homebrew_Website_Club#Brighton){:target="_blank"} adding an [offline web](/offline/).
 
-Thanks to Jeremy for helping my with the code, and to everyone for the great company.
+Thanks to Jeremy for helping my with the code, and to everyone for [the great company](https://adactio.com/notes/14976){:target="_blank"}.
 
 Here’s to the next one! 🍻️
