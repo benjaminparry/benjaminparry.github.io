@@ -6,6 +6,16 @@
 const cacheName = 'files';
 const offlinePage = '/offline/index.html';
 
+addEventListener('install', installEvent => {
+  skipWaiting();
+  installEvent.waitUntil(
+    caches.open(cacheName)
+    .then( cache => {
+      return cache.add(offlinePage);
+    })
+  );
+});
+
 addEventListener('fetch',  fetchEvent => {
   const request = fetchEvent.request;
   if (request.method !== 'GET') {
@@ -23,7 +33,8 @@ addEventListener('fetch',  fetchEvent => {
         return await responseFromFetch;
       }
       catch(error) {
-        return caches.match(request);
+        const responseFromCache = await caches.match(request);
+        return responseFromCache || caches.match(offlinePage);
       }
     } else {
       const responseFromCache = await caches.match(request);
