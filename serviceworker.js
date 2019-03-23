@@ -5,7 +5,6 @@
 
 const cacheName = 'files';
 const offlinePage = '/offline/index.html';
-const pageCacheName = 'pages';
 
 addEventListener('install', installEvent => {
   skipWaiting();
