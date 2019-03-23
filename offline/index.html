@@ -27,17 +27,14 @@ layout: default
 </ul>
 
 <script>
-caches.open('files')
+caches.open('pages')
 .then( pageCache => {
   pageCache.keys()
   .then( keys => {
     let markup = '';
     keys.forEach( request => {
       let url = new URL(request.url);
-      let title = url.pathname;
-      title = title.replace(/\//g, ': ');
-      title = title.replace(/\-/g, ' ');
-      markup += `<li><a href="${url}">${title}</a></li>`;
+      markup += `<li><a href="${url}">${url}</a></li>`;
     })
     document.getElementById('history').innerHTML = markup;
   });
