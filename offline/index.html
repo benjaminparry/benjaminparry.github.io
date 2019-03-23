@@ -10,8 +10,36 @@ layout: default
 
 <h1 class="heading heading--alpha">You are offline</h1>
 
-Looks like you’re offline. Some of the pages you’ve already visited are still available.
+<p>
+  Looks like you’re offline. Some of the pages you’ve already visited are still available.
+</p>
 
-I don’t have a list of them… yet, but they’ll appear below soon.
+<p>
+  I don’t have a list of them… yet, but they’ll appear below soon.
+</p>
 
-Thanks to <a href="https://adactio.com" target="_blank">@adactio</a> for helping me <a href="https://abookapart.com/products/going-offline" target="_blank">going offline</a>.
+<p>
+  Thanks to <a href="https://adactio.com" target="_blank">@adactio</a> for helping me <a href="https://abookapart.com/products/going-offline" target="_blank">going offline</a>.
+</p>
+
+<ul id="history">
+  
+</ul>
+
+<script>
+caches.open('pages')
+.then( pageCache => {
+  pageCache.keys()
+  .then( keys => {
+    let markup = '';
+    keys.forEach( request => {
+      let url = new URL(request.url);
+      let title = url.pathname;
+      title = title.replace(/\//g, ': ');
+      title = title.replace(/\-/g, ' ');
+      markup += `<li><a href="${url}">${title}</a></li>`;
+    })
+    document.getElementById('history').innerHTML = markup;
+  });
+});
+</script>
