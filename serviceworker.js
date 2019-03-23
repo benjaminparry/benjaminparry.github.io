@@ -5,7 +5,6 @@
 
 const cacheName = 'files';
 const offlinePage = '/offline/index.html';
-const pageCacheName = 'pages';
 
 addEventListener('install', installEvent => {
   skipWaiting();
@@ -26,7 +25,7 @@ addEventListener('fetch',  fetchEvent => {
     const responseFromFetch = fetch(request);
     fetchEvent.waitUntil(async function() {
       const responseCopy = (await responseFromFetch).clone();
-      const myCache = await caches.open(pageCacheName);
+      const myCache = await caches.open(cacheName);
       await myCache.put(request, responseCopy);
     }());
     if (request.headers.get('Accept').includes('text/html')) {
