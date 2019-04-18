@@ -7,4 +7,5 @@ author: Gregg Bernstein
 posse: 🔗 @greggcorp outlines the relationships between journalism and user research.
 notes: false
 published: true
+tags: [research]
 ---

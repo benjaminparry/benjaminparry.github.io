@@ -5,6 +5,7 @@ date: 2019-03-28 19:30:00
 posse: 🤔 Home-brewing - Adding @clagnut’s hyphenation and other offline enhancements
 tags: [indieweb, typography, css]
 published: true
+redirect_from: "/collecting/thoughts/2018/03/home-brew/"
 ---
 
 After I added an offline page to my website at last week’s homebrew, I couldn’t help but tinker with the page a little more and a list of pages stored in the cache.

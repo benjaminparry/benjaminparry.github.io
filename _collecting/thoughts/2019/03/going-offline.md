@@ -5,6 +5,7 @@ date: 2019-03-21 19:33:04
 posse: 🤔 Going Offline - Adventures online/offline at the rebooted Homebrew Website Club @clearleft
 tags: [indieweb]
 published: true
+redirect_from: "/collecting/thoughts/2018/03/going-offline/"
 ---
 
 Last month Jeremy demo’d his [Going Offline](https://abookapart.com/products/going-offline){:target="_blank"} Event Apart talk during a working lunch.

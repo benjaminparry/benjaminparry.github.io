@@ -1,0 +1,4 @@
+---
+slug: ethnography
+name: Ethnography
+---

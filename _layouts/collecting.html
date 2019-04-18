@@ -36,6 +36,17 @@ layout: default
       <li>Author: <a href="{{ page.url }}" rel="author" class="p-author h-card">Benjamin Parry</a></li>
       <li>Published: <time class="dt-published" datetime="{{ page.date | date: "%d %B %Y" }}">{{ page.date | date: "%d %B %Y" }}</time></li>
       <li><a rel="syndication" href="{{ page.url }}" class="u-url u-syndication">permalink</a></li>
+
+      {% if page.tags != empty %}
+      <li>Tagged with:
+        <ul class="">
+        {% for tag in page.tags %}
+        <li><a href="/tagging/{{ tag }}" class="tag">{{ tag }}</a></li>
+        {% endfor %}
+        </ul>
+      </li>
+      {% endif %}
+
     </ul>
   </footer>
   <div class="off-screen">

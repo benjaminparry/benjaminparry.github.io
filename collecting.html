@@ -29,6 +29,17 @@ layout: default
           <li>
             Filed under: <a href="/collecting/{{ item.category }}/">{{ item.category }}</a>
           </li>
+
+          {% if item.tags != empty %}
+          <li>Tagged with:
+            <ul class="">
+              {% for tag in item.tags %}
+              <li><a href="/tagging/{{ tag }}" class="tag">{{ tag }}</a></li>
+              {% endfor %}
+            </ul>
+          </li>
+          {% endif %}
+
           <li>
             Collected: <time class="dt-published" datetime="{{ item.date | date: "%d %B %Y" }}">{{ item.date | date: "%d %B %Y" }}</time>
           </li>

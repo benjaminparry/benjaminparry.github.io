@@ -19,6 +19,9 @@ layout: default
   {% endfor %}
 {% endif %}
 
+
+
+
 <ul class="reset-list list list--inline list--breadcrumb utility-font-size-80">
   <li><a href="/">Home</a></li>
   <li><a href="/writing/">Writing</a></li>
@@ -40,6 +43,17 @@ layout: default
       {% if tag %}
       <li>{{ tags_content }}</li>
       {% endif %}
+
+      {% if page.tags != empty %}
+      <li>Tagged with:
+        <ul class="">
+        {% for tag in page.tags %}
+        <li><a href="/tagging/{{ tag }}" class="tag">{{ tag }}</a></li>
+        {% endfor %}
+        </ul>
+      </li>
+      {% endif %}
+
       <li><a rel="syndication" href="{{ page.url }}" class="u-url u-syndication">Permalink</a></li>
     </ul>
 	</footer>

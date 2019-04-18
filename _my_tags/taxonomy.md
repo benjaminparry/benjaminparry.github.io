@@ -1,0 +1,4 @@
+---
+slug: taxonomy
+name: Taxonomy
+---
