@@ -5,6 +5,7 @@ date: 2019-04-17 21:30:00
 posse: 🤔 Twisting off the lid of my website and adding tags at Homebrew Website Club
 tags: [indieweb, taxonomy, information-architecture]
 published: true
+redirect_from: "/collecting/thoughts/2019/06/homebrew-tags/"
 ---
 
 It’s been a few weeks since I frequented Homebrew Website Club so instead of starting my bank holiday early I decided to sick around and hang out with [the devs at Clearleft and other homebrewers](https://adactio.com/notes/15074) and talk shop.
