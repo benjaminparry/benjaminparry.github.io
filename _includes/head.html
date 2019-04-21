@@ -14,7 +14,7 @@
 
 	<!-- RWD 101 -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
+
 	<!-- Theme -->
 	<meta name="theme-color" content="#fafafa"/>
 
@@ -23,7 +23,8 @@
 	<link rel="author" href="{{ site.url }}" />
 
 	<meta name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}">
-	<meta name="keywords" content="benjamin, parry, benjamin parry, design, researcher, research, ux, designer, design, writings, process, user experience">
+	<meta name="keywords" content="benjamin, parry, benjamin parry, design, researcher, research, ux, user experience, designer, design{% if page.tags %}{% for tag in page.tags %}, {{ tag }}{% endfor %}{% else %}, writings, process{% endif %}">
+
 
 	<title class="p-name">{{ site.title }} {% if page.type == "post" %}@benjaminparry ~ {% endif %}{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
@@ -33,7 +34,7 @@
 
 	<!-- Manifest -->
 	<link rel="manifest" href="/manifest.json" />
-	
+
 	<!-- Styling -->
 	<link rel="stylesheet" href="{{ "/assets/css/main.min.css" | prepend: site.baseurl }}">
 

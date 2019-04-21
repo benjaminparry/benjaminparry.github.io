@@ -8,7 +8,7 @@ published: true
 redirect_from: "/collecting/thoughts/2019/06/homebrew-tags/"
 ---
 
-It’s been a few weeks since I frequented Homebrew Website Club so instead of starting my bank holiday early I decided to sick around and hang out with [the devs at Clearleft and other homebrewers](https://adactio.com/notes/15074) and talk shop.
+It’s been a few weeks since I frequented Homebrew Website Club so instead of starting my bank holiday early I decided to stick around and hang out with [the devs at Clearleft and other homebrewers](https://adactio.com/notes/15074) and talk shop.
 
 At the pervious brews, I’d chipped away at making my site a PWA (progressive web app) and added an offline page displaying cached pages. With only 90 mins of brewing I wanted to pick something that I could have something to write about before the evening was over so I decided to look at the way I had configured tags, categories and collections.
 

@@ -17,7 +17,7 @@ layout: default
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
   <li><a href="/tagging/{{ t }}">{{t | downcase | replace:"-"," " }}</a>
-  <!-- {{ posts | size }} -->
+  <small>{{ posts | size }}</small>
   </li>
 {% endfor %}
 </ul>
