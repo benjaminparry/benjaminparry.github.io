@@ -2,8 +2,8 @@
 type: post
 layout: post
 title: Takeaways from Jan Chipchase’s Field Research Masterclass
-description: When you have the opportunity to add new methods to your UX research toolkit, grasp that opportunity with both hands!
-categories : [writing]
+posse: When you have the opportunity to add new methods to your UX research toolkit, grasp that opportunity with both hands!
+categories : writing
 tags: [research, ethnography]
 published: true
 ---

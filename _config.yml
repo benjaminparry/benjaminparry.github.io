@@ -20,8 +20,6 @@ exclude: [node_modules, gulpfile.js, source]
 # Build settings
 markdown: kramdown
 
-permalink: /:categories/:year/:month/:title/
-
 # Collections
 collections:
   collecting:
@@ -39,6 +37,30 @@ defaults:
       path: ""
       type: collecting
     values:
+      layout: collecting
+  - scope:
+      path: "_posts/"
+      type: posts
+    values:
+      category: writing
+      permalink: /:categories/:year/:month/:title/
+      filed-under: /writing/
+      layout: post
+  - scope:
+      path: "_posts/links"
+      type: posts
+    values:
+      category: links
+      permalink: /collecting/:categories/:year/:month/:title/
+      filed-under: /collecting/links/
+      layout: collecting
+  - scope:
+      path: "_posts/thoughts"
+      type: posts
+    values:
+      category: thoughts
+      permalink: /collecting/:categories/:year/:month/:title/
+      filed-under: /collecting/thoughts/
       layout: collecting
   - scope:
       path: ""

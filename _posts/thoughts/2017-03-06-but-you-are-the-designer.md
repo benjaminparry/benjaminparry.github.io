@@ -1,9 +1,10 @@
 ---
+type: post
 category: thoughts
 title: You’re the designer, isn’t this your job?
 date: 2017-03-06 13:52:23
 posse: 🤔 You’re the designer, isn’t this your job? - Thoughts on collaborative UX + Dev sessions
-tags: [sketching, collaboration, clearleft]
+tags: [sketching, collaboration]
 published: true
 ---
 
