@@ -4,7 +4,7 @@ title: Omni-cancel
 date: 2019-04-20 09:03:16
 categories: thoughts
 tags: [omnichannel, automation]
-posse: 🤔 I’ve just been told about of a great experience using a taxi service telephone channel
+posse: I’ve just been told about of a great experience using a taxi service telephone channel
 published: true
 ---
 

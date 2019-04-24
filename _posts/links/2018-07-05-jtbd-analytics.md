@@ -4,7 +4,7 @@ title: JTBD Analytics - What jobs are site visitors trying to get done?
 date: 2018-07-05 13:40:10
 categories: links
 tags: [jtbd, analytics]
-posse: 🔗 An interesting method of surfacing jobs from website analytics data such as search logs.
+posse: An interesting method of surfacing jobs from website analytics data such as search logs.
 published: true
 
 author: Jonathan Briggs

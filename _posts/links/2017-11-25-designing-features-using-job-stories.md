@@ -4,7 +4,7 @@ title: Designing features using Job Stories
 date: 2017-11-25 22:11:15
 link: https://blog.intercom.com/using-job-stories-design-features-ui-ux/
 author: Alan Klement
-posse: 🔗 Alan Klement explaining how JTBD job stories can help during the feature design phase. Bonus links to comments highlights!
+posse: Alan Klement explaining how JTBD job stories can help during the feature design phase. Bonus links to comments highlights!
 tags: [jtbd, job-stories]
 notes: true
 published: true

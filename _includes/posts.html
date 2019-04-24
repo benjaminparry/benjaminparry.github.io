@@ -4,7 +4,7 @@
 			<a class="u-url u-syndication" href="{{ post.url }}" rel="syndication">{{ post.title }}</a>
 		</h1>
 		<p class="p-name e-content">
-			{{ post.posse }}
+			{% if post.category == "thoughts" %}🤔️{% endif %}{% if post.category == "links" %}🔗️{% endif %}{% if post.category == "lists" %}✏️{% endif %} {{ post.posse }}
 			{% if post.notes %}
 			<a class="u-url u-syndication" href="{{ post.url }}" rel="syndication">Read my notes</a>
 			{% endif %}

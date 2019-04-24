@@ -12,33 +12,9 @@ layout: default
 <h1 class="heading heading--alpha">Collecting: links</h1>
 
 <ul class="reset-list list--divided">
-	{% for item in site.collecting reversed | sort: 'date' %}
-	{% if item.category contains 'links' %}
-	<li>
-		<article class="h-entry">
-			<h1 class="p-description">
-				<a class="u-url u-syndication" href="{{ item.url }}" rel="syndication">{{ item.title }}</a>
-			</h1>
-			<p class="p-name e-content">
-				{{ item.posse }}
-        {% if item.notes %}
-        <a class="u-url u-syndication" href="{{ item.url }}" rel="syndication">Read my notes</a>
-        {% endif %}
-			</p>
-			<footer class="utility-font-size-80">
-				<ul class="meta">
-          {% if item.author %}
-          <li>
-            Article author: {{ item.author }}
-          </li>
-          {% endif %}
-          <li>
-            Collected: <time class="dt-published" datetime="{{ item.date | date: "%d %B %Y" }}">{{ item.date | date: "%d %B %Y" }}</time>
-          </li>
-				</ul>
-			</footer>
-		</article>
-	</li>
-	{% endif %}
-	{% endfor %}
+  {% for post in site.categories.links %}
+
+    {% include posts.html %}
+
+  {% endfor %}
 </ul>

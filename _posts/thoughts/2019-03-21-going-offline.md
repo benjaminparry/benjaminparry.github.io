@@ -2,7 +2,7 @@
 category: thoughts
 title: Offline Homebrewing
 date: 2019-03-21 19:33:04
-posse: 🤔 Going Offline - Adventures online/offline at the rebooted Homebrew Website Club @clearleft
+posse: Going Offline - Adventures online/offline at the rebooted Homebrew Website Club @clearleft
 tags: [indieweb]
 published: true
 redirect_from: "/collecting/thoughts/2018/03/going-offline/"
