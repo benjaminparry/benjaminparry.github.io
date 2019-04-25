@@ -1,5 +1,4 @@
 ---
-category: thoughts
 title: Offline Homebrewing
 date: 2019-03-21 19:33:04
 posse: Going Offline - Adventures online/offline at the rebooted Homebrew Website Club @clearleft

@@ -1,5 +1,4 @@
 ---
-category: thoughts
 title: Homebrew Tags
 date: 2019-04-17 21:30:00
 posse: Twisting off the lid of my website and adding tags at Homebrew Website Club

@@ -4,7 +4,8 @@
 			<a class="u-url u-syndication" href="{{ post.url }}" rel="syndication">{{ post.title }}</a>
 		</h1>
 		<p class="p-name e-content">
-			{% if post.category == "thoughts" %}🤔️{% endif %}{% if post.category == "links" %}🔗️{% endif %}{% if post.category == "lists" %}✏️{% endif %} {{ post.posse }}
+			<span style="margin-left:-25px;">{% if post.category == "thoughts" %}🤔️{% endif %}{% if post.category == "links" %}🔗️{% endif %}{% if post.category == "writing" %}✏️{% endif %}</span> {{ post.posse }}
+
 			{% if post.notes %}
 			<a class="u-url u-syndication" href="{{ post.url }}" rel="syndication">Read my notes</a>
 			{% endif %}
@@ -12,7 +13,7 @@
 		<footer class="utility-font-size-80">
 			<ul class="meta">
 				<li>
-					Filed under: <a href="{{ post.filed-under }}">{{ post.categories }}</a>
+					Filed under: <a href="{{ post.filed-under }}">{{ post.category }}</a>
 				</li>
 
 				{% if post.tags != empty %}

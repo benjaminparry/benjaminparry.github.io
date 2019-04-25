@@ -1,5 +1,4 @@
 ---
-category: thoughts
 title: Shared understanding - Keeping your assumptions in check
 date: 2017-02-28 12:00:00
 posse: Build better shared understanding by leading from a macro to micro level

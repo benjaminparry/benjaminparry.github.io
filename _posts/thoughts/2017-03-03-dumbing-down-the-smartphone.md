@@ -1,5 +1,4 @@
 ---
-category: thoughts
 title: Smartphone vs Dumbphone - where’s the middle ground?
 date: 2017-03-03 10:18:59
 posse: Is going “full dumbphone” really necessary? Here’s my thoughts on dumbing down the smartphone

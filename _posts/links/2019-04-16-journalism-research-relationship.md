@@ -4,7 +4,7 @@ title: The journalism user research relationship
 date: 2019-04-16 14:08:35
 categories: links
 tags: [research]
-posse: greggcorp outlines the relationships between journalism and user research.
+posse: "@greggcorp outlines the relationships between journalism and user research."
 published: true
 
 author: Gregg Bernstein

@@ -1,5 +1,4 @@
 ---
-category: thoughts
 title: HTML Prototyping 101 - Offline Mode
 date: 2017-02-28 11:00:00
 posse: HTML Prototyping 101 - Build with the assumption you’ll be demoing them without an internet connection

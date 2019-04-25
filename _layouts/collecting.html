@@ -21,7 +21,7 @@ layout: default
 <article class="h-entry">
 	<h1 class="p-name heading heading--alpha">{{ page.title }}</h1>
 	<p class="p-description posse p-summary">
-    {% if page.category == "thoughts" %}🤔️{% endif %}{% if page.category == "links" %}🔗️{% endif %}{% if page.category == "lists" %}✏️{% endif %} {{ page.posse }}{% if page.category == "links" %} <a class="u-url" href="{{ page.link }}" target="_blank">{{ page.link }}</a>{% endif %}
+    {% if page.category == "thoughts" %}🤔️{% endif %}{% if page.category == "links" %}🔗️{% endif %}{% if page.category == "writing" %}✏️{% endif %} {{ page.posse }}{% if page.category == "links" %} <a class="u-url" href="{{ page.link }}" target="_blank">{{ page.link }}</a>{% endif %}
   </p>
 	<div class="e-content">
     {% if page.category == "links" %}

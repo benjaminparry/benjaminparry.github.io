@@ -39,7 +39,7 @@ defaults:
     values:
       layout: collecting
   - scope:
-      path: "_posts/"
+      path: "_posts/writing"
       type: posts
     values:
       category: writing
