@@ -10,4 +10,10 @@ layout: default
 
 <h1 class="heading heading--alpha">Writing</h1>
 
-{% include posts.html %}
+<ul class="reset-list list--divided">
+  {% for post in site.categories.writing %}
+
+    {% include posts.html %}
+
+  {% endfor %}
+</ul>

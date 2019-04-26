@@ -1,0 +1,19 @@
+<ul class="meta">
+  <li>
+    Filed under: <a href="{{ post.filed-under }}">{{ post.category }}</a>
+  </li>
+
+  {% if post.tags != empty %}
+  <li>Tagged with:
+    <ul class="reset-list list list--inline list--csv">
+      {% for tag in post.tags %}
+      <li><a href="/tagging/{{ tag }}" class="tag">{{ tag }}</a></li>
+      {% endfor %}
+    </ul>
+  </li>
+  {% endif %}
+
+  <li>
+    {% if post.category == "writing" %}Written{% else %}Collected{% endif %}: <time class="dt-published" datetime="{{ post.date | date: "%d %B %Y" }}">{{ post.date | date: "%d %B %Y" }}</time>
+  </li>
+</ul>

@@ -12,12 +12,28 @@ layout: default
 
 <h1 class="heading heading--alpha">Tagging</h1>
 
-<ul class="tags">
-{% for tag in site.tags %}
+<ul class="reset-list tags">
+  {% assign sorted_tags = (site.tags | sort:0) %}
+  {% for tag in sorted_tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
   <li><a href="/tagging/{{ t }}">{{t | downcase | replace:"-"," " }}</a>
-  <small>{{ posts | size }}</small>
+  <small><span class="tags__size">{{ posts | size }}</span><span class="tags__visualisation" style="width: {{ posts | size | times: 2 }}px;"></span></small>
   </li>
 {% endfor %}
 </ul>
+
+<style media="screen">
+  .tags li{
+    position: relative;
+    /* padding-left: 50%; */
+  }
+  .tags__visualisation {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 101%;
+    height: 100%;
+    background-color: #989898;
+  }
+</style>

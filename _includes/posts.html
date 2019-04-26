@@ -1,18 +1,19 @@
-<ul class="reset-list list--divided">
-	{% for post in site.posts %}
-	<li class="e-content">
-		<article class="h-entry">
-			<h1><a rel="syndication" href="{{ post.url }}" class="p-name u-url u-syndication">{{ post.title }}</a></h1>
-			<p class="p-description">{{ post.description }}</p>
-			<footer class="utility-font-size-80">
-				<ul>
-					<li class="meta">
-						Posted: <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %e, %Y" }}</time>
-					</li>
-					<!-- <li>{{ post.tags }}</li> -->
-				</ul>
-			</footer>
-		</article>
-	</li>
-	{% endfor %}
-</ul>
+<li>
+	<article class="h-entry">
+		<h1 class="p-description">
+			<a class="u-url u-syndication" href="{{ post.url }}" rel="syndication">{{ post.title }}</a>
+		</h1>
+		<p class="p-name e-content">
+			{% include post-emojis.html %} {{ post.posse }}
+
+			{% if post.notes %}
+			<a class="u-url u-syndication" href="{{ post.url }}" rel="syndication">Read my notes</a>
+			{% endif %}
+		</p>
+		<footer class="utility-font-size-80">
+
+			{% include post-meta.html %}
+
+		</footer>
+	</article>
+</li>

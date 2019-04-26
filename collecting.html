@@ -12,40 +12,11 @@ layout: default
 <h1 class="heading heading--alpha">Collecting:</h1>
 
 <ul class="reset-list list--divided">
-	{% for item in site.collecting reversed | sort: 'date' %}
-	<li>
-		<article class="h-entry">
-			<h1 class="p-description">
-				<a class="u-url u-syndication" href="{{ item.url }}" rel="syndication">{{ item.title }}</a>
-			</h1>
-			<p class="p-name e-content">
-				{{ item.posse }}
-        {% if item.notes %}
-        <a class="u-url u-syndication" href="{{ item.url }}" rel="syndication">Read my notes</a>
-        {% endif %}
-			</p>
-			<footer class="utility-font-size-80">
-				<ul class="meta">
-          <li>
-            Filed under: <a href="/collecting/{{ item.category }}/">{{ item.category }}</a>
-          </li>
+{% for post in site.posts %}
+    {% if post.categories contains "thoughts" or post.categories contains "links" %}
 
-          {% if item.tags != empty %}
-          <li>Tagged with:
-            <ul class="">
-              {% for tag in item.tags %}
-              <li><a href="/tagging/{{ tag }}" class="tag">{{ tag }}</a></li>
-              {% endfor %}
-            </ul>
-          </li>
-          {% endif %}
+    {% include posts.html %}
 
-          <li>
-            Collected: <time class="dt-published" datetime="{{ item.date | date: "%d %B %Y" }}">{{ item.date | date: "%d %B %Y" }}</time>
-          </li>
-				</ul>
-			</footer>
-		</article>
-	</li>
-	{% endfor %}
+    {% endif %}
+{% endfor %}
 </ul>
