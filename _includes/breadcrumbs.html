@@ -1,0 +1,20 @@
+<ul class="reset-list list list--inline list--breadcrumb utility-font-size-80">
+  <li><a href="/">Home</a></li>
+  {% if page.category == "writing" %}
+  <li><a href="/writing/">Writing</a></li>
+  {% else %}
+  <li><a href="/collecting/">Collecting</a></li>
+  <li>
+    {% if page.category == "thoughts" %}
+    <a href="/collecting/thoughts/">Thoughts</a>
+    {% endif %}
+    {% if page.category == "links" %}
+    <a href="/collecting/links/">Links</a>
+    {% endif %}
+    {% if page.category == "lists" %}
+    <a href="/collecting/lists/">Lists</a>
+    {% endif %}
+  </li>
+  {% endif %}
+  <li><span>{{ page.title }}</span></li>
+</ul>

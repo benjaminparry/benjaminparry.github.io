@@ -2,7 +2,7 @@
 title: Taking time to form a writing habit
 date: 2017-03-02 15:36:08
 posse: I’m taking time out to write in hopes of forming a healthier habit
-tags: [writing]
+tags: []
 published: true
 ---
 

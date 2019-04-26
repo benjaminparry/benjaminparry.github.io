@@ -2,7 +2,7 @@
 title: Responsive Day Out 2013
 posse: My notes for Responsive Day Out 2013.
 category: writing
-tags: [responsive, conference, brighton]
+tags: [conference]
 published: true
 redirect_from: "/writing/responsive-day-out-2013/"
 ---

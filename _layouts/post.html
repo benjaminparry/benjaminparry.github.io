@@ -2,40 +2,50 @@
 layout: default
 ---
 
-{% assign post = page %}
-
-<ul class="reset-list list list--inline list--breadcrumb utility-font-size-80">
-  <li><a href="/">Home</a></li>
-  <li><a href="/writing/">Writing</a></li>
-  <li><span>{{ page.title }}</span></li>
-</ul>
+{% include breadcrumbs.html %}
 
 <article class="h-entry">
 	<h1 class="p-name heading heading--alpha">{{ page.title }}</h1>
 	<p class="p-description posse p-summary">
-    {{ page.posse }}
+    {% if page.category == "thoughts" %}🤔️{% endif %}{% if page.category == "links" %}🔗️{% endif %}{% if page.category == "writing" %}✏️{% endif %} {{ page.posse }}{% if page.category == "links" %} <a class="u-url" href="{{ page.link }}" target="_blank">{{ page.link }}</a>{% endif %}
   </p>
 	<div class="e-content">
+    {% if page.category == "links" %}
+    {% if page.notes %}
+    <h2>My notes</h2>
+    {% endif %}
+    {% endif %}
 		{{ content }}
 	</div>
-	<footer class="page-footer">
-    <ul>
+  <footer class="page-footer">
+
+    <!--
+    Repetition here, would prefer to use below
+    {% include post-meta.html %}
+    -->
+
+    <ul class="meta">
       <li>Author: <a href="{{ page.url }}" rel="author" class="p-author h-card">Benjamin Parry</a></li>
-      <li>Published: <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y" }}</time></li>
+      <li>
+        Filed under: <a href="{{ page.filed-under }}">{{ page.category }}</a>
+      </li>
 
       {% if page.tags != empty %}
       <li>Tagged with:
-        <ul class="">
-        {% for tag in page.tags %}
-        <li><a href="/tagging/{{ tag }}" class="tag">{{ tag }}</a></li>
-        {% endfor %}
+        <ul class="reset-list list list--inline list--csv">
+          {% for tag in page.tags %}
+          <li><a href="/tagging/{{ tag }}" class="tag">{{ tag }}</a></li>
+          {% endfor %}
         </ul>
       </li>
       {% endif %}
 
-      <li><a rel="syndication" href="{{ page.url }}" class="u-url u-syndication">Permalink</a></li>
+      <li>
+        {% if page.category == "writing" %}Written{% else %}Collected{% endif %}: <time class="dt-published" datetime="{{ page.date | date: "%d %B %Y" }}">{{ page.date | date: "%d %B %Y" }}</time>
+      </li>
     </ul>
-	</footer>
+
+  </footer>
   <div class="off-screen">
     <!-- Bridg.ly POSSE link -->
     <a href="https://brid.gy/publish/twitter"></a>

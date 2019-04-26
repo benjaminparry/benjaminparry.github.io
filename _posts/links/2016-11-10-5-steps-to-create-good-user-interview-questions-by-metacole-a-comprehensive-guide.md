@@ -4,7 +4,8 @@ title: 5 Steps to Create Good User Interview Questions By @Metacole — A Co
 date: 2016-11-10
 link: https://medium.com/interactive-mind/5-steps-to-create-good-user-interview-questions-by-metacole-a-comprehensive-guide-8a591b0e2162#.z4w6v6akt
 author: Teo Yu Sheng
-posse: 
+posse: 5 Steps to Create Good User Interview Questions By @Metacole — A Comprehensive Guide
+tags: [interview, research]
 notes: true
 ---
 
@@ -15,7 +16,7 @@ notes: true
 * Badly scripted questions can:
   * result in biased questions and therefore biased answers
   * lead to a flawed foundation to product and business decisions
-  
+
 ### 1. Start with a problem statement
 
 * What are the questions you want answered?

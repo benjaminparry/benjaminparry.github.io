@@ -2,7 +2,7 @@
 title: Homebrewing - First Drop
 posse: Attending the inaugural Homebrew Website Club at 68 Middle Street Brighton
 category: writing
-tags: [indieweb, brighton]
+tags: [indieweb]
 published: true
 ---
 

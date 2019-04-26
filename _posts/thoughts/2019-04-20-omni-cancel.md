@@ -1,8 +1,8 @@
 ---
 title: Omni-cancel
 date: 2019-04-20 09:03:16
-tags: [omnichannel, automation]
 posse: I’ve just been told about of a great experience using a taxi service telephone channel
+tags: [omnichannel, automation]
 published: true
 ---
 

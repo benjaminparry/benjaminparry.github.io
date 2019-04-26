@@ -53,7 +53,7 @@ defaults:
       category: links
       permalink: /collecting/:categories/:year/:month/:title/
       filed-under: /collecting/links/
-      layout: collecting
+      layout: post
   - scope:
       path: "_posts/thoughts"
       type: posts
@@ -61,7 +61,7 @@ defaults:
       category: thoughts
       permalink: /collecting/:categories/:year/:month/:title/
       filed-under: /collecting/thoughts/
-      layout: collecting
+      layout: post
   - scope:
       path: ""
       type: my_tags

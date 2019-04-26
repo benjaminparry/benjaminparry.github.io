@@ -2,7 +2,7 @@
 title: UX Camp Brighton 2016
 posse: Notes from UX Camp Brighton 2016 sessions
 category: writing
-tags: [brighton, user-experience, unconference]
+tags: [user-experience, unconference]
 published: true
 ---
 
