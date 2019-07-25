@@ -41,16 +41,16 @@ layout: default
       {% endif %}
 
       <li>
-        {% if page.category == "writing" %}Written{% else %}Collected{% endif %}: <time class="dt-published" datetime="{{ page.date | date: "%d %B %Y" }}">{{ page.date | date: "%d %B %Y" }}</time>
+        {% if page.category == "writing" %}Written{% else %}Collected{% endif %}: <time class="dt-published" datetime="{{ page.date" }}">{{ page.date | date: "%d %B %Y" }}</time>
       </li>
 			<li>
-				Permalink: <a href="{{ page.url }}">Permalink</a>
+				Permalink: <a class="u-url" href="{{ page.url }}">Permalink</a>
 			</li>
     </ul>
 
   </footer>
   <div class="off-screen">
     <!-- Bridg.ly POSSE link -->
-    <a class="u-url" href="https://brid.gy/publish/twitter"></a>
+    <a href="https://brid.gy/publish/twitter"></a>
   </div>
 </article>
