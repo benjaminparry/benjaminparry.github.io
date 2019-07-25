@@ -41,7 +41,7 @@ layout: default
       {% endif %}
 
       <li>
-        {% if page.category == "writing" %}Written{% else %}Collected{% endif %}: <time class="dt-published" datetime="{{ page.date" }}">{{ page.date | date: "%d %B %Y" }}</time>
+        {% if page.category == "writing" %}Written{% else %}Collected{% endif %}: <time class="dt-published" datetime="{{ page.date }}">{{ page.date | date: "%d %B %Y" }}</time>
       </li>
 			<li>
 				Permalink: <a class="u-url" href="{{ page.url }}">Permalink</a>
