@@ -10,7 +10,7 @@ It’s hot, really hot. To beat the sweaty squeeze on the bus I decided to hang 
 
 After a good 20 minutes nerding out with Jeremy over the recent Apollo 11 delights on offer, I turned my focus to my neglected website.
 
-I’ve been playing a lot recently, switching up the site source code and trying not to break any URLs. So I decided to double check I hadn’t also broken any Indieweb goodness I had brewed in.
+A few months ago I played around with making my site a PWA, adding tags to my posts and generally switching up the site source code, trying not to break any URLs. I decided a quick win would be to double check I hadn’t also broken any Indieweb goodness I had previously brewed in.
 
 Turns out I had. So I spent the ~60 mins rebuilding some of what I’d broken or removed.
 
