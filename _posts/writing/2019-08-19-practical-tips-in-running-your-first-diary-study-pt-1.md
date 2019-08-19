@@ -70,19 +70,13 @@ Incentives will depend on the length of the study, the number, frequency and typ
 
 The week before the study begins, it’s important to check-in with your participants to talk through the expectations of the research and answer their questions. Depending on your recruitment process this may be the first time you’ve been in direct contact with them, so think of this as the start of your rapport-building. A diary study often involves participants sharing personal aspects of their lives so showing you are trustworthy at this point will pay dividends during the study. With this in mind, we highly recommend doing this face-to-face if you can, or via a video call as an alternative.
 
-Once the study has started, it’s easy to focus on participants that are less engaged, have technical problems or general questions.
-
-While it’s important to address participants in need, it's just as important to reassure participants who are completing entries without problems.
-
-We find it useful to write a couple of stock emails before the study begins, one to encourage less engaged participants, and another to reassure participants that are on track. Having these responses in reserve helps to free up time to do research instead of admin.
+Once the study has started, it’s easy to focus on participants that are less engaged, have technical problems or general questions. While it’s important to address participants in need, it's just as important to reassure participants who are completing entries without problems. We find it useful to write a couple of stock emails before the study begins, one to encourage less engaged participants, and another to reassure participants that are on track. Having these responses in reserve helps to free up time to do research instead of admin.
 
 It’s inevitable that a small number of your participants will completely disengage during the study, so it’s worth recruiting a few extra participants to ensure you meet your target number of interviews. An early conversation with your client or stakeholder about this helps to avoid misunderstandings about the quality of the participants and your recruitment efforts.
 
 ## Scheduling
 
-Be mindful of when your study will be conducted and whether events around that time may cause unintended or unexpected behaviour.
-
-For example, results from a diary study learning how families consume digital media conducted during term time would be vastly different from that during school holidays.
+Be mindful of when your study will be conducted and whether events around that time may cause unintended or unexpected behaviour. For example, results from a diary study learning how families consume digital media conducted during term time would be vastly different from that during school holidays.
 
 Depending on your sample size and time constraints, you may want to consider splitting your participants into two or more groups, and stagger the study over a number of weeks. A staggered schedule helps to ease the intensity of monitoring diary entries, enabling you to avoid key dates for all of your participants e.g. public holidays. It also creates an opportunity to learn and adapt the study over a longer period of time.
 
