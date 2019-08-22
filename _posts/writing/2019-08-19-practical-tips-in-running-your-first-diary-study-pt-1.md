@@ -28,11 +28,11 @@ Diary studies can also be a resource-intensive method to setup and run. Here are
 
 ## Evaluating tools
 
-Having a reliable and easy-to-use tool for submitting and analysing diary entries is fundamental to a successful diary study. We recommend investigating the options available long before your study begins.
+Having a reliable and easy-to-use tool for submitting and analysing diary entries is fundamental to a successful diary study. I recommend investigating the options available long before your study begins.
 
-There are many digital diary study tools on the market, most of which offer a free trial or a demo. We highly recommend setting up a 1:1 call to run through the software and answer any questions you might have. Many have an example project to run through that will give you a feel for the study setup, entry monitoring and analysis features on offer. This is also your opportunity to talk about pricing if you are on a restricted budget.
+There are many digital diary study tools on the market, most of which offer a free trial or a demo. I highly recommend setting up a 1:1 call to run through the software and answer any questions you might have. Many have an example project to run through that will give you a feel for the study setup, entry monitoring and analysis features on offer. This is also your opportunity to talk about pricing if you are on a restricted budget.
 
-We’d advise getting your hands on a trial version and running a pilot study with your internal team. Doing this helps to weed out any problems you or your participants might have. You might want to consider:
+I’d advise getting your hands on a trial version and running a pilot study with your internal team. Doing this helps to weed out any problems you or your participants might have. You might want to consider:
 
 * **Participant onboarding** and app setup. How many hoops do your participants need to jump through to get started? Are participants able to get setup unaided?
 * **Diary study entry submission.** What is the experience like for the participant submitting entries? Does it allow for structured tasks and open entries?
@@ -56,7 +56,7 @@ Designing how your participants submit their entries is a careful balancing act,
 
 Use the result of your pilot study to guide your decisions.
 
-One useful technique we’ve used is to reserve a few spot tasks to be completed during the study. These give you a little bit of flexibility during the study to ask deeper questions around themes that begin to emerge. Tasks may involve replying to an email with questions about a particular diary entry, completing an online survey or a specific task or mission.
+One useful technique I’ve used is to reserve a few spot tasks to be completed during the study. These give you a little bit of flexibility during the study to ask deeper questions around themes that begin to emerge. Tasks may involve replying to an email with questions about a particular diary entry, completing an online survey or a specific task or mission.
 
 With your tasks agreed, it’s time to write a guide to onboard your study participants. This should set the expectations of the study clearly, written in a language they understand. Your friendly neighbourhood content writer will be pleased to help here; if your neighbourhood doesn’t have one, go out and find one, they’re awesome and indispensable!
 
@@ -64,13 +64,13 @@ With your tasks agreed, it’s time to write a guide to onboard your study parti
 
 With your study guide written and given the seal of approval by your new content buddy, it’s time to brief your participants.
 
-At this point we’re going to assume you’ve properly screened your participants. They are being incentivised for their time and are willing to take part in a follow-up interview. They’ve also received your study guide ahead of the study start date.
+At this point I’m going to assume you’ve properly screened your participants. They are being incentivised for their time and are willing to take part in a follow-up interview. They’ve also received your study guide ahead of the study start date.
 
 Incentives will depend on the length of the study, the number, frequency and type of entries you require your participants to share. A quick way to validate your costs is to work out an hourly rate based on how long you expect your participants to be submitting entries for, over the course of the study. Ask yourself, “Would I go out of my way to contribute to the study for this amount?” If the answer is “no” it’s likely you’re participants will answer the same way. If you are using a recruitment agency they will be able to advise on incentive costs.
 
-The week before the study begins, it’s important to check-in with your participants to talk through the expectations of the research and answer their questions. Depending on your recruitment process this may be the first time you’ve been in direct contact with them, so think of this as the start of your rapport-building. A diary study often involves participants sharing personal aspects of their lives so showing you are trustworthy at this point will pay dividends during the study. With this in mind, we highly recommend doing this face-to-face if you can, or via a video call as an alternative.
+The week before the study begins, it’s important to check-in with your participants to talk through the expectations of the research and answer their questions. Depending on your recruitment process this may be the first time you’ve been in direct contact with them, so think of this as the start of your rapport-building. A diary study often involves participants sharing personal aspects of their lives so showing you are trustworthy at this point will pay dividends during the study. With this in mind, I highly recommend doing this face-to-face if you can, or via a video call as an alternative.
 
-Once the study has started, it’s easy to focus on participants that are less engaged, have technical problems or general questions. While it’s important to address participants in need, it's just as important to reassure participants who are completing entries without problems. We find it useful to write a couple of stock emails before the study begins, one to encourage less engaged participants, and another to reassure participants that are on track. Having these responses in reserve helps to free up time to do research instead of admin.
+Once the study has started, it’s easy to focus on participants that are less engaged, have technical problems or general questions. While it’s important to address participants in need, it's just as important to reassure participants who are completing entries without problems. I find it useful to write a couple of stock emails before the study begins, one to encourage less engaged participants, and another to reassure participants that are on track. Having these responses in reserve helps to free up time to do research instead of admin.
 
 It’s inevitable that a small number of your participants will completely disengage during the study, so it’s worth recruiting a few extra participants to ensure you meet your target number of interviews. An early conversation with your client or stakeholder about this helps to avoid misunderstandings about the quality of the participants and your recruitment efforts.
 
