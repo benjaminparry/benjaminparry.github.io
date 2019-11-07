@@ -6,11 +6,11 @@ tags: [raspberry-pi]
 published: true
 ---
 
-Back in 2015 the Raspberry Pi magazine MagPi was giving away a free Pi Zero in issue 40 and the public went wild for it. I too got caught up in the hysteria and after failing to track down a copy and the sought after free giveaway I tracked one down on the internet.
+Back in 2015 the Raspberry Pi magazine MagPi was giving away a free Pi Zero in issue 40 and the public went wild for it. I too got caught up in the hysteria and after failing to track down a copy, and the sought after free giveaway, I snapped one up on the internet.
 
 When it finally arrived I had no idea where to begin. Since then I’ve got to grips with the basics and have 2 more Pi’s to add to the collection. I’ve been experimenting with different projects and my confidence and knowledge is slowly growing.
 
-With experimentation comes failure, leading down dead-ends and head scratching confusion. Countless times I’ve had to reinstall the OS, update and configure the Pi piecing together the commands and steps from blogposts and installation guides.
+With experimentation comes failure, leading down dead-ends to head scratching confusion. Countless times I’ve had to reinstall the OS, update and configure the Pi piecing together the commands and steps from blog posts and installation guides.
 
 In an attempt to have a single reference point I am writing this guide for myself. It may well be of use to you too.
 
