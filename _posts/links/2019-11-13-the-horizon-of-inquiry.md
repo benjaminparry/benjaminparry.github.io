@@ -3,7 +3,7 @@ type: post
 title: The Horizon of Inquiry – To find time for research, don’t fight the flow—fit into it
 date: 2019-11-13
 categories: links
-tags: [research]
+tags: [research, agile]
 posse: "@mulegirl shares a model of fitting research into the flow of continuous work."
 published: true
 author: Erika Hall
