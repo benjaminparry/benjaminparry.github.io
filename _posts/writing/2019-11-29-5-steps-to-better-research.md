@@ -6,6 +6,14 @@ tags: [research, planning, recruitment, collaboration, analysis]
 published: true
 ---
 
+We deliver better research when we:
+
+* Have conversations early
+* Let the experts do the recruitment
+* Check the calendar
+* Use a balanced ratio of research and analysis
+* Share the journey
+
 # Have conversations early
 
 Shaping a research study properly is crucial for good results. Early conversations draw out learning objectives, assumptions, recruitment criteria and potential methods. Involving researchers in these discussions help to develop a solid project foundation and save time later on. Agency researchers benefit by receiving early indications of a client’s research maturity and helps frame future conversations and identify where the best value lies for the client. In-house researchers benefit by providing the inside knowledge of recent and related studies that can offer existing actionable insight, helping to avoid repeated studies at the cost to the organisation.
