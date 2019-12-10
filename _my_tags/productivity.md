@@ -1,4 +1,4 @@
 ---
 slug: productivity
-name: productivity
+name: Productivity
 ---
