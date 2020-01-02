@@ -1,0 +1,4 @@
+---
+slug: metaphor
+name: Metaphor
+---

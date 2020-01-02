@@ -1,0 +1,4 @@
+---
+slug: heuristics
+name: Heuristics
+---
