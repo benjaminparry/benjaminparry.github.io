@@ -1,0 +1,4 @@
+---
+slug: qualitative
+name: Qualitative
+---
