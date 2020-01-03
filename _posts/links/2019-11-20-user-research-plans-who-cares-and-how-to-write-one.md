@@ -1,6 +1,6 @@
 ---
 type: post
-title: User research plans: who cares and how to write one [with template]
+title: User research plans: who cares and how to write one - with template
 date: 2019-11-20 12:59:41
 categories: links
 tags: [research, planning, research-plan, research-objectives]
