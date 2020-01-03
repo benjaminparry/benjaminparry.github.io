@@ -1,3 +1,11 @@
+---
+title:
+posse: 
+category: writing
+tags: [raspberry-pi, openmediavault]
+published: false
+---
+
 https://pimylifeup.com/raspberry-pi-plex-server/
 
 
