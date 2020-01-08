@@ -1,0 +1,4 @@
+---
+slug: ethics
+name: Ethics
+---

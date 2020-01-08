@@ -1,0 +1,4 @@
+---
+slug: critique
+name: Critique
+---
