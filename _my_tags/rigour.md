@@ -1,0 +1,4 @@
+---
+slug: rigour
+name: Rigour
+---
