@@ -78,6 +78,10 @@ It’s inevitable that a small number of your participants will completely disen
 
 Be mindful of when your study will be conducted and whether events around that time may cause unintended or unexpected behaviour. For example, results from a diary study learning how families consume digital media conducted during term time would be vastly different from that during school holidays.
 
+Other dates to consider:
+* Valentine's day
+* Christmas
+
 Depending on your sample size and time constraints, you may want to consider splitting your participants into two or more groups, and stagger the study over a number of weeks. A staggered schedule helps to ease the intensity of monitoring diary entries, enabling you to avoid key dates for all of your participants e.g. public holidays. It also creates an opportunity to learn and adapt the study over a longer period of time.
 
 If you are running staggered start dates, it’s a good idea to group participants by location and ensure they start and end the study at the same time. This will save you the headache later when trying to schedule home-visit interviews across multiple cities.
