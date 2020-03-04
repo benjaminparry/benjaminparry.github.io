@@ -1,0 +1,4 @@
+---
+slug: okr
+name: OKR
+---
