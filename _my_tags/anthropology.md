@@ -1,0 +1,4 @@
+---
+slug: anthropology
+name: Anthropology
+---
