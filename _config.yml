@@ -63,6 +63,14 @@ defaults:
       filed-under: /collecting/thoughts/
       layout: post
   - scope:
+      path: "_posts/lists"
+      type: posts
+    values:
+      category: lists
+      permalink: /collecting/:categories/:title/
+      filed-under: /collecting/lists/
+      layout: post
+  - scope:
       path: ""
       type: my_tags
     values:
