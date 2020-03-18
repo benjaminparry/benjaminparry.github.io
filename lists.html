@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /collecting/lists/
 layout: default
 ---
@@ -38,4 +38,24 @@ layout: default
 	</li>
 	{% endif %}
 	{% endfor %}
+</ul> -->
+---
+permalink: /collecting/lists/
+layout: default
+---
+
+<ul class="reset-list list list--inline list--breadcrumb utility-font-size-80">
+  <li><a href="/">Home</a></li>
+  <li><a href="/collecting/">Collecting</a></li>
+	<li><span>Lists</span></li>
+</ul>
+
+<h1 class="heading heading--alpha">Collecting: lists</h1>
+
+<ul class="reset-list list--divided">
+  {% for post in site.categories.lists %}
+
+    {% include posts.html %}
+
+  {% endfor %}
 </ul>
