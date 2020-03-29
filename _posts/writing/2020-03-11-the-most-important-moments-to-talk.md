@@ -3,7 +3,7 @@ type: post
 title: The most important moments to talk to users
 date: 2020-03-11
 categories: links
-tags: [jtbd, interview, switch-interview, four-forces, product-design]
+tags: [jtbd, interview, switch-interview, four-forces, product]
 posse: "Jordan Jackson outlines the two most important moments to speak to customers."
 published: true
 author: Jordan Jackson

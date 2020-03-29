@@ -3,7 +3,7 @@ type: post
 title: Questions that I have found useful
 date: 2020-03-11
 categories: links
-tags: [research-questions, jtbd, quantitative, quantitative, survey, research-methods]
+tags: [research-questions, jtbd, quantitative, quantitative, survey, research-method]
 posse: "Jordan Jackson’s inspired post with a huge list of incredibly useful research questions to use with specific research methods."
 published: true
 author: Jordan Jackson

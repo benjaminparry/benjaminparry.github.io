@@ -8,7 +8,7 @@ published: true
 
 After the doors closed on the second day of July’s Indie Web Camp there was an immediate pang of sadness that I’d have to wait a whole year to be amongst such inspiring and active company.
 
-To my delight [Jeremy](adactio.com) and [Charlotte](http://www.lottejackson.com/) announced the Brighton Homebrew Website Club: a regular meetup for those with Indie pursuits to grab an hour of writing, coding, discussion. With no formal agenda set, it’s up to attendees make it their own.
+To my delight [Jeremy](https://adactio.com) and [Charlotte](http://www.lottejackson.com/) announced the Brighton Homebrew Website Club: a regular meetup for those with Indie pursuits to grab an hour of writing, coding, discussion. With no formal agenda set, it’s up to attendees make it their own.
 
 ## Doing rounds
 
