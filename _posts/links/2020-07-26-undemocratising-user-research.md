@@ -3,7 +3,7 @@ type: post
 title: "Undemocratising User Research"
 date: 2020-07-26
 categories: links
-tags: [research, collaboration]
+tags: [research, collaboration, democratization]
 posse: "@SaswatiSM’s argument against democratised research."
 published: true
 author: Saswati Saha Mitra
