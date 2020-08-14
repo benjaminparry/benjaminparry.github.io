@@ -4,7 +4,7 @@ title: UX research questions
 date: 2020-03-29
 author: Benjamin Parry
 posse: 📝 A list of UX research questions.
-notes: true
+notes: false
 published: false
 ---
 
