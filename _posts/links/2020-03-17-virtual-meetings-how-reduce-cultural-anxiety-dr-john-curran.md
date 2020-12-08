@@ -1,6 +1,6 @@
 ---
 type: post
-title: Virtual Meetings: How to reduce cultural anxiety
+title: "Virtual Meetings: How to reduce cultural anxiety"
 date: 2020-03-17
 categories: links
 tags: [culture, meeting, workshop, remote, anthropology]

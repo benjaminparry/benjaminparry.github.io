@@ -1,6 +1,6 @@
 ---
 type: post
-title: Reconciling the Differences in Our Data: A Mixed-Methods Research Story
+title: "Reconciling the Differences in Our Data: A Mixed-Methods Research Story"
 date: 2019-12-10
 categories: links
 tags: [research, mixed-methods, collaboration, qualitative, quantitive]
