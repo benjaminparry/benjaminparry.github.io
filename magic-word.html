@@ -4,10 +4,12 @@ layout: blank
 ---
 
 <style media="screen">
-  img {visibility:hidden;}
-  img:hover {cursor: crosshair;visibility:visible;}
+  img#static {opacity:0;}
+  img#static:hover {cursor: crosshair;opacity:1;}
+  img#animated {display:none;}
 </style>
-<img src="/assets/img/hiding/magic-word.gif" alt="" onclick="document.getElementById('magicword').play();">
+<img id="static" src="/assets/img/hiding/magic-word-static.gif" alt="" onclick="document.getElementById('magicword').play();document.getElementById('static').setAttribute('style', 'display:none;');document.getElementById('animated').setAttribute('style', 'display:block;');">
+<img id="animated" src="/assets/img/hiding/magic-word.gif" alt="">
 <audio id="magicword" src="/assets/audio/hiding/magic-word.mp3" loop autoplay type="audio/mpeg"></audio>
 
 
