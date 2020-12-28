@@ -26,11 +26,11 @@ Let’s begin.
 8. Type `yes` to confirm connection
 9. Type the default password `raspberry`
 10. Update the Raspberry Pi with the newest packages by typing `sudo apt update`
-11. Upgrade the packages by typing `sudo apt dist-upgrade`
+11. Upgrade the packages by typing `sudo apt full-upgrade`
 12. Type `y` to confirm the upgrade
 13. _Go make yourself a cup of tea…_
 14. Clean everything up by typing `sudo apt clean`
-15. Reboot by typing `sudo reboot`
+15. Reboot by typing `sudo shutdown -r now`
 16. Connect again via SSH again `ssh pi@{IP address}`
 17. Type the default password `raspberry`
 18. Start the Raspberry Pi configuration by typing `sudo raspi-config`
