@@ -1,6 +1,6 @@
 ---
 type: post
-title: "TBM 50/53: The Curse of "Success" Metrics"
+title: "TBM 50/53: The Curse of Success Metrics"
 date: 2020-12-28
 categories: links
 tags: [metric, measurement, culture]
