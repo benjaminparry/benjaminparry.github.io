@@ -11,9 +11,11 @@ layout: default
 
 <h1 class="heading heading--alpha">Collecting:</h1>
 
+<p>I collect <a href="/collecting/links">links</a> and <a href="/collecting/thoughts">thoughts</a>.</p>
+
 <ul class="reset-list list--divided">
 {% for post in site.posts %}
-    {% if post.categories contains "thoughts" or post.categories contains "links" %}
+    {% if post.categories contains "thoughts" or post.categories contains "links" or post.categories contains "lists" %}
 
     {% include posts.html %}
 
