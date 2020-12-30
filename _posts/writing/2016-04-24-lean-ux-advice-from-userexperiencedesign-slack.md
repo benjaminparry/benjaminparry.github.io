@@ -4,6 +4,7 @@ posse: Preserving some sound advice from the userexperiencedesign.slack.com comm
 category: writing
 tags: [lean-ux, user-experience]
 published: true
+type: post
 ---
 
 ## Gold Thread

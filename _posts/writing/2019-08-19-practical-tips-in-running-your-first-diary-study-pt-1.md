@@ -4,6 +4,7 @@ posse: Running a diary study can be tough work. Here are a few tips to start you
 category: writing
 tags: [research, diary-study, planning, research-method]
 published: true
+type: post
 ---
 
 Trying research methods for the first time can be daunting. While it’s helpful to add new methods to your toolkit, it’s also important not to let the learning curve interfere with the results. Here are a few planning tips to get the most out of running your first diary study.

@@ -6,6 +6,7 @@ author: Benjamin Parry
 posse: 📝 A list of remote research resources.
 notes: false
 published: false
+type: post
 ---
 
 ## Workshop

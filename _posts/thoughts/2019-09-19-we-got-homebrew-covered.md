@@ -4,6 +4,7 @@ date: 2019-09-19 18:19:44
 posse: An evening of beer @eleven_ty and music covers
 tags: [indieweb, eleventy]
 published: true
+type: post
 ---
 
 I’ve been precariously rebuilding my current site locally using Eleventy on my work computer without pushing any of the progress to another location. In fear of loosing all the hard work I decided to carve out some time to join the good folk at [Homebrew Brighton](https://indieweb.org/events/2019-09-26-homebrew-website-club).

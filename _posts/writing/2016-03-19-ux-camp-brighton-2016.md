@@ -4,6 +4,7 @@ posse: Notes from UX Camp Brighton 2016 sessions
 category: writing
 tags: [user-experience, unconference]
 published: true
+type: post
 ---
 
 <h2><a href="#the-first-30-seconds-user-onboarding" class="heading__anchor" id="the-first-30-seconds-user-onboarding">The First 30 Seconds: Let’s Talk User Onboarding</a></h2>

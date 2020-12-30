@@ -4,6 +4,7 @@ posse: For some, guerrilla testing is a dirty word. Isn’t it about time we cel
 category: writing
 tags: [guerrilla-testing, research-method]
 published: true
+type: post
 ---
 
 For some, guerrilla testing is a dirty word. A victim of its own success, its overuse has given it a bad rap. Thanks to the ever-growing research community ReOps, research is gaining more room at the table. Isn’t it about time we celebrated the strengths of guerrilla testing?

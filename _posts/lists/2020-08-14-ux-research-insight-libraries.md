@@ -6,6 +6,7 @@ author: Benjamin Parry
 posse: 📝 A list of UX research insight library resources.
 notes: false
 published: false
+type: post
 ---
 
 Polaris

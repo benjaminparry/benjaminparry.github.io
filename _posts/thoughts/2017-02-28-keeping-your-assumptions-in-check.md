@@ -4,6 +4,7 @@ date: 2017-02-28 12:00:00
 posse: Build better shared understanding by leading from a macro to micro level
 tags: []
 published: true
+type: post
 ---
 
 The last 5 weeks at [Clearleft](http://clearleft.com/){:target="_blank"} has presented the opportunity to work with people from a wide range of disciplines and backgrounds, each with a wealth of experience to boot. Hopping from one project to another has exposed me to their preferred methods and personal twists on problem-solving techniques, some of these familiar to me, others not.

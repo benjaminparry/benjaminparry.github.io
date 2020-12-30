@@ -4,6 +4,7 @@ date: 2017-03-03 10:18:59
 posse: Is going “full dumbphone” really necessary? Here’s my thoughts on dumbing down the smartphone
 tags: [technology]
 published: true
+type: post
 ---
 
 Ben W recently wrote a post about the [relaunched Nokia 3310](https://clearleft.com/posts/433){:target="_blank"}. He’s not alone in the Clearleft HQ to approve of the reboot and there’s a general consensus that this is the start of the “backlash” against device addiction.

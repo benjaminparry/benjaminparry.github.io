@@ -4,6 +4,7 @@ posse: My notes from Andy Budd’s UserTesting webinar entitled Defeat the statu
 category: writing
 tags: [user-experience, culture-change]
 published: true
+type: post
 ---
 
 ## Deconstructing project failure

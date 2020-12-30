@@ -4,6 +4,7 @@ posse: A round up of my first week on the User Experience Design course at Gener
 category: writing
 tags: [user-experience, career-progression]
 published: true
+type: post
 ---
 
 ## Session 01 - Introduction

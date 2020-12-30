@@ -4,6 +4,7 @@ date: 2017-03-02 15:36:08
 posse: I’m taking time out to write in hopes of forming a healthier habit
 tags: []
 published: true
+type: post
 ---
 
 Coming off a rather intensive 2 weeks building a responsive HTML prototype, I’m taking some time to write up the notes from the last 6 weeks here are Clearleft.

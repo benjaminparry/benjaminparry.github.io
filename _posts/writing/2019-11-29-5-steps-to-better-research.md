@@ -4,6 +4,7 @@ posse: Time and again, decisions made during a research project come back to hau
 category: writing
 tags: [research, planning, recruitment, collaboration, analysis]
 published: true
+type: post
 ---
 
 We deliver better research when we:

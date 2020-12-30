@@ -5,6 +5,7 @@ category: writing
 tags: [conference]
 published: true
 redirect_from: "/writing/responsive-day-out-2013/"
+type: post
 ---
 
 After the inspirational talks at [Altitude](http://altitude.io/) and a short but sweet Shopify meetup the night after, I was hungry for the meat potatoes and pint o’Guinness portion of last-last-week’s web conference schedule.

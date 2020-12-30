@@ -1,6 +1,7 @@
 ---
 permalink: /making/mistakes/
 layout: default
+title: " ~ Making Mistakes"
 ---
 
 # Making Mistakes

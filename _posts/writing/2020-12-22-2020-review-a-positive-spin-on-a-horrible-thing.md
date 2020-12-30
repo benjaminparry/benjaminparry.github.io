@@ -4,6 +4,7 @@ posse: "2020 has been a swine of a year. Rather than dwell on the negatives I wa
 category: writing
 tags: [yearly-review, wilt]
 published: false
+type: post
 ---
 
 The majority of 2020 has been dire. FACT. Nobody needs another blog post to flog that dead horse. What we do need is a reminder of the good that we have done over last 12 months.

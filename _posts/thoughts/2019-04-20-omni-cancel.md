@@ -4,6 +4,7 @@ date: 2019-04-20 09:03:16
 posse: I’ve just been told about of a great experience using a taxi service telephone channel
 tags: [omnichannel, automation]
 published: true
+type: post
 ---
 
 Imagine a week or so ago you booked a taxi by phone but accidentally got the dates wrong and had to cancel.

@@ -4,6 +4,7 @@ date: 2017-02-28 11:00:00
 posse: HTML Prototyping 101 - Build with the assumption you’ll be demoing them without an internet connection
 tags: [prototype, offline]
 published: true
+type: post
 ---
 
 It won’t come as a surprise when I say building an HTML prototype from the comfort of the office is a lot different than building on public transport. Limited seating, the constant flow of passengers, the flaky and expensive onboard internet connection are just a few of the contributing factors that make it a less than ideal environment for productivity.

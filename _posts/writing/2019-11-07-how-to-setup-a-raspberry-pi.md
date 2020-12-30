@@ -4,6 +4,7 @@ posse: A step-by-step guide for setting up your Raspberry Pi.
 category: writing
 tags: [raspberry-pi]
 published: true
+type: post
 ---
 
 Back in 2015 the Raspberry Pi magazine MagPi was giving away a free Pi Zero in issue 40 and the public went wild for it. I too got caught up in the hysteria and after failing to track down a copy, and the sought after free giveaway, I snapped one up on the internet.

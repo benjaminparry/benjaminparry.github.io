@@ -4,6 +4,7 @@ posse: In my last post I described the merits of guerrilla testing compared with
 category: writing
 tags: [guerrilla-testing, research-method]
 published: true
+type: post
 ---
 
 Now that we’ve selected guerrilla testing as an appropriate method for our research, how do we make sure we get the best results?

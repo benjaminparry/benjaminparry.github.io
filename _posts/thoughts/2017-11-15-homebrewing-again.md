@@ -4,6 +4,7 @@ date: 2017-11-15 19:32:33
 posse: Homebrewing again - Attempting an automated POSSE webmention via brid.gy at tonight’s Homebrew Website Club
 tags: [indieweb]
 published: true
+type: post
 ---
 
 It’s been a while since I opened up a code editor. Since making the switch to research as a primary discipline I’ve either been working in Google Docs, sifting through data points or speaking with users. This is a win in my books.

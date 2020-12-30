@@ -2,7 +2,6 @@
 title: Benjamin Parry
 email: benjamin@parry.is
 
-
 github-project-url: https://github.com/benjaminparry/
 
 description: Benjamin Parry ~ Design Researcher ~ Personal Writings.
@@ -40,7 +39,7 @@ defaults:
       layout: collecting
   - scope:
       path: "_posts/writing"
-      type: posts
+      type: post
     values:
       category: writing
       permalink: /:categories/:year/:month/:title/
@@ -48,7 +47,7 @@ defaults:
       layout: post
   - scope:
       path: "_posts/links"
-      type: posts
+      type: post
     values:
       category: links
       permalink: /collecting/:categories/:year/:month/:title/
@@ -56,7 +55,7 @@ defaults:
       layout: post
   - scope:
       path: "_posts/thoughts"
-      type: posts
+      type: post
     values:
       category: thoughts
       permalink: /collecting/:categories/:year/:month/:title/
@@ -64,7 +63,7 @@ defaults:
       layout: post
   - scope:
       path: "_posts/lists"
-      type: posts
+      type: post
     values:
       category: lists
       permalink: /collecting/:categories/:title/

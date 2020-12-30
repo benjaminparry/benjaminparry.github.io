@@ -4,6 +4,7 @@ posse: Attending the inaugural Homebrew Website Club at 68 Middle Street Brighto
 category: writing
 tags: [indieweb]
 published: true
+type: post
 ---
 
 After the doors closed on the second day of July’s Indie Web Camp there was an immediate pang of sadness that I’d have to wait a whole year to be amongst such inspiring and active company.

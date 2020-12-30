@@ -4,7 +4,7 @@ posse: A retrospective piece on what I’ve gained from 3 years of volunteering 
 category: writing
 tags: [conference, career-progression]
 published: true
-
+type: post
 ---
 
 ## A little bit of history

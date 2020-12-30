@@ -4,6 +4,7 @@ posse: When you have the opportunity to add new methods to your UX research tool
 category: writing
 tags: [research, ethnography]
 published: true
+type: post
 ---
 
 When I joined Clearleft last year the bar for research was set high; **very high**. Working alongside Steph Troeth and the UX team I was given the opportunity and freedom—encouraged, even—to try new research methodologies, approaches and tools as well as honing my existing toolkit.

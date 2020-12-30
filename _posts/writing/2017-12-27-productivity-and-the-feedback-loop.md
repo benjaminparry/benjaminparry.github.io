@@ -4,6 +4,7 @@ posse: I was graciously asked by @alexduloz to write something about productivit
 category: writing
 tags: [productivity]
 published: true
+type: post
 ---
 
 On every project I’ve worked on, I’ve always found the moment of shipping incredibly emotional.

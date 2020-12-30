@@ -26,7 +26,8 @@
 	<meta name="keywords" content="benjamin, parry, benjamin parry, design, researcher, research, ux, user experience, designer, design{% if page.tags %}{% for tag in page.tags %}, {{ tag }}{% endfor %}{% else %}, writings, process{% endif %}">
 
 
-	<title class="p-name">{{ site.title }} {% if page.type == "post" %}@benjaminparry ~ {% endif %}{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+	<title class="p-name">{{ site.title }}{% if page.type == "post" %}{% if page.category == "thoughts" %}~ Thoughts ~{% endif %}{% if page.category == "links" %}~ Links ~{% endif %}{% if page.category == "writing" %}~ Writing ~{% endif %} {{ page.title }} ~ @benjaminparry{% else %}{% if page.type == "tag" %} ~ Tagging ~ {% endif %}{{ page.title }}{% endif %}
+	</title>
 
 	<!-- Icons -->
 	<link rel="shortcut icon" type="image/ico" src="/favicon.ico">

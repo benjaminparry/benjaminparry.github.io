@@ -6,6 +6,7 @@ author: Benjamin Parry
 posse: 📝 A list of UX research questions.
 notes: false
 published: false
+type: post
 ---
 
 * What am I trying to achieve?

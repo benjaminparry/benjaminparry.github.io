@@ -6,4 +6,5 @@ author: Benjamin Parry
 posse: 📝 A list of very talented people I’ve collaborated with. Hire them!
 notes: false
 published: false
+type: post
 ---

@@ -4,6 +4,7 @@ date: 2020-12-28
 posse: "Inspired by @craigmod’s tweet about using Twitter’s search to improve the experience I had a bit of a play myself."
 tags: [wilt]
 published: true
+type: post
 ---
 
 Craig Mod [posted a tweet](https://twitter.com/craigmod/status/1343210504378929152) explaining how using Twitter’s search can rollback the timeline to feel like “the good ol’ days”.

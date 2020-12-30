@@ -4,6 +4,7 @@ date: 2017-03-06 13:52:23
 posse: You’re the designer, isn’t this your job? - Thoughts on collaborative UX + Dev sessions
 tags: [sketching]
 published: true
+type: post
 ---
 
 During last week’s Clearleft UX Laundromat [Hana](https://twitter.com/hana_stevenson){:target="_blank"} asked for session suggestions for a workshop she’s running as part of the many [Spring Forward](http://wespringforward.com/){:target="_blank"} events happening in and around Brighton in March.

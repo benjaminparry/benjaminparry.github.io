@@ -4,6 +4,7 @@ posse: Testing webmentions for Jeremy.
 category: writing
 tags: [indieweb, unconference]
 published: true
+type: post
 ---
 
 ## Ahoy Hoy!

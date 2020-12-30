@@ -6,6 +6,7 @@ author: Benjamin Parry
 posse: 📝 A list of UX research usability labs in and around London and other major UK cities.
 notes: false
 published: false
+type: post
 ---
 
 ## UK

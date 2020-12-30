@@ -4,6 +4,7 @@ posse: Some tips on running Jekyll with Mixture.io.
 category: writing
 tags: [jekyll]
 published: true
+type: post
 ---
 
 ## Introducing Mixture

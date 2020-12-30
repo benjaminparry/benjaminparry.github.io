@@ -3,6 +3,7 @@ title: Inspiring, Inspired.
 posse: Some thoughts on giving back to the community.
 category: writing
 published: true
+type: post
 ---
 
 Last week I received a tweet, completely out of a blue, from someone who I respect and admire within the UX community. I’d had the pleasure of seeing them talk at a recent conference and  found the content and approach to the project fascinating as well as humorously delivered. Their tweet was complementary and encouraging in message and has since given me the impetus to find the time to work on my own projects and all-importantly, **give back to the community** starting again here with this post.

@@ -4,6 +4,7 @@ date: 2019-07-25 19:21:11
 posse: A long overdue, refreshing Homebrew to counter the current scorching heat
 tags: [indieweb]
 published: true
+type: post
 ---
 
 It’s hot, really hot. To beat the sweaty squeeze on the bus I decided to hang out with the Homebrew crew for a long overdue tinker with my site.
