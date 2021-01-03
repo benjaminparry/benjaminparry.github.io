@@ -12,7 +12,7 @@ notes: false
 
 One of our most important duties as parents is to expose our children to a diverse array of intersectional characters in the stories that shape their perception and beliefs of the world.
 
-_Note - This is an ongoing list. If you have any recommendations or spot any gaps of intersectionality, or indeed more appropriate and respectful language to use, please let me know on [Twitter](benjaminparry), [send me an email](mailto:benjamin@parry.is), or [create a pull request](https://github.com/benjaminparry/benjaminparry.github.io)._
+_Note - This is an ongoing list. If you have any recommendations or spot any gaps of intersectionality, or indeed more appropriate and respectful language to use, please let me know on [Twitter](https://twitter.com/benjaminparry), [send me an email](mailto:benjamin@parry.is), or [create a pull request](https://github.com/benjaminparry/benjaminparry.github.io)._
 
 ## Films
 
