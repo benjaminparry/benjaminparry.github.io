@@ -39,7 +39,7 @@ defaults:
       layout: collecting
   - scope:
       path: "_posts/writing"
-      type: post
+      type: posts
     values:
       category: writing
       permalink: /:categories/:year/:month/:title/
@@ -47,7 +47,7 @@ defaults:
       layout: post
   - scope:
       path: "_posts/links"
-      type: post
+      type: posts
     values:
       category: links
       permalink: /collecting/:categories/:year/:month/:title/
@@ -55,7 +55,7 @@ defaults:
       layout: post
   - scope:
       path: "_posts/thoughts"
-      type: post
+      type: posts
     values:
       category: thoughts
       permalink: /collecting/:categories/:year/:month/:title/
@@ -63,7 +63,7 @@ defaults:
       layout: post
   - scope:
       path: "_posts/lists"
-      type: post
+      type: posts
     values:
       category: lists
       permalink: /collecting/:categories/:title/

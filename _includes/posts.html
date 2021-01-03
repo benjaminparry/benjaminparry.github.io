@@ -1,15 +1,16 @@
 <li>
 	<article class="h-entry">
 		<h1 class="p-description">
-			<a class="u-url u-syndication" href="{{ post.url }}" rel="syndication">{{ post.title }}</a>
+			<a class="u-url u-syndication{% if post.category == 'links' %} u-bookmark-of{% endif %}" href="{% if post.category == 'links' %}{{ post.link }}{% else %}{{ post.url }}{% endif %}" rel="syndication">{{ post.title }}</a>
 		</h1>
 		<p class="p-name e-content">
 			{% include post-emojis.html %} {{ post.posse }}
-
-			{% if post.notes %}
-			<a class="u-url u-syndication" href="{{ post.url }}" rel="syndication">Read my notes</a>
-			{% endif %}
 		</p>
+		{% if post.notes %}
+		<p>
+			<a class="u-url u-syndication" href="{{ post.url }}#my-notes" rel="syndication">Read my notes</a>
+		</p>
+		{% endif %}
 		<footer class="utility-font-size-80">
 
 			{% include post-meta.html %}

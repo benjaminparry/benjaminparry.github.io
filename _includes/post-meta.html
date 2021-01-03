@@ -14,6 +14,6 @@
   {% endif %}
 
   <li>
-    {% if post.category == "writing" %}Written{% else %}Collected{% endif %}: <time class="dt-published" datetime="{{ post.date | date: "%d %B %Y" }}">{{ post.date | date: "%d %B %Y" }}</time>
+    {% if post.category == "writing" %}Written{% else %}Collected{% endif %}: <a class="u-url" rel="bookmark" href="{{ post.url }}"><time class="dt-published" datetime="{{ post.date | date: "%d %B %Y" }}">{{ post.date | date: "%d %B %Y" }}</time></a>
   </li>
 </ul>

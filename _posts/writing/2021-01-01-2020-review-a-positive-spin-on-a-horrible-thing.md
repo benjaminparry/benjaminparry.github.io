@@ -5,6 +5,7 @@ category: writing
 tags: [yearly-review, wilt]
 published: true
 type: post
+redirect_from: "writing/2021/01/2021-review-a-positive-spin-on-a-horrible-thing/"
 ---
 
 The majority of 2020 has been dire. FACT. Nobody needs another blog post to flog that dead horse. So here’s the reminder to myself that it wasn’t all that bad.
