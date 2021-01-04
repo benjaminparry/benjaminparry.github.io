@@ -3,7 +3,7 @@ category: lists
 title: UX Research Usability Labs in London and Other UK Cities
 date: 2017-12-01 16:22:43
 author: Benjamin Parry
-posse: 📝 A list of UX research usability labs in and around London and other major UK cities.
+posse: A list of UX research usability labs in and around London and other major UK cities.
 notes: false
 published: false
 type: post

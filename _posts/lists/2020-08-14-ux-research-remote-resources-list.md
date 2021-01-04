@@ -3,7 +3,7 @@ category: lists
 title: UX and design research remote resources list
 date: 2017-12-01 16:22:43
 author: Benjamin Parry
-posse: 📝 A list of remote research resources.
+posse: A list of remote research resources.
 notes: false
 published: false
 type: post

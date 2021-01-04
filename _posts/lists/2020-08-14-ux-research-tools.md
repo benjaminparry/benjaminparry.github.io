@@ -3,7 +3,7 @@ category: lists
 title: UX and Design Research Tools
 date: 2018-01-05 09:11:21
 author: Benjamin Parry
-posse: 📝 A list of UX and design research tools.
+posse: A list of UX and design research tools.
 notes: false
 published: false
 type: post

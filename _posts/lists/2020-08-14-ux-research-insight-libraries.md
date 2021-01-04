@@ -3,7 +3,7 @@ category: lists
 title: Research Insight Libraries
 date: 2019-03-04 15:07:47
 author: Benjamin Parry
-posse: 📝 A list of UX research insight library resources.
+posse: A list of UX research insight library resources.
 notes: false
 published: false
 type: post

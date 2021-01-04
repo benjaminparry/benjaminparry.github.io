@@ -2,7 +2,7 @@
 title: "Intersectional and diverse stories for children and young adults"
 date: 2021-01-03
 author: Benjamin Parry
-posse: 📝 A list of books, TV, films, comics suitable for children and young adults to introduce the concept of intersectionality and diversity.
+posse: A list of books, TV, films, comics suitable for children and young adults to introduce the concept of intersectionality and diversity.
 category: lists
 type: post
 tags: [diversity-inclusion]

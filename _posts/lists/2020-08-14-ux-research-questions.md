@@ -3,7 +3,7 @@ category: lists
 title: UX research questions
 date: 2020-03-29
 author: Benjamin Parry
-posse: 📝 A list of UX research questions.
+posse: A list of UX research questions.
 notes: false
 published: false
 type: post

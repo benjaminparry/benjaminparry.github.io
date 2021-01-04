@@ -2,7 +2,7 @@
 title: Sushi fillings and Japanese food recipes
 date: 2021-01-02
 author: Benjamin Parry
-posse: 📝 A list of tried and tested sushi fillings and Japanese food recipes
+posse: A list of tried and tested sushi fillings and Japanese food recipes
 category: lists
 type: post
 tags: [food, sushi]
