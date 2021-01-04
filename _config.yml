@@ -26,7 +26,7 @@ collections:
     permalink: /:collection/:path/
   making:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path
   my_tags:
     output: true
     permalink: /tagging/:name/

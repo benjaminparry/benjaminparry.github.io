@@ -5,9 +5,14 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 	<!-- What is? -->
-	<!-- <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"> -->
-	<!-- <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" /> -->
-	{% feed_meta %}
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+<!-- RSS feeds -->
+	<link rel="alternate" type="application/rss+xml" title="Writing" href="{{ "/feed/writing.xml" | prepend: site.baseurl | prepend: site.url }}" />
+	<link rel="alternate" type="application/rss+xml" title="Links" href="{{ "/feed/links.xml" | prepend: site.baseurl | prepend: site.url }}" />
+	<link rel="alternate" type="application/rss+xml" title="Thoughs" href="{{ "/feed/thoughts.xml" | prepend: site.baseurl | prepend: site.url }}" />
+	<link rel="alternate" type="application/rss+xml" title="Lists" href="{{ "/feed/lists.xml" | prepend: site.baseurl | prepend: site.url }}" />
+
 
 	<!-- Search Engines -->
 	<meta name="google-site-verification" content="F5f44JohY3PYyKKneuvom64vEJLFU-Sz3B_4sxe4sT4" />

@@ -3,7 +3,7 @@ type: post
 title: "Microsoft accessibility video training"
 date: 2020-12-04
 categories: links
-tags: [xxx, xxx]
+tags: [accessibility]
 posse: "Microsoft’s video course for making documents more accessible in Microsoft products."
 published: true
 author: Microsoft

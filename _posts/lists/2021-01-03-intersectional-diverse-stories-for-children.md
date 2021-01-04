@@ -17,7 +17,7 @@ _Note - This is an ongoing list. If you have any recommendations or spot any gap
 ## Films
 
 * [Home (2015)](https://www.commonsensemedia.org/movie-reviews/home) - A wonderful story about friendship, being wrong and making mistakes, individuality, understanding and accepting those that are different, love and loss, dealing with emotions. The protagonist is a strong, young female person of colour. Don’t let the reviews put you off, this was fantastic!
-* [Spider-Man: Into the Spider-Verse (2018)](https://www.commonsensemedia.org/movie-reviews/spider-man-into-the-spider-verse) - This is a stonker of a film! The visual lusciousness, wonderfully rich universe and bangin’ soundtrack are all unmatched in the long list of superhero films. A story about family relationships, masculinity, loss, right and wrong, finding your voice, teamwork. The protagonist is a young male person of colour as he navigates an array of male relationships and what it means to become a young man.
+* [Spider-Man: Into the Spider-Verse (2018)](https://www.commonsensemedia.org/movie-reviews/spider-man-into-the-spider-verse) - This is a stonker of a film! The visual lusciousness, wonderfully rich universe and bangin’ soundtrack are all unmatched amongst the long list of superhero films. A story about family relationships, masculinity, loss, right and wrong, finding your voice, teamwork. The protagonist is a young male person of colour as he navigates an array of male relationships and what it means to become a young man.
 
 ## TV
 
