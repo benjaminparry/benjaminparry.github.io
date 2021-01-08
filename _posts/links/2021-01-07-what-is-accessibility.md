@@ -3,7 +3,7 @@ type: post
 title: "What is Accessibility?"
 date: 2021-01-07
 categories: links
-tags: [xxx, xxx]
+tags: [accessibility]
 posse: "The first of @HugoGiraudel’s 25 accessibility posts from their 2020 A11y Advent Calendar. This post offers a brief overview of what accessibility is."
 published: true
 author: "Hugo “Kitty” Giraudel"
