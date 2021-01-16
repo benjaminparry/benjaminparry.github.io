@@ -1,6 +1,7 @@
 ---
 title: "Intersectional and diverse stories for children and young adults"
 date: 2021-01-03
+updated: 2021-01-16
 author: Benjamin Parry
 posse: A list of books, TV, films, comics suitable for children and young adults to introduce the concept of intersectionality and diversity.
 category: lists
@@ -18,6 +19,7 @@ _Note - This is an ongoing list. If you have any recommendations or spot any gap
 
 * [Home (2015)](https://www.commonsensemedia.org/movie-reviews/home) - A wonderful story about friendship, being wrong and making mistakes, individuality, understanding and accepting those that are different, love and loss, dealing with emotions. The protagonist is a strong, young female person of colour. Don’t let the reviews put you off, this was fantastic!
 * [Spider-Man: Into the Spider-Verse (2018)](https://www.commonsensemedia.org/movie-reviews/spider-man-into-the-spider-verse) - This is a stonker of a film! The visual lusciousness, wonderfully rich universe and bangin’ soundtrack are all unmatched amongst the long list of superhero films. A story about family relationships, masculinity, loss, right and wrong, finding your voice, teamwork. The protagonist is a young male person of colour as he navigates an array of male relationships and what it means to become a young man.
+* [The Speed Cubers](https://www.commonsensemedia.org/movie-reviews/the-speed-cubers) - A truly inspiring true story about autism, dedicated parenting, and the emotions of competition and friendship. The story follows two young men, one with autism and his long-time competition rival and role model, on their emotional journey of winning and losing.
 
 ## TV
 
