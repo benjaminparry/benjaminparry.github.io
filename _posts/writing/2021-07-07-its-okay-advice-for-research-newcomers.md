@@ -31,7 +31,7 @@ It’s okay if you need to wait for the answers to your questions. Give people t
 
 ## Silence is golden
 
-Get comfortable with silence, that’s where the magic happens. You can use it to your advantage during your interview by allowing people to to fill it for you. Trailing off and half finished questions are useful prompts e.g. ”You do thought that because…” or “The reason for that is…”.
+Get comfortable with silence, that’s where the magic happens. You can use it to your advantage during your interview by allowing people to to fill it for you. Trailing off and half finished questions are useful prompts e.g. ”You thought that because…” or “The reason for that is…”.
 
 ## Building rapport
 
