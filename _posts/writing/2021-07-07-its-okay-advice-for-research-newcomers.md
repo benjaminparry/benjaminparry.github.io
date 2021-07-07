@@ -27,6 +27,8 @@ Get consent from the participant before recording, if you have the luxury transc
 
 It’s okay if you need to wait for the answers to your questions. Give people time to think, don’t rush them or interrupt them. They may talk about something that seems entirely unrelated for what seems like an age, but it’s okay, it may well lead to a golden nugget. The participant should be doing the majority of the talking - think the Pacman rule.
 
+> The Pacman rule: your participant should be talking for at least 80% of the session, leaving you the other 20%. If you were to represent these percentages as a pie chart it would resemble the shape of [Pacman](https://duckduckgo.com/?q=pacman&kp=1&t=ffab&iax=images&ia=images).
+
 ## Silence is golden
 
 Get comfortable with silence, that’s where the magic happens. You can use it to your advantage during your interview by allowing people to to fill it for you. Trailing off and half finished questions are useful prompts e.g. ”You do thought that because…” or “The reason for that is…”.
