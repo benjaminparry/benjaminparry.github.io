@@ -17,7 +17,7 @@ Rather than leaving my thoughts locked away in the walled garden of Slack, I tho
 
 ## Note-taking
 
-It’s okay if you feel overwhelmed trying to run the interview and take notes at the same time. It’s impossible to do both and do a good job. Instead try to find someone on your team to take notes so you can focus on the conversation with your participant. Make minimal notes of points in the conversation that are interesting or want to return to. Find your own your preferred method – I find structuring the conversation flow using mindmaps, branching out from a central topic. I also capture keywords and timestamps. I prefer analogue over digital capturing during a session. Another option is to record the session and listen back later, but only do that once you gain consent from your participant.
+It’s okay if you feel overwhelmed trying to run the interview and take notes at the same time. It’s impossible to do both and still do a good job. Instead try to find someone on your team to take notes. That leaves you to focus on the conversation with your participant. Make minimal notes that allow you to come back to interesting parts of the conversation you want to clarify or ask further questions. Find your own your preferred method of taking notes. I find structuring the conversation flow using mindmaps useful. Branching out from a central topic allows me to track the converation flow, thinking styles and make connections between nodes. I also capture keywords and timestamps. I prefer analogue over digital capturing during a session. I find the it is less distracting for the participant and has fewer points of failure. Another option is to record the session and listen back later, but only do that once you gain consent from your participant.
 
 ## Informed consent
 
@@ -25,7 +25,7 @@ Get consent from the participant before recording, if you have the luxury transc
 
 ## Conversation etiquette
 
-It’s okay if you need to wait for the answers to your questions. Give people time to think, don’t rush them or interrupt them. They may talk about something that seems entirely unrelated for what seems like an age, but it’s okay, it may well lead to a golden nugget. The participant should be doing the majority of the talking - think the Pacman rule.
+It’s okay if you need to wait for the answers to your questions. Give people time to think, don’t rush or interrupt them. The participant should be doing the majority of the talking - think the Pacman rule. They may talk about something that seems entirely unrelated for what seems like an age, but it’s okay, it may lead to a golden nugget.
 
 > The Pacman rule: your participant should be talking for at least 80% of the session, leaving you the other 20%. If you were to represent these percentages as a pie chart it would resemble the shape of [Pacman](https://duckduckgo.com/?q=pacman&kp=1&t=ffab&iax=images&ia=images).
 
