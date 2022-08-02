@@ -7,8 +7,6 @@ published: true
 type: post
 ---
 
-# Pain in the arse
-
 One of the benefits of working at [Clearleft](https://clearleft.com/) is the gift of a 4 week sabbatical after 5 years of service. It’s a wonderful recognition of your ongoing hard work and commitment to the company and clients.
 
 The timing couldn’t have been better. The emotional and physical demands of the pandemic. The high demand for research and fast pace of agency life. The transition of key life stages as a family. I am ready for a break.
