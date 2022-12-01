@@ -18,11 +18,11 @@ Twitter: how it started, how it’s going.
 
 Over the last 12 years, Twitter has been an indispensable platform for growing as a practitioner and transitioning from front-end development to UX and then specialising in design research. During that time I’ve connected with really smart people, scuffled with strangers, and shared random brain-farts.
 
-My fondness for the platform has slowly been chipping away; the API change that removed the RSS feed, the constant ‘latest tweets’ feed switching, the arrival of ads, lies and hate. With this latest fiasco and the murmuration of users leaving, I decided enough was enough.
+My fondness for the platform has slowly been pecked away; the API change that removed the RSS feed, the constant ‘latest tweets’ feed switching, the arrival of ads, lies and hate. With this latest fiasco and the murmuration of users leaving, I decided enough was enough.
 
 I’ve downloaded an archive of my account and will probably make a few posts to promote the UXup meetup I help to co-organise. Some people have taken the more drastic decision to delete their data and account. I might do that at some point.
 
-The decision was rather liberating. I deleted my Instagram account a year or two ago and this has similar feeling of relief. Though in the moment of blissful quite there was a distant chirp of fear of missing out. What about Mastodon?
+The decision was rather liberating. I deleted my Instagram account a year or two ago and this has similar feeling of relief. Through the blissful quiet came a distant chirp of fear of missing out. What about Mastodon?
 
 It turns out I had signed up for an account six years ago and was already following a few of those really smart people. Over the past couple of weeks I’ve not done much else on it and frankly that’s the way it should be. My feed is slow, the content is relevant, the people have their hearts in the right place.
 
