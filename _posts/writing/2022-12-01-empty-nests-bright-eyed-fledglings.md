@@ -10,7 +10,7 @@ type: post
 Reading what has been happening at Twitter HQ over the past few weeks is astonishing. Musk’s parasitic behaviour to his new employees and users reminds me of a bloated cuckoo crushing it’s newly occupied nest. His public arrogance makes it all the more sickening.
 
 <figure>
-<img src="/assets/img/writing/2022-12/Twitter.jpeg" alt="The original Twitter logo of a blue bird alongside an evil and ugly Skeksis from the Dark Crystal.">
+<img src="/assets/img/writing/2022-12/twitter.jpeg" alt="The original Twitter logo of a blue bird alongside an evil and ugly Skeksis from the Dark Crystal.">
 <figcaption>
 Twitter: how it started, how it’s going.
 </figcaption>
