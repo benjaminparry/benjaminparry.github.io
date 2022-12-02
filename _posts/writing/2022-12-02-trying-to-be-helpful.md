@@ -7,7 +7,7 @@ published: true
 type: post
 ---
 
-I returned to the Clearleft office this week after 2 weeks annual leave. My first face-to-face interaction, albeit through a screen, was with Jeremy for our fortnightly peer-to-peer 1:1. I love chatting with Jeremy, he’s a throughly good egg.
+I returned to the Clearleft office this week after 2 weeks annual leave. My first face-to-face interaction, albeit through a screen, was with Jeremy for our fortnightly peer-to-peer 1:1. I love chatting with Jeremy, he’s a thoroughly good egg.
 
 In this week’s brief chat he mentioned that he was [meeting up with a recent UX and UI design graduate from Ukraine](https://adactio.com/notes/19700) who had recently moved to Lewes. He recommended that they attend the UXup Christmas social as a way to get to know some local designers and get some advice with next steps career advice. Unfortunately I couldn’t attend myself but I wanted to welcome them to the design community and the city of Lewes.
 
