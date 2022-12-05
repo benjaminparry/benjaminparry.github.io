@@ -7,4 +7,6 @@ published: true
 type: post
 ---
 
+Musing over Jeremy’s Declarative Design talk runthrough and it hit me…
+
 Progressively enhance your life. Become fault tolerant today!
