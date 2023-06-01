@@ -8,10 +8,6 @@ project-url-site:
 updated: 2023-06-01
 ---
 
-# Mixtape 1 - ミックステープ 1
-
-A music mixtape to help with Japanese language immersion.
-
 ## Tracklist
 
 | Track no. | Track name              | Artist                     |
