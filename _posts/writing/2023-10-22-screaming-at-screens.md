@@ -42,4 +42,4 @@ As a reaction to the nebula of services and data I’m working in my own system 
 
 Obsidian is a great example ‘Do one thing and do it well’. It’s core feature set is relatively small but can be customised by a huge volume of community-created plugins. It’s offline-first so I’m not tied to an internet connection. Files are saved as Markdown files so it’s future friendly.
 
-Over the past year I’ve bending and twisting it to suit my needs, resisting the urge to feed systems my data and slowly retiring them outright.
+Over the past year I’ve bendt and twisted it to suit my needs, resisting the urge to feed other systems my data and slowly retiring them outright.
